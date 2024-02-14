@@ -30,7 +30,7 @@
         "ff": 5,
         "weapons": [
           "Power Weapon",
-          "Autocannon"
+          "Maschinenkanone"
         ],
         "specialRules": [
           "Supreme Commander"
@@ -44,7 +44,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Stubber|2|",
+          "Schweres Maschinengewehr|2|",
           "Power Weapon"
         ],
         "specialRules": [
@@ -59,7 +59,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Stubber|2|",
+          "Schweres Maschinengewehr|2|",
           "Power Weapon"
         ],
         "specialRules": [
@@ -117,7 +117,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Bolter",
+          "Schwerer Bolter",
           "Flamer",
           "Power Weapon"
         ],
@@ -165,7 +165,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Autocannon"
+          "Maschinenkanone"
         ],
         "specialRules": [
           "Commander"
@@ -179,7 +179,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Stubber|2|"
+          "Schweres Maschinengewehr|2|"
         ],
         "specialRules": [
           "Commander"
@@ -193,7 +193,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Bolter",
+          "Schwerer Bolter",
           "Flamer"
         ],
         "specialRules": [
@@ -208,7 +208,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Stubber|2|"
+          "Schweres Maschinengewehr|2|"
         ],
         "specialRules": [
           "Commander"
@@ -234,7 +234,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
           "Commander"
@@ -288,12 +288,12 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Autocannon",
+          "Maschinenkanone",
           "Lasguns"
         ],
         "specialRules": [
         ],
-        "notes": "One in every two units (rounding up) has an Autocannon"
+        "notes": "One in every two units (rounding up) has an Maschinenkanone"
       },
       {
         "name": "Tank Infantry",
@@ -316,12 +316,12 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Bolter",
+          "Schwerer Bolter",
           "Flamer"
         ],
         "specialRules": [
         ],
-        "notes": "One in every two units (rounding up) has a Heavy Bolter"
+        "notes": "One in every two units (rounding up) has a Schwerer Bolter"
       },
       {
         "name": "PDF Infantry",
@@ -330,12 +330,12 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Stubber",
-          "Autoguns"
+          "Schweres Maschinengewehr",
+          "Automatikgewehr"
         ],
         "specialRules": [
         ],
-        "notes": "One in every two units (rounding up) has a Heavy Stubber"
+        "notes": "One in every two units (rounding up) has a Schweres Maschinengewehr"
       },
       {
         "name": "Siege Infantry",
@@ -344,7 +344,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Stubber",
+          "Schweres Maschinengewehr",
           "Lasguns"
         ],
         "specialRules": [
@@ -358,7 +358,7 @@
         "ff": 5,
         "weapons": [
           "Lasguns",
-          "Bayonets"
+          "Bayonette"
         ],
         "specialRules": [
         ]
@@ -421,7 +421,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Flakk Missile Launcher|2|"
+          "Flakk Raketenwerfer|2|"
         ],
         "specialRules": [
         ]
@@ -599,7 +599,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Autocannon|2|"
+          "Maschinenkanone|2|"
         ],
         "specialRules": [
         ]
@@ -611,7 +611,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Heavy Stubber|2|",
+          "Schweres Maschinengewehr|2|",
           "Heavy Flamer"
         ],
         "specialRules": [
@@ -625,7 +625,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Missile Launcher"
+          "Raketenwerfer"
         ],
         "specialRules": [
           "Grav-Chutes"
@@ -702,7 +702,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Autocannon"
+          "Maschinenkanone"
         ],
         "specialRules": [
           "Scout",
@@ -775,7 +775,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Autocannon"
+          "Synchronisierter Maschinenkanone"
         ]
       },
       {
@@ -786,7 +786,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber Turret"
+          "Synchronisierter schweres Maschinengewehr Turm"
         ],
         "specialRules": [
         ]
@@ -814,8 +814,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Autocannon",
-          "Heavy Bolter"
+          "Maschinenkanone",
+          "Schwerer Bolter"
         ],
         "specialRules": [
           "Scout"
@@ -829,8 +829,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Autocannon",
-          "Heavy Bolter"
+          "Maschinenkanone",
+          "Schwerer Bolter"
         ],
         "specialRules": [
           "Transport"
@@ -846,7 +846,7 @@
         "ff": 5,
         "weapons": [
           "Multilaser",
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
           "Transport"
@@ -862,7 +862,7 @@
         "ff": 5,
         "weapons": [
           "Heavy Flamer",
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
           "Walker",
@@ -879,7 +879,7 @@
         "ff": 3,
         "weapons": [
           "Inferno Cannon",
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
         ]
@@ -893,7 +893,7 @@
         "ff": 5,
         "weapons": [
           "Chem Gun",
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
           "Walker"
@@ -908,7 +908,7 @@
         "ff": 5,
         "weapons": [
           "Melta Cannon",
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
           "Walker"
@@ -922,7 +922,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Heavy Stubber"
+          "Schweres Maschinengewehr"
         ],
         "specialRules": [
           "Transport"
@@ -937,7 +937,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Assault Cannon"
+          "Synchronisierter Sturmkanone"
         ],
         "specialRules": [
           "Walker",
@@ -953,7 +953,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Heavy Stubber"
+          "Schweres Maschinengewehr"
         ],
         "specialRules": [
           "Transport: One Infantry unit, and one Rapier or Thudd Gun"
@@ -967,7 +967,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
           "Transport: One Earthshaker Gun or Heavy AA Gun"
@@ -981,8 +981,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Deathstrike Missile",
-          "Heavy Bolter"
+          "Deathstrike Rakete",
+          "Schwerer Bolter"
         ],
         "specialRules": [
         ]
@@ -993,7 +993,7 @@
         "speed": "Immobile",
         "armour": 5,
         "weapons": [
-          "Deathstrike Missile|2"
+          "Deathstrike Rakete|2"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -1010,7 +1010,7 @@
         "ff": 5,
         "weapons": [
           "Heavy Mortar",
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
         ]
@@ -1039,7 +1039,7 @@
         "ff": 5,
         "weapons": [
           "Earthshaker Cannon",
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
         ]
@@ -1053,7 +1053,7 @@
         "ff": 5,
         "weapons": [
           "Siege Mortar",
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
         ]
@@ -1067,7 +1067,7 @@
         "ff": 5,
         "weapons": [
           "Medusa Siege Gun",
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
         ]
@@ -1144,7 +1144,7 @@
         "ff": 5,
         "weapons": [
           "Rocket Launcher",
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
         ]
@@ -1157,8 +1157,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Hydra Autocannon|2",
-          "Heavy Bolter"
+          "Synchronisierter Hydra Maschinenkanone|2",
+          "Schwerer Bolter"
         ],
         "specialRules": [
         ]
@@ -1181,8 +1181,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Ragnarok Battle Cannon",
-          "Heavy Stubber|2|"
+          "Ragnarok Kampfgeschütz",
+          "Schweres Maschinengewehr|2|"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -1197,9 +1197,9 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Battle Cannon",
-          "Lascannon",
-          "Heavy Bolter|2|"
+          "Kampfgeschütz",
+          "Laserkanone",
+          "Schwerer Bolter|2|"
         ],
         "specialRules": [
           "Reinforced Armour"
@@ -1213,8 +1213,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Lascannon",
-          "Lascannon",
+          "Synchronisierte Laserkanone",
+          "Laserkanone",
           "Multi-Melta|2|"
         ],
         "specialRules": [
@@ -1229,9 +1229,9 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Autocannon",
+          "Synchronisierter Maschinenkanone",
           "Heavy Flamer",
-          "Heavy Bolter|2|"
+          "Schwerer Bolter|2|"
         ],
         "specialRules": [
           "Reinforced Armour"
@@ -1246,7 +1246,7 @@
         "ff": 5,
         "weapons": [
           "Plasma Destroyer",
-          "Lascannon",
+          "Laserkanone",
           "Plasma Cannon|2|"
         ],
         "specialRules": [
@@ -1277,7 +1277,7 @@
         "ff": 4,
         "weapons": [
           "Conqueror Cannon",
-          "Heavy Bolter|3|"
+          "Schwerer Bolter|3|"
         ],
         "specialRules": [
           "Reinforced Armour"
@@ -1292,7 +1292,7 @@
         "ff": 3,
         "weapons": [
           "Demolisher",
-          "Lascannon",
+          "Laserkanone",
           "Plasma Cannon|2|"
         ],
         "specialRules": [
@@ -1323,8 +1323,8 @@
         "ff": 4,
         "weapons": [
           "Vanquisher Cannon",
-          "Lascannon",
-          "Heavy Bolter|2|"
+          "Laserkanone",
+          "Schwerer Bolter|2|"
         ],
         "specialRules": [
           "Reinforced Armour"
@@ -1339,8 +1339,8 @@
         "ff": 3,
         "weapons": [
           "Punisher Gatling Cannon",
-          "Lascannon",
-          "Heavy Bolter|2|"
+          "Laserkanone",
+          "Schwerer Bolter|2|"
         ],
         "specialRules": [
           "Reinforced Armour"
@@ -1356,7 +1356,7 @@
         "weapons": [
           "Rocket Pods",
           "Multilaser",
-          "Heavy Bolter|2|"
+          "Schwerer Bolter|2|"
         ],
         "specialRules": [
           "Skimmer",
@@ -1372,7 +1372,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
           "Skimmer",
@@ -1388,9 +1388,9 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Hellstrike Missiles|2|",
-          "Twin Autocannon",
-          "Heavy Bolter"
+          "Hellstrike Raketen|2|",
+          "Synchronisierter Maschinenkanone",
+          "Schwerer Bolter"
         ],
         "specialRules": [
           "Skimmer",
@@ -1405,8 +1405,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Lascannon|3|",
-          "Heavy Bolter|2|"
+          "Synchronisierte Laserkanone|3|",
+          "Schwerer Bolter|2|"
         ],
         "specialRules": [
           "Skimmer",
@@ -1422,8 +1422,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Battle Cannon",
-          "Heavy Bolter|3|"
+          "Kampfgeschütz",
+          "Schwerer Bolter|3|"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -1438,9 +1438,9 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon",
+          "Synchronisierte Laserkanone",
           "Demolisher",
-          "Heavy Stubber|2|"
+          "Schweres Maschinengewehr|2|"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -1456,7 +1456,7 @@
         "ff": 4,
         "weapons": [
           "Demolisher",
-          "Heavy Bolter Array"
+          "Schwerer Bolter Array"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -1471,7 +1471,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Bolter|2",
+          "Schwerer Bolter|2",
           "Praetor Heavy Assault Launcher"
         ],
         "specialRules": [
@@ -1485,7 +1485,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Bolter|4"
+          "Schwerer Bolter|4"
         ],
         "specialRules": [
           "Transport"
@@ -1500,7 +1500,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Twin Earthshaker Cannon"
+          "Synchronisierter Earthshaker Cannon"
         ],
         "specialRules": [
         ],
@@ -1514,9 +1514,9 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Battle Cannon",
-          "Twin Heavy Stubber",
-          "Heavy Bolter|2|"
+          "Synchronisiertes Kampfgeschütz",
+          "Synchronisierter schweres Maschinengewehr",
+          "Schwerer Bolter|2|"
         ],
         "specialRules": [
           "Reinforced Armour"
@@ -1530,16 +1530,16 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Vanquisher Cannon|0-1|",
+          "Synchronisierter Vanquisher Cannon|0-1|",
           "Vulcan Mega-Bolter|0-1|",
-          "Twin Heavy Stubber||",
-          "Heavy Bolter|2|"
+          "Synchronisierter schweres Maschinengewehr||",
+          "Schwerer Bolter|2|"
         ],
         "specialRules": [
           "Damage Capacity 2",
           "Reinforced Armour"
         ],
-        "notes": "Must be equipped with either Twin Vanquisher Cannon or a Vulcan Mega-Bolter.",
+        "notes": "Must be equipped with either Synchronisierter Vanquisher Cannon or a Vulcan Mega-Bolter.",
         "crit": "The Macharius is destroyed."
       },
       {
@@ -1550,8 +1550,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Ragnarok Battle Cannon",
-          "Twin Heavy Stubber|3|FxF"
+          "Synchronisierter Ragnarok Kampfgeschütz",
+          "Synchronisierter schweres Maschinengewehr|3|FxF"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -1568,7 +1568,7 @@
         "ff": 4,
         "weapons": [
           "Medusa Siege Gun||FxF",
-          "Twin Heavy Stubber|3|"
+          "Synchronisierter schweres Maschinengewehr|3|"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -1585,7 +1585,7 @@
         "ff": 5,
         "weapons": [
           "Planetary Defense Laser",
-          "Twin Heavy Stubber|3|"
+          "Synchronisierter schweres Maschinengewehr|3|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1601,7 +1601,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Twin Heavy Stubber|4|"
+          "Synchronisierter schweres Maschinengewehr|4|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1620,11 +1620,11 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Baneblade Cannon",
-          "Autocannon",
+          "Banebladegeschütz",
+          "Maschinenkanone",
           "Demolisher||FxF",
-          "Lascannon|2|FxF",
-          "Twin Heavy Bolter|3|FxF"
+          "Laserkanone|2|FxF",
+          "Synchronisierter schwerer Bolter|3|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1641,9 +1641,9 @@
         "ff": 3,
         "weapons": [
           "Hellhammer Cannon",
-          "Autocannon",
+          "Maschinenkanone",
           "Demolisher||FxF",
-          "Twin Heavy Bolter|3|FxF",
+          "Synchronisierter schwerer Bolter|3|FxF",
           "Heavy Flamer|2|"
         ],
         "specialRules": [
@@ -1661,8 +1661,8 @@
         "ff": 4,
         "weapons": [
           "Vulcan Mega-Bolter||FxF",
-          "Twin Heavy Bolter||FxF",
-          "Twin Heavy Flamer  |2|"
+          "Synchronisierter schwerer Bolter||FxF",
+          "Synchronisierter Heavy Flamer  |2|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1681,7 +1681,7 @@
         "ff": 4,
         "weapons": [
           "Tremor Cannon||FxF",
-          "Twin Heavy Bolter|2|FxF"
+          "Synchronisierter schwerer Bolter|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1698,8 +1698,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Volcano Cannon||FxF",
-          "Twin Heavy Bolter|2|FxF"
+          "Vulkangeschütz||FxF",
+          "Synchronisierter schwerer Bolter|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1716,8 +1716,8 @@
         "ff": 4,
         "weapons": [
           "Stormblade Blastgun||FxF",
-          "Lascannon|2|FxF",
-          "Twin Heavy Bolter|3|FxF"
+          "Laserkanone|2|FxF",
+          "Synchronisierter schwerer Bolter|3|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1734,7 +1734,7 @@
         "ff": 4,
         "weapons": [
           "Siege Cannon||FxF",
-          "Twin Heavy Bolter|3|FxF",
+          "Synchronisierter schwerer Bolter|3|FxF",
           "Heavy Flamer |2|"
         ],
         "specialRules": [
@@ -1751,10 +1751,10 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Twin Ragnarok Battle Cannon||",
-          "Twin Ragnarok Battle Cannon||FxF",
-          "Quad Lascannon||FxF",
-          "Quad Heavy Bolter|2|FwA"
+          "Synchronisierter Ragnarok Kampfgeschütz||",
+          "Synchronisierter Ragnarok Kampfgeschütz||FxF",
+          "Doppeltsynchronisierte Laserkanone||FxF",
+          "Doppeltsynchronisierter schwerer Bolter|2|FwA"
         ],
         "specialRules": [
           "Damage Capacity 3",

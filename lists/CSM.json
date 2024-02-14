@@ -396,7 +396,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Autocannon"
+          "Maschinenkanone"
         ],
         "specialRules": [
           "Stubborn"
@@ -410,7 +410,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Autocannon"
+          "Maschinenkanone"
         ]
       },
       {
@@ -444,7 +444,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Bolters and Boarding Shields"
+          "Bolter and Boarding Shields"
         ]
       },
       {
@@ -467,7 +467,7 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Autocannon|2|"
+          "Maschinenkanone|2|"
         ]
       },
       {
@@ -500,7 +500,7 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Autocannon|2|"
+          "Maschinenkanone|2|"
         ],
         "specialRules": [
           "Stubborn"
@@ -514,7 +514,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Autocannon"
+          "Maschinenkanone"
         ],
         "specialRules": [
           "Scout"
@@ -542,8 +542,8 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Heavy Bolter",
-          "Banestrike Combi-Bolters"
+          "Schwerer Bolter",
+          "Banestrike Kombi-Bolter"
         ],
         "specialRules": [
           "Stubborn",
@@ -561,7 +561,7 @@
         "ff": 4,
         "weapons": [
           "Plasma Pistols",
-          "Chainswords"
+          "Kettenschwerter"
         ],
         "specialRules": [
           "Jump Packs"
@@ -576,7 +576,7 @@
         "ff": 4,
         "weapons": [
           "Plasma Guns",
-          "Chainswords"
+          "Kettenschwerter"
         ],
         "specialRules": [
           "Jump Packs"
@@ -590,7 +590,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Bolt Pistols",
+          "Boltpistolen",
           "Iconoclast Axes"
         ],
         "specialRules": [
@@ -605,7 +605,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Rad Missile Launchers"
+          "Rad Rakete Launchers"
         ],
         "specialRules": [
           "Jump Packs"
@@ -619,7 +619,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Rad Missile Launchers"
+          "Rad Rakete Launchers"
         ],
         "specialRules": [
           "Jump Packs"
@@ -633,7 +633,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Rad Missile Launchers"
+          "Rad Rakete Launchers"
         ],
         "specialRules": [
           "Stubborn",
@@ -676,7 +676,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Bolters",
+          "Bolter",
           "Plague Knives"
         ],
         "specialRules": [
@@ -691,7 +691,7 @@
         "cc": 2,
         "ff": 5,
         "weapons": [
-          "Bolt Pistols",
+          "Boltpistolen",
           "Chain Axes"
         ],
         "specialRules": [
@@ -706,7 +706,7 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Inferno Bolters"
+          "Inferno Bolter"
         ],
         "specialRules": [
           "Fearless"
@@ -752,7 +752,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Reaper Autocannon|2|",
+          "Reaper Maschinenkanone|2|",
           "Power Weapons"
         ],
         "specialRules": [
@@ -769,7 +769,7 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Combi-Bolters",
+          "Kombi-Bolter",
           "Lightning Claws"
         ],
         "specialRules": [
@@ -786,7 +786,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Cyclone Missile Launchers",
+          "Cyclone Rakete Launchers",
           "Power Weapons"
         ],
         "specialRules": [
@@ -839,7 +839,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Reaper Autocannon|2|",
+          "Reaper Maschinenkanone|2|",
           "Power Weapons"
         ],
         "specialRules": [
@@ -857,7 +857,7 @@
         "cc": 2,
         "ff": 3,
         "weapons": [
-          "Combi-Meltas",
+          "Kombi-Melter",
           "Lightning Claws"
         ],
         "specialRules": [
@@ -875,7 +875,7 @@
         "cc": 3,
         "ff": 2,
         "weapons": [
-          "Inferno Combi-Bolters",
+          "Inferno Kombi-Bolter",
           "Power Weapons"
         ],
         "specialRules": [
@@ -941,8 +941,8 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Combi-Bolters",
-          "Chainswords"
+          "Kombi-Bolter",
+          "Kettenschwerter"
         ],
         "specialRules": [
           "Mounted"
@@ -956,7 +956,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Reaper Autocannon"
+          "Reaper Maschinenkanone"
         ]
       },
       {
@@ -967,7 +967,7 @@
         "cc": 2,
         "ff": 5,
         "weapons": [
-          "Bolt Pistols",
+          "Boltpistolen",
           "Chain Axes"
         ],
         "specialRules": [
@@ -983,7 +983,7 @@
         "cc": 2,
         "ff": 5,
         "weapons": [
-          "Bolt Pistols",
+          "Boltpistolen",
           "Juggernaut"
         ],
         "specialRules": [
@@ -1001,7 +1001,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Combi-Bolter"
+          "Kombi-Bolter"
         ],
         "specialRules": [
           "Transport"
@@ -1016,7 +1016,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Combi-Bolter"
+          "Kombi-Bolter"
         ],
         "specialRules": [
           "Walker",
@@ -1032,7 +1032,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Combi-Bolter"
+          "Kombi-Bolter"
         ],
         "specialRules": [
           "Stubborn",
@@ -1048,7 +1048,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Combi-Bolter"
+          "Kombi-Bolter"
         ],
         "specialRules": [
           "Transport"
@@ -1078,7 +1078,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Combi-Melta"
+          "Kombi-Melter"
         ],
         "specialRules": [
           "Transport"
@@ -1093,7 +1093,7 @@
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Combi-Bolter",
+          "Kombi-Bolter",
           "Coruscating Flames"
         ],
         "specialRules": [
@@ -1109,8 +1109,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2|",
-          "Twin Heavy Bolter"
+          "Synchronisierte Laserkanone|2|",
+          "Synchronisierter schwerer Bolter"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -1127,8 +1127,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2|",
-          "Twin Heavy Bolter"
+          "Synchronisierte Laserkanone|2|",
+          "Synchronisierter schwerer Bolter"
         ],
         "specialRules": [
           "Stubborn",
@@ -1146,7 +1146,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2|",
+          "Synchronisierte Laserkanone|2|",
           "Blastmaster"
         ],
         "specialRules": [
@@ -1164,8 +1164,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2|",
-          "Twin Heavy Bolter"
+          "Synchronisierte Laserkanone|2|",
+          "Synchronisierter schwerer Bolter"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -1183,7 +1183,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Reaper Autocannon|2|"
+          "Reaper Maschinenkanone|2|"
         ],
         "specialRules": [
           "Walker",
@@ -1201,7 +1201,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2|",
+          "Synchronisierte Laserkanone|2|",
           "Heavy Warpflamer"
         ],
         "specialRules": [
@@ -1219,8 +1219,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon",
-          "Heavy Bolter|2|"
+          "Synchronisierte Laserkanone",
+          "Schwerer Bolter|2|"
         ]
       },
       {
@@ -1232,7 +1232,7 @@
         "ff": 3,
         "weapons": [
           "Predator Cannon",
-          "Heavy Bolter|2|"
+          "Schwerer Bolter|2|"
         ],
         "specialRules": [
           "Stubborn"
@@ -1246,7 +1246,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon",
+          "Synchronisierte Laserkanone",
           "Blastmaster|2|"
         ]
       },
@@ -1258,8 +1258,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon",
-          "Twin Warpflamer"
+          "Synchronisierte Laserkanone",
+          "Synchronisierter Warpflamer"
         ]
       },
       {
@@ -1270,8 +1270,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Accelerator Autocannon",
-          "Heavy Bolter|3|"
+          "Synchronisierter Accelerator Maschinenkanone",
+          "Schwerer Bolter|3|"
         ],
         "specialRules": [
           "Stubborn",
@@ -1287,7 +1287,7 @@
         "ff": 5,
         "weapons": [
           "Earthshaker Cannon",
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
         ]
@@ -1301,7 +1301,7 @@
         "ff": 5,
         "weapons": [
           "Heavy Mortar",
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
         ]
@@ -1315,7 +1315,7 @@
         "ff": 5,
         "weapons": [
           "Medusa Phospex Gun",
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
         ]
@@ -1384,7 +1384,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Hades Autocannon"
+          "Hades Maschinenkanone"
         ]
       },
       {
@@ -1395,7 +1395,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Hades Autocannon"
+          "Hades Maschinenkanone"
         ],
         "specialRules": [
         ]
@@ -1408,7 +1408,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Reaper Autocannon",
+          "Reaper Maschinenkanone",
           "Power Fist"
         ],
         "specialRules": [
@@ -1424,7 +1424,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Reaper Autocannon",
+          "Reaper Maschinenkanone",
           "Power Fist"
         ],
         "specialRules": [
@@ -1439,8 +1439,8 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Missile Launcher",
-          "Twin Lascannon"
+          "Raketenwerfer",
+          "Synchronisierte Laserkanone"
         ],
         "specialRules": [
           "Fearless",
@@ -1470,7 +1470,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Twin Heavy Bolter",
+          "Synchronisierter schwerer Bolter",
           "Heavy Flamer",
           "Siege Drill"
         ],
@@ -1519,7 +1519,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Twin Blight Launcher",
+          "Synchronisierter Blight Launcher",
           "Power Fist"
         ],
         "specialRules": [
@@ -1535,8 +1535,8 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Twin Reaper Autocannon|2|",
-          "Twin Heavy Flamer"
+          "Synchronisierter Reaper Maschinenkanone|2|",
+          "Synchronisierter Heavy Flamer"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -1554,7 +1554,7 @@
         "ff": 5,
         "weapons": [
           "Dreadhammer Siege Cannon",
-          "Lascannon|2|"
+          "Laserkanone|2|"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -1571,7 +1571,7 @@
         "ff": 4,
         "weapons": [
           "Siege Cannon||FxF",
-          "Twin Heavy Bolter|3|FxF",
+          "Synchronisierter schwerer Bolter|3|FxF",
           "Heavy Flamer |2|"
         ],
         "specialRules": [

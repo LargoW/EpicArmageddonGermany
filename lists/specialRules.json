@@ -99,7 +99,7 @@
       "title": "Ion Shield (x)",
       "description": [
         "Knights make use of Ion Shields to deflect shooting and firefight attacks. This allows them to make a saving throw on the number within brackets when they are hit by ranged fire instead of using their armour value.",
-        "No modifiers ever apply to this saving throw and it is unaffected by Macro-Weapon, Lance and Titan Killer hits (each point of damage from a Titan Killer hit must be saved separately. Is affected normally by hits with the Disrupt special rule). If the unit has Reinforced Armour as well then it is allowed to re-roll a failed save using its armour value unless the hit was a Macro-Weapon, Lance or Titan killer.",
+        "No modifiers ever apply to this saving throw and it is unaffected by Macro-Weapon, Lanze and Titan Killer hits (each point of damage from a Titan Killer hit must be saved separately. Is affected normally by hits with the Disrupt special rule). If the unit has Reinforced Armour as well then it is allowed to re-roll a failed save using its armour value unless the hit was a Macro-Weapon, Lanze or Titan killer.",
         "Ion Shields may only be used against shooting unless the unit is in a Crossfire, and against FF unless the hit is caused by a unit in support. They may not be used against CC attacks. If relevant, roll CC and FF dice separately when attacking units equipped with Ion Shields."
       ]
     },
@@ -583,22 +583,22 @@
       "title": "Holofields (x)",
       "description": [
         "Holofields provide a saving throw to the value of 'x'. This save may always be taken even against weapons with the Macro Weapon or Titan Killer abilities.",
-        "If a unit has Reinforced Armour it may use its re-roll unless hit by a Lance, Macro Weapon or Titan Killer attack but the re-roll uses the units armour value. Hits saved by the Holofield do not generate Blast Markers, even if they have the Disrupt ability.",
+        "If a unit has Reinforced Armour it may use its re-roll unless hit by a Lanze, Macro Weapon or Titan Killer attack but the re-roll uses the units armour value. Hits saved by the Holofield do not generate Blast Markers, even if they have the Disrupt ability.",
         "Against Titan Killer attacks that cause extra damage make one Holofield save roll, if this is successful the unit takes no damage, if the roll fails it suffers all the damage.",
         "Holofield saves can be reduced by modifiers such as the -1 to saves from a cross fire and weapons with the Sniper ability. If a unit with Holofield also has a save from being in Cover, it must choose which save to use."
       ]
     },
     {
-      "title": "Lance",
+      "title": "Lanze",
       "description": [
-        "When units with Reinforced Armour are hit by a weapon with the Lance ability they do not get to re-roll failed armour saves."
+        "When units with Reinforced Armour are hit by a weapon with the Lanze ability they do not get to re-roll failed armour saves."
       ]
     },
     {
       "title": "Independent Twins",
       "description": [
-        "Allows a formation of Revenant Titans to operate as two independent War Engines for all purposes, including for determining the army BTS. If one of the pair is destroyed, the surviving Revenant Twin receives a Blast Marker.",
-        "In addition, Independent Twins may use the Commander ability with its Twin. In this case, the Commander ability counts as having an unlimited range instead of the normal 5cm."
+        "Allows a formation of Revenant Titans to operate as two independent War Engines for all purposes, including for determining the army BTS. If one of the pair is destroyed, the surviving Revenant Synchronisierter receives a Blast Marker.",
+        "In addition, Independent Twins may use the Commander ability with its Synchronisierter. In this case, the Commander ability counts as having an unlimited range instead of the normal 5cm."
       ]
     },
     {
@@ -1018,7 +1018,7 @@
     {
       "title": "Claws Forever Red",
       "description": [
-        "In addition to being counted for suppression, Night Lords units may also use Small Arms to shoot. While incapable of doing direct damage, this will still inflict a Blast Marker on enemy formations that come under fire."
+        "In addition to being counted for suppression, Night Lords units may also use Handfeuerwaffen to shoot. While incapable of doing direct damage, this will still inflict a Blast Marker on enemy formations that come under fire."
       ]
     },
     {
@@ -1192,11 +1192,11 @@
       ]
     },
     {
-      "title": "Guided Missiles",
+      "title": "Guided Raketen",
       "description": [
-        "Guided Missiles may be fired without Line of Sight, but may only be fired at a targets that are Marked with Markerlights.",
-        "Guided Missiles follow all the normal suppression rules. If a unit with a Guided Missile weapon is within range and Line of Sight to a unit in the target formation then it is counted for suppression purposes, even if the target formation is not Marked.",
-        "Guided Missiles counts as having Line of Sight to all units in a Marked formation for the purpose of suppression, Crossfire and when shooting as part of an Overwatch action."
+        "Guided Raketen may be fired without Line of Sight, but may only be fired at a targets that are Marked with Markerlights.",
+        "Guided Raketen follow all the normal suppression rules. If a unit with a Guided Rakete weapon is within range and Line of Sight to a unit in the target formation then it is counted for suppression purposes, even if the target formation is not Marked.",
+        "Guided Raketen counts as having Line of Sight to all units in a Marked formation for the purpose of suppression, Crossfire and when shooting as part of an Overwatch action."
       ]
     },
     {

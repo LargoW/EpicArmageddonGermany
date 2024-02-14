@@ -76,7 +76,7 @@
         "ff": 5,
         "weapons": [
           "Splinter Cannon",
-          "Twin Splinter Rifle"
+          "Synchronisierter Splinter Rifle"
         ],
         "specialRules": [
           "Skimmer",
@@ -90,8 +90,8 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Twin Shuriken Cannon",
-          "AC Bright Lance|2"
+          "AC Synchronisierter Shuriken Cannon",
+          "AC Bright Lanze|2"
         ],
         "specialRules": [
           "Reinforced Armour"

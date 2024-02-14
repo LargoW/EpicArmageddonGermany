@@ -11,8 +11,8 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Twin Shuriken Cannon",
-          "AC Bright Lance|2"
+          "AC Synchronisierter Shuriken Cannon",
+          "AC Bright Lanze|2"
         ],
         "specialRules": [
           "Reinforced Armour"
@@ -24,7 +24,7 @@
         "speed": "Fighter",
         "armour": 4,
         "weapons": [
-          "AC Bright Lance|2|"
+          "AC Bright Lanze|2|"
         ],
         "specialRules": [
         ]
@@ -35,7 +35,7 @@
         "speed": "Fighter-Bomber",
         "armour": 5,
         "weapons": [
-          "AC Twin Shuriken Cannon",
+          "AC Synchronisierter Shuriken Cannon",
           "AC Pulse Laser",
           "AC Spinner Array"
         ],
@@ -81,8 +81,8 @@
         "speed": "Bomber",
         "armour": 5,
         "weapons": [
-          "AC Vampire Hunter Twin Pulsar",
-          "AC Twin Eldar Missile Launcher",
+          "AC Vampire Hunter Synchronisierter Pulsar",
+          "AC Synchronisierter Eldar Raketenwerfer",
           "AC Scatter Laser"
         ],
         "specialRules": [
@@ -97,8 +97,8 @@
         "speed": "Bomber",
         "armour": 5,
         "weapons": [
-          "AC Vampire Hunter Twin Pulsar",
-          "AC Twin Phoenix Missile Launcher",
+          "AC Vampire Hunter Synchronisierter Pulsar",
+          "AC Synchronisierter Phoenix Raketenwerfer",
           "AC Scatter Laser"
         ],
         "specialRules": [

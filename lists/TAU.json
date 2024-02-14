@@ -97,14 +97,14 @@
         ]
       },
       {
-        "name": "Missile Drones",
+        "name": "Rakete Drones",
         "type": "INF",
         "speed": 15,
         "armour": 6,
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Missile Pod"
+          "Rakete Pod"
         ],
         "specialRules": [
           "Tau Jet Packs"
@@ -118,7 +118,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Twin Pulse Carbine"
+          "Synchronisierter Pulse Carbine"
         ],
         "specialRules": [
           "Tau Jet Packs"
@@ -175,9 +175,9 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Twin Missile Pod",
-          "Twin Plasma Rifle",
-          "Twin Fusion Blaster"
+          "Synchronisierter Rakete Pod",
+          "Synchronisierter Plasma Rifle",
+          "Synchronisierter Fusion Blaster"
         ],
         "specialRules": [
           "Invulnerable Save",
@@ -192,8 +192,8 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Twin Plasma Rifle",
-          "Twin Fusion Blaster"
+          "Synchronisierter Plasma Rifle",
+          "Synchronisierter Fusion Blaster"
         ],
         "specialRules": [
           "Invulnerable Save",
@@ -402,8 +402,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Light Railgun",
-          "Smart Missile System"
+          "Synchronisierter Light Railgun",
+          "Smart Rakete System"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -419,7 +419,7 @@
         "ff": 6,
         "weapons": [
           "Burst Cannon and Drones",
-          "Seeker Missiles"
+          "Seeker Raketen"
         ],
         "specialRules": [
           "Skimmer"
@@ -451,7 +451,7 @@
         "ff": 6,
         "weapons": [
           "Burst Cannon and Drones",
-          "Seeker Missiles"
+          "Seeker Raketen"
         ],
         "specialRules": [
           "Skimmer",
@@ -467,7 +467,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Twin Light Railgun"
+          "Synchronisierter Light Railgun"
         ],
         "specialRules": [
           "Skimmer",
@@ -476,16 +476,16 @@
         "notes": "May transport one unit of Gun Drones."
       },
       {
-        "name": "Missile Hammerhead",
+        "name": "Rakete Hammerhead",
         "type": "AV",
         "speed": 30,
         "armour": 4,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Missile Pod|2|",
-          "Smart Missile System",
-          "Seeker Missiles"
+          "Synchronisierter Rakete Pod|2|",
+          "Smart Rakete System",
+          "Seeker Raketen"
         ],
         "specialRules": [
           "Skimmer",
@@ -502,8 +502,8 @@
         "ff": 5,
         "weapons": [
           "Ion Cannon",
-          "Smart Missile System",
-          "Seeker Missiles"
+          "Smart Rakete System",
+          "Seeker Raketen"
         ],
         "specialRules": [
           "Skimmer",
@@ -520,8 +520,8 @@
         "ff": 5,
         "weapons": [
           "Heavy Railgun",
-          "Smart Missile System",
-          "Seeker Missiles"
+          "Smart Rakete System",
+          "Seeker Raketen"
         ],
         "specialRules": [
           "Skimmer"
@@ -535,9 +535,9 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Fusion Cannon",
-          "Smart Missile System",
-          "Seeker Missiles"
+          "Synchronisierter Fusion Cannon",
+          "Smart Rakete System",
+          "Seeker Raketen"
         ],
         "specialRules": [
           "Skimmer"
@@ -551,9 +551,9 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Smart Missile System",
-          "Seeker Missiles|2|",
-          "Hunter Missiles|2|"
+          "Smart Rakete System",
+          "Seeker Raketen|2|",
+          "Hunter Raketen|2|"
         ],
         "specialRules": [
           "Skimmer",
@@ -585,7 +585,7 @@
         "ff": 5,
         "weapons": [
           "Ion Accelerator",
-          "Twin Smart Missile System",
+          "Synchronisierter Smart Rakete System",
           "Velocity Tracker"
         ],
         "specialRules": [
@@ -622,11 +622,11 @@
         "weapons": [
           ">Standard Configuration<",
           "Pulse Driver Cannon||FwA",
-          "Destroyer Missiles|2|",
+          "Destroyer Raketen|2|",
           "Velocity Tracker",
           ">Support Configuration<",
           "Pulse Blastcannon||FwA",
-          "Twin Smart Missile System|2|",
+          "Synchronisierter Smart Rakete System|2|",
           "Velocity Tracker"
         ],
         "specialRules": [
@@ -644,10 +644,10 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Tri-axis Ion Cannon|2|FwA",
-          "Twin Burst Cannon|2|",
-          "Twin Smart Missile System|2|",
-          "Nexus Missile Array|0-1|",
+          "Tri-axis Ionenkanone|2|FwA",
+          "Synchronisierter Burst Cannon|2|",
+          "Synchronisierter Smart Rakete System|2|",
+          "Nexus Rakete Array|0-1|",
           "Heavy Railcannon|0-1|FwA",
           "Pulse Ordnance Multi-Driver|0-1|FwA"
         ],
@@ -657,7 +657,7 @@
           "Tau Deflector Shield",
           "Walker"
         ],
-        "notes": "Armed with either a Nexus Missile Array, Heavy Railcannon, or Pulse Ordnance Multi Driver.",
+        "notes": "Armed with either a Nexus Rakete Array, Heavy Railcannon, or Pulse Ordnance Multi Driver.",
         "crit": "The Tau Deflector Shield is knocked offline and may not be used for the remainder of the game. Subsequent critical hits cause an additional point of damage."
       },
       {
@@ -667,11 +667,11 @@
         "armour": 5,
         "ff": 4,
         "weapons": [
-          "Twin Heavy Railcannon||FxF",
+          "Synchronisierter Heavy Railcannon||FxF",
           "Heavy Ion Phalanx||FxF",
-          "Twin Missile Pod",
-          "Seeker Missiles|2|",
-          "Twin Burst Cannon|4|"
+          "Synchronisierter Rakete Pod",
+          "Seeker Raketen|2|",
+          "Synchronisierter Burst Cannon|4|"
         ],
         "specialRules": [
           "Damage Capacity: 6",

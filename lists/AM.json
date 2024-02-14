@@ -86,7 +86,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Assault Cannon|2|"
+          "Sturmkanone|2|"
         ],
         "specialRules": []
       },
@@ -177,7 +177,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Assault Cannon",
+          "Sturmkanone",
           "Power Weapon"
         ],
         "specialRules": [
@@ -241,8 +241,8 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Autocannon",
-          "Heavy Bolter",
+          "Maschinenkanone",
+          "Schwerer Bolter",
           "Power Fist"
         ],
         "specialRules": [
@@ -260,7 +260,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Missile Launcher"
+          "Raketenwerfer"
         ],
         "specialRules": [
           "Machine Spirit",
@@ -314,7 +314,7 @@
         "ff": "5+/4",
         "weapons": [
           {
-            "name": "0-1x Twin Lascannon",
+            "name": "0-1x Synchronisierte Laserkanone",
             "modes": [
               {
                 "firepower": "AT4+",
@@ -323,7 +323,7 @@
             ]
           },
           {
-            "name": "0-1x Twin Heavy Bolter",
+            "name": "0-1x Synchronisierter schwerer Bolter",
             "modes": [
               {
                 "firepower": "AP4+",
@@ -337,7 +337,7 @@
           "Fearless",
           "Expendable"
         ],
-        "notes": "Armed with either Twin Lascannon or Twin Heavy Bolter. Tarantulas armed with Twin Heavy Bolter have their firefight value increased to 4+."
+        "notes": "Armed with either Synchronisierte Laserkanone or Synchronisierter schwerer Bolter. Tarantulas armed with Synchronisierter schwerer Bolter have their firefight value increased to 4+."
       },
       {
         "name": "Hyperios Sentry",
@@ -385,7 +385,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Twin Autocannon"
+          "Synchronisierter Maschinenkanone"
         ],
         "specialRules": [
           "Walker"
@@ -399,7 +399,7 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Taser Lance"
+          "Taser Lanze"
         ],
         "specialRules": [
           "Scout",
@@ -415,14 +415,14 @@
         "ff": "5+/4",
         "weapons": [
           "Eradication Beamer|0-1|",
-          "Twin Heavy Phosphor Blaster|0-1|",
+          "Synchronisierter Heavy Phosphor Blaster|0-1|",
           "Neutron Laser|0-1|",
           "Icarus Array|0-1|"
         ],
         "specialRules": [
           "Walker"
         ],
-        "notes": "Must choose either an Eradication Beamer, Twin Heavy Phosphor Blaster, Icarus Array or Neutron Laser. Onager Dunecrawlers armed with Eradication Beamer have their firefight value increased to 4+."
+        "notes": "Must choose either an Eradication Beamer, Synchronisierter Heavy Phosphor Blaster, Icarus Array or Neutron Laser. Onager Dunecrawlers armed with Eradication Beamer have their firefight value increased to 4+."
       },
       {
         "name": "Chimera",
@@ -433,7 +433,7 @@
         "ff": 5,
         "weapons": [
           "Multilaser",
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
           "Transport"
@@ -448,7 +448,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber|2|"
+          "Synchronisierter schweres Maschinengewehr|2|"
         ],
         "specialRules": [
           "Transport"
@@ -464,8 +464,8 @@
         "ff": 5,
         "weapons": [
           "Ferrumite Cannon",
-          "Missile Launcher",
-          "Twin Heavy Stubber"
+          "Raketenwerfer",
+          "Synchronisierter schweres Maschinengewehr"
         ],
         "specialRules": [
         ]
@@ -478,8 +478,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Hydra Autocannon|2",
-          "Heavy Bolter"
+          "Synchronisierter Hydra Maschinenkanone|2",
+          "Schwerer Bolter"
         ],
         "specialRules": [
         ]
@@ -493,7 +493,7 @@
         "ff": 5,
         "weapons": [
           "Conqueror Cannon",
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
           "Transport"
@@ -508,7 +508,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Bolters"
+          "Bolter"
         ],
         "specialRules": [
           "Thick Rear Armour",
@@ -525,9 +525,9 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Battle Cannon",
-          "Lascannon",
-          "Heavy Bolter|2|"
+          "Kampfgeschütz",
+          "Laserkanone",
+          "Schwerer Bolter|2|"
         ],
         "specialRules": [
           "Reinforced Armour"
@@ -542,7 +542,7 @@
         "ff": 3,
         "weapons": [
           "Demolisher",
-          "Lascannon",
+          "Laserkanone",
           "Plasma Cannon|2|"
         ],
         "specialRules": [
@@ -558,7 +558,7 @@
         "ff": 5,
         "weapons": [
           "Plasma Destroyer",
-          "Lascannon",
+          "Laserkanone",
           "Plasma Cannon|2|"
         ],
         "specialRules": [
@@ -573,10 +573,10 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber|2|",
+          "Synchronisierter schweres Maschinengewehr|2|",
           ">Battle Weapons<",
           "Turbo-Laser Destructor|0-1|FxF",
-          "Apocalypse Missile Launcher|0-1|FxF",
+          "Apocalypse Raketenwerfer|0-1|FxF",
           "Heavy Icarus Array|0-1|",
           "Titan Plasma Cannon|0-1|FxF",
           "Titan Melta Cannon |0-1|",
@@ -584,7 +584,7 @@
           ">Support Weapons<",
           "Plasma Destructor|0-1|FxF",
           "Quake Cannon|0-1|FxF",
-          "Volcano Cannon|0-1|FxF"
+          "Vulkangeschütz|0-1|FxF"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -603,10 +603,10 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber|2|",
+          "Synchronisierter schweres Maschinengewehr|2|",
           ">Battle Weapons<",
           "Turbo-Laser Destructor|0-1|FxF",
-          "Apocalypse Missile Launcher|0-1|FxF",
+          "Apocalypse Raketenwerfer|0-1|FxF",
           "Heavy Icarus Array|0-1|",
           "Titan Plasma Cannon|0-1|FxF",
           "Titan Melta Cannon |0-1|",
@@ -629,14 +629,14 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber|2|",
-          "Lascannon|2|",
+          "Synchronisierter schweres Maschinengewehr|2|",
+          "Laserkanone|2|",
           ">Ordinatus Armageddon<",
           "Nova Cannon||FxF",
           ">Ordinatus Mars<",
           "Sonic Disruptor||FxF",
           ">Ordinatus Golgotha<",
-          "Hellfire Missile|6|FxF"
+          "Hellfire Rakete|6|FxF"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -654,7 +654,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Twin Heavy Stubber|4|"
+          "Synchronisierter schweres Maschinengewehr|4|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -689,7 +689,7 @@
         "armour": 6,
         "weapons": [
           "AC Multilaser||FxF",
-          "AC Storm Bolters||FxF"
+          "AC Sturmbolter||FxF"
         ],
         "specialRules": [
         ]
@@ -701,8 +701,8 @@
         "armour": 5,
         "weapons": [
           "AC Avenger Bolt Cannon||FxF",
-          "AC Twin Autocannon||FxF",
-          "AC Heavy Stubber Turret"
+          "AC Synchronisierter Maschinenkanone||FxF",
+          "AC Schweres Maschinengewehr Turm"
         ],
         "specialRules": [
         ]
@@ -713,8 +713,8 @@
         "armour": 5,
         "weapons": [
           "AC Phosphor Blaster|FxF",
-          "AC Twin Lascannon|FxF",
-          "AC Twin Heavy Stubber Turret"
+          "AC Synchronisierte Laserkanone|FxF",
+          "AC Synchronisierter schweres Maschinengewehr Turm"
         ],
         "specialRules": [
         ]

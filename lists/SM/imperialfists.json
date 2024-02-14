@@ -23,7 +23,7 @@
         "Librarian",
         "Supreme Commander",
         "Assault Centurions",
-        "Devastator Centurions",
+        "Devastor Centurions",
         "Devastators",
         "Scouts",
         "Space Marine Rapier",
@@ -175,7 +175,7 @@
         },
         {
           "name": "Centurions",
-          "units": "Four Assault and/or Devastator Centurions",
+          "units": "Four Assault and/or Devastor Centurions",
           "extraUnits": [
             "Achilles",
             "Land Raider Transport",
@@ -301,7 +301,7 @@
       },
       {
         "name": "Snipers",
-        "description": "Give all Scouts in the formation 'Sniper' on their Heavy Bolters",
+        "description": "Give all Scouts in the formation 'Sniper' on their Schwerer Bolter",
         "points": "25 points"
       },
       {

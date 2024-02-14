@@ -72,14 +72,14 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Heavy Stubber",
-          "Autopistols",
+          "Schweres Maschinengewehr",
+          "Automatikpistolen",
           "Rending Claws"
         ],
         "specialRules": [
           "Expendable"
         ],
-        "notes": "One in every two units (rounding up) has a Heavy Stubber"
+        "notes": "One in every two units (rounding up) has a Schweres Maschinengewehr"
       },
       {
         "name": "Genestealers",
@@ -132,10 +132,10 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Autocannon",
-          "Autoguns"
+          "Maschinenkanone",
+          "Automatikgewehr"
         ],
-        "notes": "One in every two units (rounding up) has an Autocannon"
+        "notes": "One in every two units (rounding up) has an Maschinenkanone"
       },
       {
         "name": "Neophyte Fire Support",
@@ -144,7 +144,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Autocannon|2"
+          "Maschinenkanone|2"
         ]
       },
       {
@@ -165,8 +165,8 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Autopistols",
-          "Chainswords"
+          "Automatikpistolen",
+          "Kettenschwerter"
         ],
         "specialRules": [
           "Mounted"
@@ -204,7 +204,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber Turret"
+          "Synchronisierter schweres Maschinengewehr Turm"
         ]
       },
       {
@@ -215,7 +215,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Heavy Stubber"
+          "Schweres Maschinengewehr"
         ],
         "notes": "May transport two infantry units without Mounted or Jump Packs. Aberrants takes two spaces each."
       },
@@ -270,7 +270,7 @@
         "ff": 5,
         "weapons": [
           "Retrofitted Defense Laser||FxF",
-          "Twin Heavy Stubber|2|FxF"
+          "Synchronisierter schweres Maschinengewehr|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -287,7 +287,7 @@
         "ff": 6,
         "weapons": [
           "Excavator Power Arms",
-          "Twin Heavy Stubber|2|FxF"
+          "Synchronisierter schweres Maschinengewehr|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 4",

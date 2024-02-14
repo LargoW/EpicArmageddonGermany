@@ -10,8 +10,8 @@
         "speed": "Fighter",
         "armour": 4,
         "weapons": [
-          "AC Dark Lance|2|",
-          "AC Monoscythe Missiles",
+          "AC Dark Lanze|2|",
+          "AC Monoscythe Raketen",
           "AC Splinter Cannon"
         ],
         "specialRules": [
@@ -23,8 +23,8 @@
         "speed": "Fighter-Bomber",
         "armour": 4,
         "weapons": [
-          "AC Twin Void Lance",
-          "AC Twin Splinter Cannon",
+          "AC Synchronisierter Void Lanze",
+          "AC Synchronisierter Splinter Cannon",
           "AC Void Mines"
         ],
         "specialRules": [
@@ -38,7 +38,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "AC Twin Dark Lance|2|",
+          "AC Synchronisierter Dark Lanze|2|",
           "AC Turreted Splinter Cannon"
         ],
         "specialRules": [

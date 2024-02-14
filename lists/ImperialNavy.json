@@ -10,7 +10,7 @@
         "speed": "Fighter-Bomber",
         "armour": 6,
         "weapons": [
-          "AC Twin Lascannon||FxF",
+          "AC Synchronisierte Laserkanone||FxF",
           "AC Underwing Rockets||FxF"
         ],
         "specialRules": [
@@ -22,8 +22,8 @@
         "speed": "Fighter",
         "armour": 6,
         "weapons": [
-          "AC Twin Lascannon||FxF",
-          "AC Autocannon"
+          "AC Synchronisierte Laserkanone||FxF",
+          "AC Maschinenkanone"
         ],
         "specialRules": [
         ]
@@ -36,7 +36,7 @@
         "weapons": [
           "AC Multilaser||FxF",
           "AC Underwing Rockets||FxF",
-          "AC Storm Bolters||FxF"
+          "AC Sturmbolter||FxF"
         ],
         "specialRules": [
         ]
@@ -48,8 +48,8 @@
         "armour": 5,
         "weapons": [
           "AC Avenger Bolt Cannon||FxF",
-          "AC Twin Lascannon||FxF",
-          "AC Heavy Stubber Turret"
+          "AC Synchronisierte Laserkanone||FxF",
+          "AC Schweres Maschinengewehr Turm"
         ],
         "specialRules": [
         ]
@@ -60,9 +60,9 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Twin Lascannon||FxF",
+          "AC Synchronisierte Laserkanone||FxF",
           "AC Bomb Racks||FxF",
-          "AC Twin Heavy Bolter Turret|2|"
+          "AC Synchronisierter schwerer Bolter Turm|2|"
         ],
         "specialRules": [
         ]
@@ -73,10 +73,10 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Twin Autocannon|3|FxF",
-          "AC Missile Array||FxF",
-          "AC Twin Assault Cannon Turret||",
-          "AC Twin Heavy Bolter Turret||"
+          "AC Synchronisierter Maschinenkanone|3|FxF",
+          "AC Rakete Array||FxF",
+          "AC Synchronisierter Sturmkanone Turm||",
+          "AC Synchronisierter schwerer Bolter Turm||"
         ],
         "specialRules": [
         ]
@@ -87,9 +87,9 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Twin Lascannon||FxF",
+          "AC Synchronisierte Laserkanone||FxF",
           "AC Colossus Bomb||FxF",
-          "AC Twin Heavy Bolter Turret|2|"
+          "AC Synchronisierter schwerer Bolter Turm|2|"
         ],
         "specialRules": [
         ]

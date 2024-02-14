@@ -28,19 +28,19 @@
         ]
       },
       {
-        "name": "Twin Icarus Autocannon",
+        "name": "Synchronisierter Icarus Maschinenkanone",
         "type": "CH",
         "weapons": [
-          "Twin Icarus Autocannon"
+          "Synchronisierter Icarus Maschinenkanone"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Ironstorm Missile Pod",
+        "name": "Ironstorm Rakete Pod",
         "type": "CH",
         "weapons": [
-          "Ironstorm Missile Pod||FwA"
+          "Ironstorm Rakete Pod||FwA"
         ],
         "specialRules": [
         ]
@@ -71,7 +71,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Twin Autocannon"
+          "Synchronisierter Maschinenkanone"
         ],
         "specialRules": [
           "Stubborn",
@@ -109,8 +109,8 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Rapid Fire Battle Cannon",
-          "Reaper Chainsword"
+          "Rapid Fire Kampfgeschütz",
+          "Reaper Kettenschwert"
         ],
         "specialRules": [
           "Stubborn",
@@ -129,7 +129,7 @@
         "ff": 4,
         "weapons": [
           "Thermal Cannon",
-          "Reaper Chainsword"
+          "Reaper Kettenschwert"
         ],
         "specialRules": [
           "Stubborn",
@@ -147,7 +147,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Rapid Fire Battle Cannon",
+          "Rapid Fire Kampfgeschütz",
           "Avenger Gatling Cannon"
         ],
         "specialRules": [
@@ -166,9 +166,9 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Twin Icarus Autocannon",
+          "Synchronisierter Icarus Maschinenkanone",
           "Thunderstrike Gauntlet",
-          "Reaper Chainsword"
+          "Reaper Kettenschwert"
         ],
         "specialRules": [
           "Stubborn",
@@ -187,8 +187,8 @@
         "ff": 4,
         "weapons": [
           "Avenger Gatling Cannon",
-          "Ironstorm Missile Pod",
-          "Reaper Chainsword"
+          "Ironstorm Rakete Pod",
+          "Reaper Kettenschwert"
         ],
         "specialRules": [
           "Stubborn",
@@ -253,7 +253,7 @@
         "ff": 4,
         "weapons": [
           "Volkite Chierovile",
-          "Twin Rad Cleanser",
+          "Synchronisierter Rad Cleanser",
           "Graviton Crusher",
           "Hekaton Siege Claw"
         ],
@@ -275,8 +275,8 @@
         "ff": 4,
         "weapons": [
           "Lightning Cannon",
-          "Twin Phased Plasma Fusil",
-          "Reaper Chainsword"
+          "Synchronisierter Phased Plasma Fusil",
+          "Reaper Kettenschwert"
         ],
         "specialRules": [
           "Stubborn",
@@ -295,9 +295,9 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Shieldbreaker Missiles|4|",
-          "Volcano Lance||FwA",
-          "Twin Siegebreaker Cannon||",
+          "Shieldbreaker Raketen|4|",
+          "Volcano Lanze||FwA",
+          "Synchronisierter Siegebreaker Cannon||",
           "Plasma Decimator||FwA"
         ],
         "specialRules": [
@@ -315,8 +315,8 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Shieldbreaker Missiles|2|",
-          "Twin Siegebreaker Cannon|2|",
+          "Shieldbreaker Raketen|2|",
+          "Synchronisierter Siegebreaker Cannon|2|",
           "Conflagration Cannon",
           "Thundercoil Harpoon"
         ],
@@ -375,7 +375,7 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Cerastus Shock Lance"
+          "Cerastus Shock Lanze"
         ],
         "specialRules": [
           "Stubborn",
@@ -416,9 +416,9 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Quad Magna Lascannon||FxF",
-          "Autocannon|2|FxF",
-          "Helios Defense Missiles"
+          "Quad Magna Laserkanone||FxF",
+          "Maschinenkanone|2|FxF",
+          "Helios Defense Raketen"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -458,8 +458,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Rapid Fire Battle Cannon",
-          "Shock Lance",
+          "Rapid Fire Kampfgeschütz",
+          "Shock Lanze",
           "Knight Power Gauntlet"
         ],
         "specialRules": [
@@ -480,9 +480,9 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Battle Cannon",
-          "Shock Lance",
-          "Knight Chainsword"
+          "Kampfgeschütz",
+          "Shock Lanze",
+          "Knight Kettenschwert"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -499,8 +499,8 @@
         "ff": 5,
         "weapons": [
           "Long Cannon",
-          "Multi-Barreled Autocannon|0-1|",
-          "Twin Lascannon|0-1|"
+          "Multi-Barreled Maschinenkanone|0-1|",
+          "Synchronisierte Laserkanone|0-1|"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -516,8 +516,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Battle Cannon",
-          "Knight Power Lance"
+          "Kampfgeschütz",
+          "Knight Power Lanze"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -535,7 +535,7 @@
         "ff": 5,
         "weapons": [
           "Thermal Cannon",
-          "Shock Lance",
+          "Shock Lanze",
           "Knight Power Gauntlet"
         ],
         "specialRules": [
@@ -553,7 +553,7 @@
         "ff": 3,
         "weapons": [
           "Demolisher",
-          "Heavy Bolter|2|"
+          "Schwerer Bolter|2|"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -585,7 +585,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Skysweeper Missile Launcher",
+          "Skysweeper Raketenwerfer",
           "Multilaser|2|"
         ],
         "specialRules": [

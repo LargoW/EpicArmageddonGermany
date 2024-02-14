@@ -139,7 +139,7 @@
         "ff": 4,
         "weapons": [
           "Witch Blades",
-          "Twin Shuriken Catapult"
+          "Synchronisierter Shuriken Catapult"
         ],
         "specialRules": [
           "Commander",
@@ -242,7 +242,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Starcannon"
+          "Synchronisierter Starcannon"
         ],
         "specialRules": [
           "Scout",
@@ -258,7 +258,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Shuriken Catapult"
+          "Synchronisierter Shuriken Catapult"
         ],
         "specialRules": [
           "Mounted",
@@ -288,7 +288,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Twin Shuriken Catapult"
+          "Synchronisierter Shuriken Catapult"
         ],
         "specialRules": [
           "Mounted",
@@ -370,7 +370,7 @@
         "ff": 5,
         "weapons": [
           "Eldar Power Lances",
-          "Twin Shuriken Catapult"
+          "Synchronisierter Shuriken Catapult"
         ],
         "specialRules": [
           "Mounted",
@@ -503,7 +503,7 @@
         "ff": 5,
         "weapons": [
           "Splinter Cannon",
-          "Twin Splinter Rifle"
+          "Synchronisierter Splinter Rifle"
         ],
         "specialRules": [
           "Skimmer",
@@ -519,7 +519,7 @@
         "ff": 6,
         "weapons": [
           "Scatter Laser",
-          "Eldar Missile Launcher"
+          "Eldar Raketenwerfer"
         ],
         "specialRules": [
           "Scout",
@@ -534,7 +534,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Hornet Pulse Laser"
+          "Synchronisierter Hornet Pulse Laser"
         ],
         "specialRules": [
           "Skimmer",
@@ -549,7 +549,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Hornet Pulse Laser"
+          "Synchronisierter Hornet Pulse Laser"
         ],
         "specialRules": [
           "Skimmer",
@@ -586,7 +586,7 @@
         "ff": 4,
         "weapons": [
           "Eldar Power Fist",
-          "Twin Bright Lance"
+          "Synchronisierter Bright Lanze"
         ],
         "specialRules": [
           "Fearless",
@@ -602,7 +602,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Shuriken Cannon"
+          "Synchronisierter Shuriken Cannon"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -694,7 +694,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Sonic Lance",
+          "Sonic Lanze",
           "Shuriken Cannon"
         ],
         "specialRules": [
@@ -713,7 +713,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Pulsar",
+          "Synchronisierter Pulsar",
           "Shuriken Cannon",
           "Scatter Laser|2"
         ],
@@ -734,7 +734,7 @@
         "ff": 5,
         "weapons": [
           "Cobra D-Cannon||FxF",
-          "Eldar Missile Launcher",
+          "Eldar Raketenwerfer",
           "Shuriken Cannon"
         ],
         "specialRules": [
@@ -789,9 +789,9 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Twin Deathshroud Cannon|0-1|",
-          "Twin Inferno Lance|0-1|",
-          "Twin Shuriken Cannon"
+          "Synchronisierter Deathshroud Cannon|0-1|",
+          "Synchronisierter Inferno Lanze|0-1|",
+          "Synchronisierter Shuriken Cannon"
         ],
         "specialRules": [
           "Holofield (3+)",
@@ -799,7 +799,7 @@
           "Walker",
           "Teleport"
         ],
-        "notes": "Skathach Wraithknights are armed with either a Twin Deathshroud Cannon or Twin Inferno Lance."
+        "notes": "Skathach Wraithknights are armed with either a Synchronisierter Deathshroud Cannon or Synchronisierter Inferno Lanze."
       },
       {
         "name": "Wraithknight",
@@ -809,10 +809,10 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Twin Heavy Wraithcannons|0-1|",
+          "Synchronisierter Heavy Wraithcannons|0-1|",
           "Ghostglaive and Scattershield|0-1|",
           "Suncannon|0-1|",
-          "Twin Shuriken Cannon"
+          "Synchronisierter Shuriken Cannon"
         ],
         "specialRules": [
           "Holofield (3+)",
@@ -820,7 +820,7 @@
           "Fearless",
           "Walker"
         ],
-        "notes": "Must be armed with either Twin Heavy Wraithcannons, Ghostglaive and Scattershield, or a Suncannon. Spec[*]: Scattershield grants the model Reinforced Armour."
+        "notes": "Must be armed with either Synchronisierter Heavy Wraithcannons, Ghostglaive and Scattershield, or a Suncannon. Spec[*]: Scattershield grants the model Reinforced Armour."
       },
       {
         "name": "Revenant Titan",
@@ -831,7 +831,7 @@
         "ff": 4,
         "weapons": [
           "Revenant Pulsar|2|",
-          "Eldar Missile Launcher|2|"
+          "Eldar Raketenwerfer|2|"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -852,7 +852,7 @@
         "weapons": [
           "Titan Pulsar|1-2|",
           "Eldar Titan Power Fist|0-1|",
-          "Twin Eldar Missile Launcher|2|"
+          "Synchronisierter Eldar Raketenwerfer|2|"
         ],
         "specialRules": [
           "Damage Capacity: 6",
@@ -872,7 +872,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "ARMS (choose two. Max one 0-1)",
+          "ARME (wähle zwei. Max eine 0-1 Auswahl)",
           "Titan Pulsar",
           "Dire Pulsar",
           "Star Pulsar",
@@ -880,8 +880,8 @@
           "Titan D-Cannon",
           "Eldar Titan Power Fist|0-1|",
           "Ashuna-Valcry'le|0-1|",
-          "CARAPACE",
-          "Twin Eldar Missile Launcher|2|"
+          "SCHULTER",
+          "Synchronisierter Eldar Raketenwerfer|2|"
         ],
         "specialRules": [
           "Damage Capacity: 6",
@@ -901,9 +901,9 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Psychic Lance",
+          "Psychic Lanze",
           "Eldar Titan Power Fist",
-          "Twin Eldar Missile Launcher|2|"
+          "Synchronisierter Eldar Raketenwerfer|2|"
         ],
         "specialRules": [
           "Damage Capacity: 6",

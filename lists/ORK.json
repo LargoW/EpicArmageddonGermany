@@ -165,7 +165,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Twin Sawn-Off Big Shoota",
+          "Synchronisierter Sawn-Off Big Shoota",
           "Big Choppas"
         ],
         "specialRules": [
@@ -223,7 +223,7 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Twin Sawn-Off Big Shoota"
+          "Synchronisierter Sawn-Off Big Shoota"
         ],
         "specialRules": [
           "Mounted"
@@ -237,7 +237,7 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Twin Sawn-Off Big Shoota"
+          "Synchronisierter Sawn-Off Big Shoota"
         ],
         "specialRules": [
           "Mounted",
@@ -266,7 +266,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Big Shoota"
+          "Synchronisierter Big Shoota"
         ],
         "specialRules": [
           "Skimmer"
@@ -296,7 +296,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Twin Big Shoota"
+          "Synchronisierter Big Shoota"
         ],
         "specialRules": [
         ]
@@ -426,7 +426,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Battle Cannon"
+          "Kampfgeschütz"
         ],
         "specialRules": [
         ]
@@ -552,7 +552,7 @@
         "ff": 4,
         "weapons": [
           "Big Gun",
-          "Twin Big Shoota|4|"
+          "Synchronisierter Big Shoota|4|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -570,7 +570,7 @@
         "ff": 5,
         "weapons": [
           "Big Gun|3|",
-          "Twin Big Shoota|5|"
+          "Synchronisierter Big Shoota|5|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -641,13 +641,13 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "'ED (choose one)",
+          "'ED (wähle eine)",
           "Gaze of Mork|0-1|",
           "Gaze of Gork|0-1|",
-          "ARMS (choose two)",
+          "ARME (wähle zwei)",
           "Soopagun|1-2|FxF",
           "Killa-Choppa|0-1|FxF",
-          "BELLY (choose one)",
+          "BAUCH (wähle eine)",
           "Soopagun|0-1|FxF",
           "Dakka Kannon|0-1|FxF"
         ],
@@ -690,15 +690,15 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "'ED (choose one)",
+          "'ED (wähle eine)",
           "Gaze of Mork|0-1|",
           "Gaze of Gork|0-1|",
-          "ARMS (choose two)",
+          "ARME (wähle zwei)",
           "Soopagun|0-2|FxF",
           "Dakka Kannon|0-2|FxF",
           "Mega-Choppa|0-2|",
           "Zzap-Gun|0-2|FxF",
-          "BELLY (choose one)",
+          "BAUCH (wähle eine)",
           "Soopagun|0-1|FxF",
           "Supa-Skorcha|0-1|FxF",
           "Supa-Zzap-Gun|0-1|FxF",
@@ -724,7 +724,7 @@
           "Gaze of Mork",
           "Big Gun|2|",
           "Soopagun||FxF",
-          "Twin Soopagun|1-2|FxF",
+          "Synchronisierter Soopagun|1-2|FxF",
           "Lifta-Droppa |0-1|"
         ],
         "specialRules": [
@@ -735,7 +735,7 @@
           "Fearless",
           "Reinforced Armour",
           "Walker",
-          "Armed with either two Twin Soopaguns or one Twin Soopagun and a Lifta-Droppa"
+          "Armed with either two Synchronisierter Soopaguns or one Synchronisierter Soopagun and a Lifta-Droppa"
         ],
         "crit": "The Great Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
       },
@@ -748,15 +748,15 @@
         "ff": 4,
         "weapons": [
           "Big Gun|2|",
-          "'ED (choose one)",
+          "'ED (wähle eine)",
           "Gaze of Mork|0-1|",
           "Gaze of Gork|0-1|",
-          "ARMS (choose two)",
-          "Twin Soopagun|0-2|FxF",
+          "ARME (wähle zwei)",
+          "Synchronisierter Soopagun|0-2|FxF",
           "Dakka-Dakka Kannon|0-2|FxF",
           "Mega-Lobba|0-2|FxF",
           "Lifta-Droppa |0-1|",
-          "BELLY (choose one)",
+          "BAUCH (wähle eine)",
           "Soopagun|0-1|FxF",
           "Supa-Skorcha|0-1|FxF",
           "Supa-Zzap-Gun|0-1|FxF",
@@ -783,8 +783,8 @@
         "weapons": [
           "Big Gun|4|",
           "Weirdboy Tower",
-          "2x Grot-Guided Missile||FwA",
-          "Twin Supa-Zzap-Gun||FwA",
+          "2x Grot-Guided Rakete||FwA",
+          "Synchronisierter Supa-Zzap-Gun||FwA",
           "Soopagunz Belly Battery||FxF",
           "Kombat Arms"
         ],
@@ -805,7 +805,7 @@
         "speed": "Fighter-Bomber",
         "armour": 6,
         "weapons": [
-          "AC Twin Big Shoota||FxF",
+          "AC Synchronisierter Big Shoota||FxF",
           "AC Tankbusta Rokkits||FxF"
         ],
         "specialRules": [
@@ -817,7 +817,7 @@
         "speed": "Fighter",
         "armour": 6,
         "weapons": [
-          "AC Twin Supa Shoota|2|FxF"
+          "AC Synchronisierter Supa Shoota|2|FxF"
         ],
         "specialRules": [
         ]
@@ -829,7 +829,7 @@
         "armour": 5,
         "weapons": [
           "AC Flakka",
-          "AC Twin Supa Shoota||FxF",
+          "AC Synchronisierter Supa Shoota||FxF",
           "AC Boom Bombs||FxF"
         ],
         "specialRules": [
@@ -842,7 +842,7 @@
         "armour": 4,
         "weapons": [
           "AC Flakka",
-          "AC Twin Kustom Mega-Cannon||FxF"
+          "AC Synchronisierter Kustom Mega-Cannon||FxF"
         ],
         "specialRules": [
           "Power Fields 1D3"
@@ -1124,7 +1124,7 @@
         "ff": 5,
         "weapons": [
           "Big Gun",
-          "Twin Big Shoota|2|",
+          "Synchronisierter Big Shoota|2|",
           "Teeth and Horns"
         ],
         "specialRules": [
@@ -1159,7 +1159,7 @@
         "ff": 5,
         "weapons": [
           "Flak Gun",
-          "Twin Big Shoota|2|",
+          "Synchronisierter Big Shoota|2|",
           "Teeth and Horns"
         ],
         "specialRules": [
@@ -1175,7 +1175,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Twin Big Shoota|3|",
+          "Synchronisierter Big Shoota|3|",
           "Fangs and Horns",
           "Supa-Lobba"
         ],
@@ -1195,7 +1195,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Twin Big Shoota|4|",
+          "Synchronisierter Big Shoota|4|",
           "Big Gun|2|",
           "Goring Tusks"
         ],

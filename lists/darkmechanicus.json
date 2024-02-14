@@ -115,7 +115,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Twin Reaper Autocannon",
+          "Synchronisierter Reaper Maschinenkanone",
           "Power Fist"
         ],
         "specialRules": [
@@ -132,7 +132,7 @@
         "armour": 5,
         "ff": 4,
         "weapons": [
-          "Reaper Autocannon"
+          "Reaper Maschinenkanone"
         ],
         "specialRules": [
           "Machine Spirit",
@@ -148,7 +148,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Combi-Bolter"
+          "Kombi-Bolter"
         ],
         "specialRules": [
           "Transport"
@@ -240,17 +240,17 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Bolter|2|",
+          "Schwerer Bolter|2|",
           ">Battle Weapons<",
           "Turbo Blaster|0-1|FxF",
           "Doom Burner|0-1|FxF",
           "Plasma Cremator|0-1|FxF",
-          "Twin Hades Autocannon|0-1|",
+          "Synchronisierter Hades Maschinenkanone|0-1|",
           ">Support Weapons<",
           "Plasma Incinerator|0-1|FxF",
           "Cannon of Chaos|0-1|FxF",
           "Cyclone Cannon|0-1|FxF",
-          "4x Havoc Barrage Missile|0-1|FwA"
+          "4x Havoc Sperrfeuerrakete|0-1|FwA"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -269,11 +269,11 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Bolter|2|",
+          "Schwerer Bolter|2|",
           "Turbo Blaster|0-1|FxF",
           "Doom Burner|0-1|FxF",
           "Plasma Cremator|0-1|FxF",
-          "Twin Hades Autocannon|0-1|"
+          "Synchronisierter Hades Maschinenkanone|0-1|"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -281,7 +281,7 @@
           "Reinforced Armour",
           "Fearless"
         ],
-        "notes": "Armed with either a Turbo Blaster, Doom Burner, Plasma Cremator or Twin Hades Autocannon.",
+        "notes": "Armed with either a Turbo Blaster, Doom Burner, Plasma Cremator or Synchronisierter Hades Maschinenkanone.",
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+."
       },
       {
@@ -292,8 +292,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Bolter|2|",
-          "Lascannon|2|",
+          "Schwerer Bolter|2|",
+          "Laserkanone|2|",
           ">Ordinatus Cyclothrathe<",
           "Terrebrax Phospex Battery||FxF",
           ">Ordinatus Retlaxi<",
@@ -317,8 +317,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-            "Heavy Bolter|2|",
-            "Lascannon|2|",
+            "Schwerer Bolter|2|",
+            "Laserkanone|2|",
           "Terrebrax Phospex Battery||FxF"
         ],
         "specialRules": [
@@ -358,8 +358,8 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Battle Cannon",
-          "Reaper Autocannon",
+          "Kampfgeschütz",
+          "Reaper Maschinenkanone",
           "Heavy Flamer",
           "Battle Claws"
         ],
@@ -395,7 +395,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Twin Hades Autocannon"
+          "Synchronisierter Hades Maschinenkanone"
         ],
         "specialRules": [
           "Fearless",
@@ -449,7 +449,7 @@
         "ff": 5,
         "weapons": [
           "Heavy Neutron Laser Array",
-          "Lascannon|2|"
+          "Laserkanone|2|"
         ],
         "specialRules": [
           "Fearless",
@@ -467,7 +467,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Stubber",
+          "Schweres Maschinengewehr",
           "Multi-Melta",
           "Reaper Chain-Cleaver"
         ],
@@ -487,8 +487,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Twin Reaper Autocannon",
-          "Heavy Stubber"
+          "Synchronisierter Reaper Maschinenkanone",
+          "Schweres Maschinengewehr"
         ],
         "specialRules": [
           "Walker",
@@ -506,9 +506,9 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Rapid Fire Battle Cannon||FwA",
-          "Twin Reaper Autocannon||FwA",
-          "Renegade Chainsword"
+          "Rapid Fire Kampfgeschütz||FwA",
+          "Synchronisierter Reaper Maschinenkanone||FwA",
+          "Renegade Kettenschwert"
         ],
         "specialRules": [
           "Damage Capacity: 2",
@@ -531,7 +531,7 @@
         "weapons": [
           "Lightning Cannon",
           "Pulsar-Fusil",
-          "Twin Siegebreaker Cannon|2|FwA",
+          "Synchronisierter Siegebreaker Cannon|2|FwA",
           "Hyperwave Clarion"
         ],
         "specialRules": [
@@ -553,14 +553,14 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Twin Reaper Autocannon",
-          "Renegade Chainsword",
+          "Synchronisierter Reaper Maschinenkanone",
+          "Renegade Kettenschwert",
           ">Incarnate Slaughter<",
           "Hyperwave Clarion",
           "Thunderstrike Gauntlet",
           ">Gilded King<",
-          "Rapid Fire Battle Cannon",
-          "Ironstorm Missile Pod",
+          "Rapid Fire Kampfgeschütz",
+          "Ironstorm Rakete Pod",
           ">Hatred of Krastellan<",
           "Heavy Neutron Laser",
           ">Litany of Destruction<",
@@ -587,7 +587,7 @@
         "ff": 5,
         "weapons": [
           "Decimator Cannon||FxF",
-          "Twin Reaper Autocannon|4|FxF"
+          "Synchronisierter Reaper Maschinenkanone|4|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -606,8 +606,8 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Battle Cannon|2|FxF",
-          "Reaper Autocannon|4|FxF"
+          "Kampfgeschütz|2|FxF",
+          "Reaper Maschinenkanone|4|FxF"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -670,7 +670,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Lascannon",
+          "Laserkanone",
           "Multi-Melta"
         ],
         "specialRules": [
@@ -689,7 +689,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Thermal Lance"
+          "Thermal Lanze"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -726,7 +726,7 @@
         "ff": 4,
         "weapons": [
           "Castigator Cannon|2|",
-          "Lascannon|2|"
+          "Laserkanone|2|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -770,7 +770,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Twin Reaper Autocannon",
+          "Synchronisierter Reaper Maschinenkanone",
           "Plague Cannon",
           "Battle Claws"
         ],
@@ -790,7 +790,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Reaper Autocannon",
+          "Reaper Maschinenkanone",
           "Maw Cannon"
         ],
         "specialRules": [
@@ -826,8 +826,8 @@
         "ff": 3,
         "weapons": [
           "Pus Cannon||",
-          "Lascannon|2|FxF",
-          "Twin Heavy Bolter|3|FxF",
+          "Laserkanone|2|FxF",
+          "Synchronisierter schwerer Bolter|3|FxF",
           "Bile Cannon",
           "Nurglings"
         ],
@@ -850,7 +850,7 @@
         "weapons": [
           "Laser Destructor||FwA",
           "Pus Launcher Pod||FwA",
-          "Renegade Chainsword"
+          "Renegade Kettenschwert"
         ],
         "specialRules": [
           "Damage Capacity: 2",
@@ -895,7 +895,7 @@
         "ff": 4,
         "weapons": [
           "Heavy Cannon",
-          "Reaper Autocannon",
+          "Reaper Maschinenkanone",
           "Battle Claws"
         ],
         "specialRules": [
@@ -966,7 +966,7 @@
         "weapons": [
           "Stormspear Rocket Pod",
           "Doomgauntlet",
-          "Renegade Chainsword"
+          "Renegade Kettenschwert"
         ],
         "specialRules": [
           "Damage Capacity: 2",
@@ -989,7 +989,7 @@
         "weapons": [
           "Scorpion Cannon||FwA",
           "Demolisher||FxF",
-          "Twin Hellmaw||FxF",
+          "Synchronisierter Hellmaw||FxF",
           "Scorpion Claws"
         ],
         "specialRules": [
@@ -1010,7 +1010,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Battle Cannon|2|FxF",
+          "Kampfgeschütz|2|FxF",
           "Death Storm||FwA",
           "Chainfist"
         ],
@@ -1033,7 +1033,7 @@
         "weapons": [
           "Hellstrike Cannon||FxF",
           "Hellfire Cannon|2|FxF",
-          "Twin Reaper Autocannon Turret|2|"
+          "Synchronisierter Reaper Maschinenkanone Turm|2|"
         ],
         "specialRules": [
           "Damage Capacity 6",
@@ -1052,8 +1052,8 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Battle Cannon",
-          "Twin Heavy Warpflamer",
+          "Kampfgeschütz",
+          "Synchronisierter Heavy Warpflamer",
           "Eye of Magnus",
           "Battle Claws"
         ],
@@ -1091,7 +1091,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Rapid Fire Battle Cannon||FwA",
+          "Rapid Fire Kampfgeschütz||FwA",
           "Corruptor Gatling Cannon||FwA",
           "Hyperwave Clarion"
         ],

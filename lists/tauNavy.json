@@ -11,9 +11,9 @@
         "speed": "Fighter",
         "armour": 6,
         "weapons": [
-          "AC Ion Cannon",
-          "AC Twin Missile Pod",
-          "AC Twin Burst Cannon"
+          "AC Ionenkanone",
+          "AC Synchronisierter Rakete Pod",
+          "AC Synchronisierter Burst Cannon"
         ],
         "specialRules": [
         ]
@@ -24,8 +24,8 @@
         "speed": "Fighter",
         "armour": 6,
         "weapons": [
-          "AC Quad Ion Turret",
-          "AC Twin Burst Cannon"
+          "AC Quad Ion Turm",
+          "AC Synchronisierter Burst Cannon"
         ],
         "specialRules": [
         ]
@@ -37,8 +37,8 @@
         "armour": 4,
         "weapons": [
           "AC Pulse Bomb Generator",
-          "AC Twin Missile Pod",
-          "AC Twin Burst Cannon"
+          "AC Synchronisierter Rakete Pod",
+          "AC Synchronisierter Burst Cannon"
         ],
         "specialRules": [
         ]
@@ -49,9 +49,9 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Twin Ion Cannon",
-          "AC Twin Missile Pod",
-          "AC Seeker Missiles"
+          "AC Synchronisierter Ionenkanone",
+          "AC Synchronisierter Rakete Pod",
+          "AC Seeker Raketen"
         ],
         "specialRules": [
           "Transport"
@@ -64,10 +64,10 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Twin Railcannon",
-          "AC Twin Missile Pod",
-          "AC Seeker Missiles",
-          "AC Twin Burst Cannon"
+          "AC Synchronisierter Railcannon",
+          "AC Synchronisierter Rakete Pod",
+          "AC Seeker Raketen",
+          "AC Synchronisierter Burst Cannon"
         ],
         "specialRules": [
         ]
@@ -80,9 +80,9 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "AC Twin Missile Pod",
-          "AC Seeker Missiles",
-          "AC Twin Burst Cannon"
+          "AC Synchronisierter Rakete Pod",
+          "AC Seeker Raketen",
+          "AC Synchronisierter Burst Cannon"
         ],
         "specialRules": [
           "Planetfall",

@@ -131,13 +131,13 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Anvilus Autocannon Battery",
+          "Anvilus Maschinenkanone Battery",
           "Guntail",
-          "CARAPACE (choose one)",
+          "SCHULTER (wähle eine)",
           "Corruptos Chaos Cannon|0-1|FxF",
           "Plasma Incinerator|0-1|FxF",
           "Cyclone Cannon|0-1|FxF",
-          "ARMS (choose one)",
+          "ARME (wähle eine)",
           "2x Turbo Blaster||FwA",
           "2x Hex Cannon||FwA",
           "2x Plasma Cremator||FwA"
@@ -282,7 +282,7 @@
         "ff": 4,
         "weapons": [
           "Cannon of Chaos||FwA",
-          "Havoc Barrage Missile|6|FxF",
+          "Havoc Sperrfeuerrakete|6|FxF",
           "Guntail",
           "Doomfist",
           "Battlehead"
@@ -310,7 +310,7 @@
           "Plasma Incinerator|0-1|FwA",
           "Cyclone Cannon|0-1|FwA",
           "Beam Blaster|0-1|FwA",
-          "Paired Sonic Devastators||FxF",
+          "Zwilligs-Sonic Devastators||FxF",
           "Musk Flail",
           "Lust Lash"
         ],
@@ -365,7 +365,7 @@
           "Plasma Incinerator|0-1|FwA",
           "Cyclone Cannon|0-1|FwA",
           "Beam Blaster|0-1|FwA",
-          "Havoc Barrage Missile|6|FxF",
+          "Havoc Sperrfeuerrakete|6|FxF",
           "Guntail",
           "Doomfist"
         ],
@@ -419,7 +419,7 @@
           "Plasma Annihilator||FwA",
           "Sonic Desolator|2|FxF",
           "Temple of Temptation",
-          "Battle Cannon|4|"
+          "Kampfgeschütz|4|"
         ],
         "specialRules": [
           "God Machine",
@@ -445,7 +445,7 @@
           "Devourer Cannon||FwA",
           "Heavy Plague Mortar|2|FxF",
           "Temple of Putrefaction",
-          "Battle Cannon|4|"
+          "Kampfgeschütz|4|"
         ],
         "specialRules": [
           "God Machine",
@@ -470,7 +470,7 @@
           "Hellstorm Cannon||FwA",
           "Plasma Annihilator||FwA",
           "Temple of Rage",
-          "Battle Cannon|4|",
+          "Kampfgeschütz|4|",
           "Manglers"
         ],
         "specialRules": [
@@ -493,8 +493,8 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Twin Beam of Change||FwA",
-          "Havoc Warp Missile|8|FwA",
+          "Synchronisierter Beam of Change||FwA",
+          "Havoc Warp Rakete|8|FwA",
           "Temple of Transformation",
           "AA Flame Cannon|4|"
         ],

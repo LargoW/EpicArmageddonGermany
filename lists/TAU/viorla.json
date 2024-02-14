@@ -19,7 +19,7 @@
         "Fire Warriors",
         "Gun Drones",
         "Marker Drones",
-        "Missile Drones",
+        "Rakete Drones",
         "Shield Drones",
         "XV8 Crisis Battlesuits",
         "XV15 Stealth Battlesuits",
@@ -35,7 +35,7 @@
       ],
       "unitRules": [
         "Coordinated Fire",
-        "Guided Missiles",
+        "Guided Raketen",
         "Markerlights",
         "Shield Disruptor",
         "Tau Jet Packs",
@@ -107,7 +107,7 @@
           "name": "Drone Group",
           "units": "Eight Gun Drones",
           "extraUnits": [
-            "Replace two Gun Drones with two Missile Drones or two Shield Drones (Free), or two Marker Drones (25 points)"
+            "Replace two Gun Drones with two Rakete Drones or two Shield Drones (Free), or two Marker Drones (25 points)"
           ],
           "points": 150
         },
@@ -153,7 +153,7 @@
           "name": "Tiger Shark Squadron",
           "units": "Two Tiger Shark Bombers",
           "extraUnits": [
-            "Add six Gun Drones or six Missile Drones: 75 points"
+            "Add six Gun Drones or six Rakete Drones: 75 points"
           ],
           "points": 175
         },
@@ -201,7 +201,7 @@
         "description": "Add any one of the following upgrades to the formation",
         "options": [
           {
-            "description": "Two Gun Drones, Missile Drones or Shield Drones",
+            "description": "Two Gun Drones, Rakete Drones or Shield Drones",
             "points": "25 points"
           },
           {

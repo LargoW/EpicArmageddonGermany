@@ -61,7 +61,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Autocannon",
+          "Maschinenkanone",
           "Daemon Weapon"
         ],
         "specialRules": [
@@ -78,7 +78,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Autocannon",
+          "Maschinenkanone",
           "Daemon Weapon"
         ],
         "specialRules": [
@@ -127,8 +127,8 @@
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Autopistols",
-          "Chainswords"
+          "Automatikpistolen",
+          "Kettenschwerter"
         ],
         "specialRules": [
         ]
@@ -142,7 +142,7 @@
         "ff": 6,
         "weapons": [
           "Laspistols",
-          "Chainswords"
+          "Kettenschwerter"
         ],
         "specialRules": [
           "Mounted",
@@ -157,7 +157,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Stubber|2|",
+          "Schweres Maschinengewehr|2|",
           "Massive Melee Weapons"
         ],
         "specialRules": [
@@ -217,7 +217,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Heavy Stubber"
+          "Schweres Maschinengewehr"
         ],
         "specialRules": [
             "Transport"
@@ -232,7 +232,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber Turret"
+          "Synchronisierter schweres Maschinengewehr Turm"
         ],
         "specialRules": [
         ]
@@ -302,8 +302,8 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Autopistols",
-          "Chainswords"
+          "Automatikpistolen",
+          "Kettenschwerter"
         ],
         "specialRules": [
         ]

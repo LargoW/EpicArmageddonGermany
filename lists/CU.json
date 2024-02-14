@@ -97,7 +97,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Venatari Lance",
+          "Venatari Lanze",
           "Archeotech Kinetic Destroyer"
         ],
         "specialRules": [
@@ -133,7 +133,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Bolters",
+          "Bolter",
           "Heavy Flamer"
         ],
         "specialRules": [
@@ -165,8 +165,8 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Lastrum Storm Bolters",
-          "Achilles Power Lance"
+          "Lastrum Sturmbolter",
+          "Achilles Power Lanze"
         ],
         "specialRules": [
           "Reniforced Armour",
@@ -203,7 +203,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin-linked Arachnus Blaze Cannon"
+          "Synchronisierter-linked Arachnus Blaze Cannon"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -219,8 +219,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin-linked Iliastus Accelator Cannon",
-          "Twin-linked Lastrum Bolt Cannon"
+          "Synchronisierter-linked Iliastus Accelator Cannon",
+          "Synchronisierter-linked Lastrum Bolt Cannon"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -236,8 +236,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin-linked Arachnus Blaze Cannon",
-          "Twin-linked Lastrum Bolt Cannon"
+          "Synchronisierter-linked Arachnus Blaze Cannon",
+          "Synchronisierter-linked Lastrum Bolt Cannon"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -253,8 +253,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2",
-          "Twin Heavy Bolter"
+          "Synchronisierte Laserkanone|2",
+          "Synchronisierter schwerer Bolter"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -301,7 +301,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "AC Twin-linked Lastrum Bolt Cannon|2|FxF",
+          "AC Synchronisierter-linked Lastrum Bolt Cannon|2|FxF",
           "AC Arachnus Heavy Blaze Cannon|2|FxF",
           "AC Spiculus Heavy Bolt Launcher|2|FxF"
         ],

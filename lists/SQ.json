@@ -24,7 +24,7 @@
         "ff": 5,
         "weapons": [
           "Power Weapon",
-          "Autocannon"
+          "Maschinenkanone"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -40,7 +40,7 @@
         "ff": 5,
         "weapons": [
           "Power Weapon",
-          "Autocannon"
+          "Maschinenkanone"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -70,11 +70,11 @@
         "ff": 5,
         "weapons": [
           "Lasguns",
-          "Missile Launcher"
+          "Raketenwerfer"
         ],
         "specialRules": [
         ],
-        "notes": "One in every two units (rounding up) has a Missile Launcher"
+        "notes": "One in every two units (rounding up) has a Raketenwerfer"
       },
       {
         "name": "Squat Berserkers",
@@ -85,7 +85,7 @@
         "ff": 6,
         "weapons": [
           "Laspistols",
-          "Chainswords"
+          "Kettenschwerter"
         ],
         "specialRules": [
         ]
@@ -113,8 +113,8 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Multiple Lascannons",
-          "Multiple Heavy Bolters"
+          "Multiple Laserkanonen",
+          "Multiple Schwerer Bolter"
         ],
         "specialRules": [
         ]
@@ -163,8 +163,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Twin Bolter",
-          "Trike Power Lance"
+          "Synchronisierter Bolter",
+          "Trike Power Lanze"
         ],
         "specialRules": [
           "Commander",
@@ -192,7 +192,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Twin Bolter"
+          "Synchronisierter Bolter"
         ],
         "specialRules": [
           "Mounted"
@@ -221,8 +221,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2",
-          "Twin Heavy Bolter"
+          "Synchronisierte Laserkanone|2",
+          "Synchronisierter schwerer Bolter"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -251,8 +251,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Autocannon",
-          "Ragnarok Battle Cannon"
+          "Synchronisierter Maschinenkanone",
+          "Ragnarok Kampfgeschütz"
         ],
         "specialRules": [
           "Scout, Skimmer"
@@ -264,8 +264,8 @@
         "speed": "Bomber[*]",
         "armour": 5,
         "weapons": [
-          "AC Twin Lascannon||FxF",
-          "AC Missile Launcher|3|"
+          "AC Synchronisierte Laserkanone||FxF",
+          "AC Raketenwerfer|3|"
         ],
         "specialRules": [
         ],
@@ -278,8 +278,8 @@
         "armour": 3,
         "ff": 4,
         "weapons": [
-          "Ragnarok Battle Cannon|6|FxF",
-          "Twin Autocannon|2|FxF",
+          "Ragnarok Kampfgeschütz|6|FxF",
+          "Synchronisierter Maschinenkanone|2|FxF",
           "Overlord Barrage||FxF",
           "Flak Cannons"
         ],
@@ -351,8 +351,8 @@
         "ff": 5,
         "weapons": [
           "Squat Doomsday Cannon||FxF",
-          "Ragnarok Battle Cannon",
-          "Twin Lascannon|6|FxF",
+          "Ragnarok Kampfgeschütz",
+          "Synchronisierte Laserkanone|6|FxF",
           "Storm Bolter Array"
         ],
         "specialRules": [
@@ -375,8 +375,8 @@
         "ff": 5,
         "weapons": [
           "Hellfury Cannon||FxF",
-          "Ragnarok Battle Cannon",
-          "Doomstorm Missile|6|FxF"
+          "Ragnarok Kampfgeschütz",
+          "Doomstorm Rakete|6|FxF"
         ],
         "specialRules": [
           "Damage Capacity: 5",
@@ -396,9 +396,9 @@
         "ff": 4,
         "weapons": [
           "Squat Doomsday Cannon||FxF",
-          "Ragnarok Battle Cannon|4|FxF",
+          "Ragnarok Kampfgeschütz|4|FxF",
           "Demolisher||FxF",
-          "Plasma Missile|4|FwA",
+          "Plasma Rakete|4|FwA",
           "Storm Bolter Array"
         ],
         "specialRules": [
@@ -419,7 +419,7 @@
         "ff": 4,
         "weapons": [
           "Squat Mjolnir Cannon||FxF",
-          "Ragnarok Battle Cannon|2|",
+          "Ragnarok Kampfgeschütz|2|",
           "Storm Bolter Array",
           "BATTLE CAR WEAPONS",
           "Berserker Battle Car",

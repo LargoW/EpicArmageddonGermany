@@ -152,7 +152,7 @@
           "units": "One Ordinatus Armageddon (Nova Cannon)",
           "extraUnits": [
             "Ordinatus Mars (Sonic Disruptor)",
-            "Ordinatus Golgotha (Hellfire Missiles)"
+            "Ordinatus Golgotha (Hellfire Raketen)"
           ],
           "points": 425
         }
@@ -244,7 +244,7 @@
         "name": "Ordinatus Golgotha",
         "options": [
           {
-            "description": "Replace the Ordinatus Armageddon with an Ordinatus Golgotha (Hellfire Missiles)",
+            "description": "Replace the Ordinatus Armageddon with an Ordinatus Golgotha (Hellfire Raketen)",
             "points": "50 points"
           }
         ]
