@@ -13,7 +13,7 @@
         "weapons": [
           "AC Ionenkanone",
           "AC Synchronisierter Rakete Pod",
-          "AC Synchronisierter Burst Cannon"
+          "AC Synchronisierter Burst Geschütz"
         ],
         "specialRules": [
         ]
@@ -25,7 +25,7 @@
         "armour": 6,
         "weapons": [
           "AC Quad Ion Turm",
-          "AC Synchronisierter Burst Cannon"
+          "AC Synchronisierter Burst Geschütz"
         ],
         "specialRules": [
         ]
@@ -38,7 +38,7 @@
         "weapons": [
           "AC Pulse Bomb Generator",
           "AC Synchronisierter Rakete Pod",
-          "AC Synchronisierter Burst Cannon"
+          "AC Synchronisierter Burst Geschütz"
         ],
         "specialRules": [
         ]
@@ -67,7 +67,7 @@
           "AC Synchronisierter Railcannon",
           "AC Synchronisierter Rakete Pod",
           "AC Seeker Raketen",
-          "AC Synchronisierter Burst Cannon"
+          "AC Synchronisierter Burst Geschütz"
         ],
         "specialRules": [
         ]
@@ -82,7 +82,7 @@
         "weapons": [
           "AC Synchronisierter Rakete Pod",
           "AC Seeker Raketen",
-          "AC Synchronisierter Burst Cannon"
+          "AC Synchronisierter Burst Geschütz"
         ],
         "specialRules": [
           "Planetfall",

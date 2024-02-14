@@ -11,7 +11,7 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Synchronisierter Shuriken Cannon",
+          "AC Synchronisierter Shuriken Geschütz",
           "AC Bright Lanze|2"
         ],
         "specialRules": [
@@ -35,7 +35,7 @@
         "speed": "Fighter-Bomber",
         "armour": 5,
         "weapons": [
-          "AC Synchronisierter Shuriken Cannon",
+          "AC Synchronisierter Shuriken Geschütz",
           "AC Pulse Laser",
           "AC Spinner Array"
         ],

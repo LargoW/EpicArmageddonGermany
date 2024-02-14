@@ -50,7 +50,7 @@
       "units": [
         "Defiler",
         "Maulerfiend",
-        "Decimator",
+        "Vernichter",
         "Ordinatus Hereticus ",
         "Ordinatus Cyclothrathe"
       ],
@@ -202,8 +202,8 @@
           "points": 225
         },
         {
-          "name": "Decimator",
-          "units": "One Decimator",
+          "name": "Vernichter",
+          "units": "One Vernichter",
           "extraUnits": [
           ],
           "points": 225

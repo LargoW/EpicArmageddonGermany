@@ -8,7 +8,7 @@
         "name": "Arch-Heretic",
         "type": "CH",
         "weapons": [
-          "Daemon Weapon"
+          "Dämonenwaffen"
         ],
         "specialRules": [
           "Supreme Commander"
@@ -36,7 +36,7 @@
         "ff": 6,
         "weapons": [
           "Grenade Launchers",
-          "Daemon Weapon"
+          "Dämonenwaffen"
         ],
         "specialRules": [
           "Invulnerable Save",
@@ -62,7 +62,7 @@
         "ff": 4,
         "weapons": [
           "Maschinenkanone",
-          "Daemon Weapon"
+          "Dämonenwaffen"
         ],
         "specialRules": [
           "Commander",
@@ -79,7 +79,7 @@
         "ff": 5,
         "weapons": [
           "Maschinenkanone",
-          "Daemon Weapon"
+          "Dämonenwaffen"
         ],
         "specialRules": [
           "Commander",
@@ -202,7 +202,7 @@
         "armour": 6,
         "cc": 4,
         "weapons": [
-          "Claws and Fangs"
+          "Klauen und Zähne"
         ],
         "specialRules": [
           "Expendable"

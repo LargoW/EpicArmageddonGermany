@@ -128,7 +128,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Thermal Cannon",
+          "Thermal Geschütz",
           "Reaper Kettenschwert"
         ],
         "specialRules": [
@@ -148,7 +148,7 @@
         "ff": 4,
         "weapons": [
           "Rapid Fire Kampfgeschütz",
-          "Avenger Gatling Cannon"
+          "Avenger Gatling Geschütz"
         ],
         "specialRules": [
           "Stubborn",
@@ -186,7 +186,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Avenger Gatling Cannon",
+          "Avenger Gatling Geschütz",
           "Ironstorm Rakete Pod",
           "Reaper Kettenschwert"
         ],
@@ -227,11 +227,11 @@
         "weapons": [
           "Thunderstrike Gauntlet",
           ">Chrimson Glaive<",
-          "Conflagration Cannon",
+          "Conflagration Geschütz",
           ">Iron Wolf<",
           "Helfrost Destructor",
           ">Justice<",
-          "Castigator Cannon",
+          "Castigator Geschütz",
           ">Canis Rex<",
           "Las Impulsor"
         ],
@@ -274,7 +274,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Lightning Cannon",
+          "Lightning Geschütz",
           "Synchronisierter Phased Plasma Fusil",
           "Reaper Kettenschwert"
         ],
@@ -295,10 +295,10 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Shieldbreaker Raketen|4|",
+          "Schildbrecher Raketen|4|",
           "Volcano Lanze||FwA",
-          "Synchronisierter Siegebreaker Cannon||",
-          "Plasma Decimator||FwA"
+          "Synchronisierter Siegebreaker Geschütz||",
+          "Plasma Vernichter||FwA"
         ],
         "specialRules": [
           "Stubborn",
@@ -315,9 +315,9 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Shieldbreaker Raketen|2|",
-          "Synchronisierter Siegebreaker Cannon|2|",
-          "Conflagration Cannon",
+          "Schildbrecher Raketen|2|",
+          "Synchronisierter Siegebreaker Geschütz|2|",
+          "Conflagration Geschütz",
           "Thundercoil Harpoon"
         ],
         "specialRules": [
@@ -335,7 +335,7 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Cerastus Flame Cannon",
+          "Cerastus Flammengeschütz",
           "Reaper Chainfist"
         ],
         "specialRules": [
@@ -355,7 +355,7 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Castigator Cannon",
+          "Castigator Geschütz",
           "Tempest Warblade"
         ],
         "specialRules": [
@@ -395,7 +395,7 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Graviton Singularity Cannon",
+          "Graviton Singularity Geschütz",
           "Atrapos Lascutter"
         ],
         "specialRules": [
@@ -437,7 +437,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Conversion Beam Cannon|2|FxF",
+          "Conversion Beam Geschütz|2|FxF",
           "Volkite Culvertin|2|FxF",
           "Karacnos Mortar Battery||FxF"
         ],
@@ -498,7 +498,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Long Cannon",
+          "Long Geschütz",
           "Multi-Barreled Maschinenkanone|0-1|",
           "Synchronisierte Laserkanone|0-1|"
         ],
@@ -534,7 +534,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Thermal Cannon",
+          "Thermal Geschütz",
           "Shock Lanze",
           "Knight Power Gauntlet"
         ],
@@ -569,7 +569,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Vanquisher Cannon"
+          "Vanquisher Geschütz"
         ],
         "specialRules": [
           "Reinforced Armour",

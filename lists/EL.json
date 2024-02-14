@@ -13,7 +13,7 @@
         "ff": 4,
         "weapons": [
           "Eldar Power Weapon",
-          "Shuriken Cannon"
+          "Shuriken Geschütz"
         ],
         "specialRules": [
           "Supreme Commander",
@@ -119,16 +119,16 @@
         "name": "Eldar Exarch",
         "type": "CH",
         "weapons": [
-          "Exarch Ranged Weapon|0-1",
-          "Exarch Close Combat Weapon|0-1",
-          "Firepike|0-1",
+          "Exarch Fernkampfwaffe|0-1",
+          "Exarch Nahkampfwaffe|0-1",
+          "Feuerpike|0-1",
           "Reaper Launcher|0-1",
           "Starlance|0-1"
         ],
         "specialRules": [
           "Inspiring"
         ],
-        "notes": "Dire Avengers, Swooping Hawks and Warp Spiders have an Exarch Ranged Weapon. Howling Banshees and Striking Scorpions have an Exarch Close Combat Weapon. Dark Reapers have a Reaper Launcher, Fire Dragons have a Firepike and Shining Spears have a Starlance."
+        "notes": "Dire Avengers, Swooping Hawks and Warp Spiders have an Exarch Fernkampfwaffe. Howling Banshees and Striking Scorpions have an Exarch Nahkampfwaffe. Dark Reapers have a Reaper Launcher, Fire Dragons have a Feuerpike and Shining Spears have a Starlance."
       },
       {
         "name": "Mounted Farseer",
@@ -198,10 +198,10 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Vibro Cannon|0-1",
-          "Support D-Cannon|0-1"
+          "Vibro Geschütz|0-1",
+          "Support D-Geschütz|0-1"
         ],
-        "notes": "Armed with either a Vibro Cannon or a Support D-Cannon"
+        "notes": "Armed with either a Vibro Geschütz or a Support D-Geschütz"
       },
       {
         "name": "Eldar Rangers",
@@ -273,7 +273,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Shuriken Cannon"
+          "Shuriken Geschütz"
         ],
         "specialRules": [
           "Mounted",
@@ -502,7 +502,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Splinter Cannon",
+          "Splinter Geschütz",
           "Synchronisierter Splinter Rifle"
         ],
         "specialRules": [
@@ -565,7 +565,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Wraith Cannon",
+          "Wraith Geschütz",
           "Singing Spear"
         ],
         "specialRules": [
@@ -602,7 +602,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Synchronisierter Shuriken Cannon"
+          "Synchronisierter Shuriken Geschütz"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -636,7 +636,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Prism Cannon"
+          "Prism Geschütz"
         ],
         "specialRules": [
           "Skimmer"
@@ -650,7 +650,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Warp Hunter D-Cannon"
+          "Warp Hunter D-Geschütz"
         ],
         "specialRules": [
           "Skimmer"
@@ -695,7 +695,7 @@
         "ff": 5,
         "weapons": [
           "Sonic Lanze",
-          "Shuriken Cannon"
+          "Shuriken Geschütz"
         ],
         "specialRules": [
           "Damage Capacity: 2",
@@ -714,7 +714,7 @@
         "ff": 5,
         "weapons": [
           "Synchronisierter Pulsar",
-          "Shuriken Cannon",
+          "Shuriken Geschütz",
           "Scatter Laser|2"
         ],
         "specialRules": [
@@ -733,9 +733,9 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Cobra D-Cannon||FxF",
+          "Cobra D-Geschütz||FxF",
           "Eldar Raketenwerfer",
-          "Shuriken Cannon"
+          "Shuriken Geschütz"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -789,9 +789,9 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Synchronisierter Deathshroud Cannon|0-1|",
+          "Synchronisierter Deathshroud Geschütz|0-1|",
           "Synchronisierter Inferno Lanze|0-1|",
-          "Synchronisierter Shuriken Cannon"
+          "Synchronisierter Shuriken Geschütz"
         ],
         "specialRules": [
           "Holofield (3+)",
@@ -799,7 +799,7 @@
           "Walker",
           "Teleport"
         ],
-        "notes": "Skathach Wraithknights are armed with either a Synchronisierter Deathshroud Cannon or Synchronisierter Inferno Lanze."
+        "notes": "Skathach Wraithknights are armed with either a Synchronisierter Deathshroud Geschütz or Synchronisierter Inferno Lanze."
       },
       {
         "name": "Wraithknight",
@@ -812,7 +812,7 @@
           "Synchronisierter Heavy Wraithcannons|0-1|",
           "Ghostglaive and Scattershield|0-1|",
           "Suncannon|0-1|",
-          "Synchronisierter Shuriken Cannon"
+          "Synchronisierter Shuriken Geschütz"
         ],
         "specialRules": [
           "Holofield (3+)",
@@ -876,8 +876,8 @@
           "Titan Pulsar",
           "Dire Pulsar",
           "Star Pulsar",
-          "Titan Vibro Cannon",
-          "Titan D-Cannon",
+          "Titan Vibro Geschütz",
+          "Titan D-Geschütz",
           "Eldar Titan Power Fist|0-1|",
           "Ashuna-Valcry'le|0-1|",
           "SCHULTER",

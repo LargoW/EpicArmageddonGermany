@@ -11,7 +11,7 @@
         "armour": 3,
         "cc": 4,
         "weapons": [
-          "Large Rending Claws"
+          "Large Rending Klauen"
         ],
         "specialRules": [
           "Supreme Commander",
@@ -72,7 +72,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Seismic Cannon",
+          "Seismic Geschütz",
           "Power Weapon"
         ],
         "specialRules": [
@@ -89,8 +89,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Seismic Cannon",
-          "Claws"
+          "Seismic Geschütz",
+          "Klauen"
         ],
         "specialRules": [
           "Infiltrators"
@@ -118,7 +118,7 @@
         "ff": 6,
         "weapons": [
           "Laspistols",
-          "Claws"
+          "Klauen"
         ],
         "specialRules": [
           "Mounted"
@@ -144,7 +144,7 @@
         "armour": 6,
         "cc": 2,
         "weapons": [
-          "Rending Claws"
+          "Rending Klauen"
         ],
         "specialRules": [
           "Scout",
@@ -174,8 +174,8 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Flesh Hooks",
-          "Scythed Claws"
+          "Fanghaken",
+          "Scythed Klauen"
         ],
         "specialRules": [
           "First Strike",
@@ -221,7 +221,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Seismic Cannon"
+          "Seismic Geschütz"
         ],
         "specialRules": [
           "Scout"
@@ -307,7 +307,7 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Inferno Cannon",
+          "Inferno Geschütz",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -341,7 +341,7 @@
         "weapons": [
           "Demolisher",
           "Laserkanone",
-          "Plasma Cannon|2|"
+          "Plasma Geschütz|2|"
         ],
         "specialRules": [
           "Brood Brothers",
@@ -386,7 +386,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Earthshaker Cannon",
+          "Earthshaker Geschütz",
           "Schwerer Bolter"
         ],
         "specialRules": [

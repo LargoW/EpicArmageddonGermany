@@ -59,7 +59,7 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Barbed Claws",
+          "Barbed Klauen",
           "Cacophonic Blast"
         ],
         "specialRules": [
@@ -76,7 +76,7 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Barbed Claws",
+          "Barbed Klauen",
           "Cacophonic Blast"
         ],
         "specialRules": [
@@ -92,7 +92,7 @@
         "armour": 4,
         "cc": 3,
         "weapons": [
-          "Piercing Claws"
+          "Piercing Klauen"
         ],
         "specialRules": [
           "Expendable",
@@ -106,7 +106,7 @@
         "armour": 5,
         "cc": 3,
         "weapons": [
-          "Claws"
+          "Klauen"
         ],
         "specialRules": [
           "Expendable",
@@ -120,7 +120,7 @@
         "armour": 5,
         "cc": 2,
         "weapons": [
-          "Barbed Claws"
+          "Barbed Klauen"
         ],
         "specialRules": [
           "Expendable",
@@ -220,7 +220,7 @@
         "cc": 3,
         "weapons": [
           "Plagueswords",
-          "Cloud of Flies"
+          "Fliegenwolke"
         ],
         "specialRules": [
           "Expendable",
@@ -309,14 +309,14 @@
         "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+"
       },
       {
-        "name": "Herald of Khorne on Skull Cannon",
+        "name": "Herald of Khorne on Skull Geschütz",
         "type": "LV",
         "speed": 20,
         "armour": 4,
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Skull Cannon"
+          "Skull Geschütz"
         ],
         "specialRules": [
             "Daemonic Focus",
@@ -364,7 +364,7 @@
         "armour": 5,
         "cc": 2,
         "weapons": [
-          "Claws and Fangs"
+          "Klauen und Zähne"
         ],
         "specialRules": [
           "Expendable",
@@ -485,7 +485,7 @@
         ]
       },
       {
-        "name": "Flamers of Tzeentch",
+        "name": "Flammenwerfer of Tzeentch",
         "type": "INF",
         "speed": 20,
         "armour": 5,
@@ -506,7 +506,7 @@
         "armour": 5,
         "cc": 4,
         "weapons": [
-          "Claws and Fangs"
+          "Klauen und Zähne"
         ],
         "specialRules": [
           "Expendable",
@@ -521,7 +521,7 @@
         "armour": 5,
         "cc": 3,
         "weapons": [
-          "Claws"
+          "Klauen"
         ],
         "specialRules": [
           "Expendable",
@@ -535,7 +535,7 @@
         "armour": 5,
         "cc": 4,
         "weapons": [
-          "Claws"
+          "Klauen"
         ],
         "specialRules": [
           "In Midnight Clad",
@@ -552,7 +552,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Harvester Cannon",
+          "Harvester Geschütz",
           "Warpsword"
         ],
         "specialRules": [

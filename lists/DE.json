@@ -74,7 +74,7 @@
         "ff": 4,
         "weapons": [
           "Splinter Rifles",
-          "Splinter Cannon"
+          "Splinter Geschütz"
         ],
         "specialRules": [
             "Wind-Swift"
@@ -105,7 +105,7 @@
         "ff": 3,
         "weapons": [
           "Dark Lanze",
-          "Splinter Cannon"
+          "Splinter Geschütz"
         ],
         "specialRules": [
           "Jump Packs",
@@ -182,7 +182,7 @@
         "ff": 4,
         "weapons": [
           "Widowmaker",
-          "Perditor Claws"
+          "Perditor Klauen"
         ],
         "specialRules": [
           "Fearless",
@@ -212,7 +212,7 @@
         "armour": 5,
         "cc": 3,
         "weapons": [
-          "Claws"
+          "Klauen"
         ],
         "specialRules": [
           "First Strike"
@@ -258,7 +258,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Splinter Cannon",
+          "Splinter Geschütz",
           "Synchronisierter Splinter Rifle"
         ],
         "specialRules": [
@@ -343,7 +343,7 @@
         "weapons": [
           "Dark Lanze|2|FxF",
           "Splinter Blast",
-          "Splinter Cannon|2|FwA"
+          "Splinter Geschütz|2|FwA"
         ],
         "specialRules": [
             "Damage Capacity 3",
@@ -365,7 +365,7 @@
         "weapons": [
           "Phantom Lanze||FxF",
           "Desolator||FwA",
-          "Splinter Cannon|2|FwA"
+          "Splinter Geschütz|2|FwA"
         ],
         "specialRules": [
           "Damage Capacity 3",

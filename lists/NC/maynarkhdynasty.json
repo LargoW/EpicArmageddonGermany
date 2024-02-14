@@ -28,7 +28,7 @@
         "Necron Destroyer Lord",
         "Destroyers",
         "Heavy Destroyers",
-        "Flayed Ones",
+        "Albträume",
         "Immortals",
         "Pariahs",
         "Necron Warriors",
@@ -107,7 +107,7 @@
       "formations": [
         {
           "name": "1+ The Unbidden",
-          "units": "Seven Flayed Ones",
+          "units": "Seven Albträume",
           "extraUnits": [
           ],
           "points": 200

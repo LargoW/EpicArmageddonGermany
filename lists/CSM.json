@@ -82,7 +82,7 @@
         "type": "CH",
         "weapons": [
           "Blue Fire of Metamorphosis",
-          "Daemon Weapon"
+          "Dämonenwaffen"
         ],
         "specialRules": [
           "Supreme Commander",
@@ -182,7 +182,7 @@
         "type": "CH",
         "weapons": [
           "Red Fire of Alteration",
-          "Daemon Weapon"
+          "Dämonenwaffen"
         ],
         "specialRules": [
           "Leader",
@@ -228,7 +228,7 @@
         "name": "Champion of Chaos",
         "type": "CH",
         "weapons": [
-          "Daemonic Possession"
+          "Dämonische Besessenheit"
         ],
         "specialRules": [
           "Augment Summoning (+2D3)",
@@ -421,7 +421,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Soulreaper Cannon"
+          "Soulreaper Geschütz"
         ]
       },
       {
@@ -478,7 +478,7 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Plasma Cannon|2|"
+          "Plasma Geschütz|2|"
         ]
       },
       {
@@ -489,7 +489,7 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Soulreaper Cannon|2|"
+          "Soulreaper Geschütz|2|"
         ]
       },
       {
@@ -738,7 +738,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Daemonic Possession"
+          "Dämonische Besessenheit"
         ],
         "specialRules": [
           "Invulnerable Save"
@@ -770,7 +770,7 @@
         "ff": 4,
         "weapons": [
           "Kombi-Bolter",
-          "Lightning Claws"
+          "Lightning Klauen"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -786,7 +786,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Cyclone Rakete Launchers",
+          "Cyclone Raketenwerfer",
           "Power Weapons"
         ],
         "specialRules": [
@@ -858,7 +858,7 @@
         "ff": 3,
         "weapons": [
           "Kombi-Melter",
-          "Lightning Claws"
+          "Lightning Klauen"
         ],
         "specialRules": [
           "Fearless",
@@ -1231,7 +1231,7 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Predator Cannon",
+          "Predator Geschütz",
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
@@ -1286,7 +1286,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Earthshaker Cannon",
+          "Earthshaker Geschütz",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -1471,7 +1471,7 @@
         "ff": 4,
         "weapons": [
           "Synchronisierter schwerer Bolter",
-          "Heavy Flamer",
+          "Schwerer Flammenwerfer",
           "Siege Drill"
         ],
         "specialRules": [
@@ -1487,7 +1487,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Plasma Cannon",
+          "Plasma Geschütz",
           "Power Fist"
         ],
         "specialRules": [
@@ -1536,7 +1536,7 @@
         "ff": 3,
         "weapons": [
           "Synchronisierter Reaper Maschinenkanone|2|",
-          "Synchronisierter Heavy Flamer"
+          "Synchronisierter Schwerer Flammenwerfer"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -1553,7 +1553,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Dreadhammer Siege Cannon",
+          "Dreadhammer Siege Geschütz",
           "Laserkanone|2|"
         ],
         "specialRules": [
@@ -1570,9 +1570,9 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Siege Cannon||FxF",
+          "Siege Geschütz||FxF",
           "Synchronisierter schwerer Bolter|3|FxF",
-          "Heavy Flamer |2|"
+          "Schwerer Flammenwerfer |2|"
         ],
         "specialRules": [
           "Damage Capacity 3",

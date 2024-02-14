@@ -12,7 +12,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Flamer",
+          "Schwerer Flammenwerfer",
           "Power Weapon"
         ],
         "specialRules": [
@@ -118,7 +118,7 @@
         "ff": 5,
         "weapons": [
           "Schwerer Bolter",
-          "Flamer",
+          "Flammenwerfer",
           "Power Weapon"
         ],
         "specialRules": [
@@ -148,7 +148,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Flamer"
+          "Schwerer Flammenwerfer"
         ],
         "specialRules": [
           "Commander",
@@ -194,7 +194,7 @@
         "ff": 5,
         "weapons": [
           "Schwerer Bolter",
-          "Flamer"
+          "Flammenwerfer"
         ],
         "specialRules": [
           "Commander"
@@ -317,7 +317,7 @@
         "ff": 5,
         "weapons": [
           "Schwerer Bolter",
-          "Flamer"
+          "Flammenwerfer"
         ],
         "specialRules": [
         ],
@@ -497,7 +497,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Flamer",
+          "Schwerer Flammenwerfer",
           "Jungle Knives"
         ],
         "specialRules": [
@@ -542,7 +542,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Heavy Flamer"
+          "Schwerer Flammenwerfer"
         ],
         "specialRules": [
           "Scout"
@@ -556,7 +556,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Heavy Flamer",
+          "Schwerer Flammenwerfer",
           "Melta Bombs"
         ],
         "specialRules": [
@@ -612,7 +612,7 @@
         "ff": 4,
         "weapons": [
           "Schweres Maschinengewehr|2|",
-          "Heavy Flamer"
+          "Schwerer Flammenwerfer"
         ],
         "specialRules": [
         ]
@@ -687,7 +687,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Flamer"
+          "Schwerer Flammenwerfer"
         ],
         "specialRules": [
           "Scout",
@@ -861,7 +861,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Flamer",
+          "Schwerer Flammenwerfer",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -878,7 +878,7 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Inferno Cannon",
+          "Inferno Geschütz",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -907,7 +907,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Melta Cannon",
+          "Melta Geschütz",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -981,7 +981,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Deathstrike Rakete",
+          "Todesstoss Rakete",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -993,7 +993,7 @@
         "speed": "Immobile",
         "armour": 5,
         "weapons": [
-          "Deathstrike Rakete|2"
+          "Todesstoss Rakete|2"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -1024,7 +1024,7 @@
         "ff": 5,
         "weapons": [
           "Heavy Mortar",
-          "Heavy Flamer"
+          "Schwerer Flammenwerfer"
         ],
         "specialRules": [
           "Walker"
@@ -1038,7 +1038,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Earthshaker Cannon",
+          "Earthshaker Geschütz",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -1080,7 +1080,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Earthshaker Cannon"
+          "Earthshaker Geschütz"
         ],
         "specialRules": [
         ]
@@ -1230,7 +1230,7 @@
         "ff": 4,
         "weapons": [
           "Synchronisierter Maschinenkanone",
-          "Heavy Flamer",
+          "Schwerer Flammenwerfer",
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
@@ -1247,7 +1247,7 @@
         "weapons": [
           "Plasma Destroyer",
           "Laserkanone",
-          "Plasma Cannon|2|"
+          "Plasma Geschütz|2|"
         ],
         "specialRules": [
           "Reinforced Armour"
@@ -1276,7 +1276,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Conqueror Cannon",
+          "Conquerorgeschütz",
           "Schwerer Bolter|3|"
         ],
         "specialRules": [
@@ -1293,7 +1293,7 @@
         "weapons": [
           "Demolisher",
           "Laserkanone",
-          "Plasma Cannon|2|"
+          "Plasma Geschütz|2|"
         ],
         "specialRules": [
           "Reinforced Armour"
@@ -1322,7 +1322,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Vanquisher Cannon",
+          "Vanquisher Geschütz",
           "Laserkanone",
           "Schwerer Bolter|2|"
         ],
@@ -1338,7 +1338,7 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Punisher Gatling Cannon",
+          "Punisher Gatling Geschütz",
           "Laserkanone",
           "Schwerer Bolter|2|"
         ],
@@ -1500,7 +1500,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Synchronisierter Earthshaker Cannon"
+          "Synchronisierter Earthshaker Geschütz"
         ],
         "specialRules": [
         ],
@@ -1530,7 +1530,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Synchronisierter Vanquisher Cannon|0-1|",
+          "Synchronisierter Vanquisher Geschütz|0-1|",
           "Vulcan Mega-Bolter|0-1|",
           "Synchronisierter schweres Maschinengewehr||",
           "Schwerer Bolter|2|"
@@ -1539,7 +1539,7 @@
           "Damage Capacity 2",
           "Reinforced Armour"
         ],
-        "notes": "Must be equipped with either Synchronisierter Vanquisher Cannon or a Vulcan Mega-Bolter.",
+        "notes": "Must be equipped with either Synchronisierter Vanquisher Geschütz or a Vulcan Mega-Bolter.",
         "crit": "The Macharius is destroyed."
       },
       {
@@ -1640,11 +1640,11 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Hellhammer Cannon",
+          "Hellhammer Geschütz",
           "Maschinenkanone",
           "Demolisher||FxF",
           "Synchronisierter schwerer Bolter|3|FxF",
-          "Heavy Flamer|2|"
+          "Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1662,7 +1662,7 @@
         "weapons": [
           "Vulcan Mega-Bolter||FxF",
           "Synchronisierter schwerer Bolter||FxF",
-          "Synchronisierter Heavy Flamer  |2|"
+          "Synchronisierter Schwerer Flammenwerfer  |2|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1680,7 +1680,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Tremor Cannon||FxF",
+          "Tremor Geschütz||FxF",
           "Synchronisierter schwerer Bolter|2|FxF"
         ],
         "specialRules": [
@@ -1733,9 +1733,9 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Siege Cannon||FxF",
+          "Siege Geschütz||FxF",
           "Synchronisierter schwerer Bolter|3|FxF",
-          "Heavy Flamer |2|"
+          "Schwerer Flammenwerfer |2|"
         ],
         "specialRules": [
           "Damage Capacity 3",

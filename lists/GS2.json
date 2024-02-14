@@ -8,7 +8,7 @@
         "name": "Genestealer Patriarch",
         "type": "CH",
         "weapons": [
-          "Large Rending Claws||EA(+1)"
+          "Large Rending Klauen||EA(+1)"
         ],
         "specialRules": [
           "Extended Command",
@@ -35,7 +35,7 @@
         "name": "Genestealer Primus",
         "type": "CH",
         "weapons": [
-          "Large Rending Claws||EA(+1)"
+          "Large Rending Klauen||EA(+1)"
         ],
         "specialRules": [
           "Inspiring",
@@ -74,7 +74,7 @@
         "weapons": [
           "Schweres Maschinengewehr",
           "Automatikpistolen",
-          "Rending Claws"
+          "Rending Klauen"
         ],
         "specialRules": [
           "Expendable"
@@ -88,7 +88,7 @@
         "armour": 6,
         "cc": 2,
         "weapons": [
-          "Rending Claws"
+          "Rending Klauen"
         ],
         "specialRules": [
           "Scout",
@@ -117,8 +117,8 @@
         "ff": 5,
         "weapons": [
           "Blasting Charges",
-          "Hand Flamers",
-          "Rending Claws"
+          "Flammenpistole",
+          "Rending Klauen"
         ],
         "specialRules": [
           "Infiltrators",
@@ -192,9 +192,9 @@
         "ff": 6,
         "weapons": [
           "Heavy Mining Laser|0-1",
-          "Seismic Heavy Cannon|0-1"
+          "Seismic Heavy Geschütz|0-1"
         ],
-        "notes": "Armed with either a Heavy Mining Laser or a Seismic Heavy Cannon."
+        "notes": "Armed with either a Heavy Mining Laser or a Seismic Heavy Geschütz."
       },
       {
         "name": "Technical",
@@ -242,7 +242,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Seismic Heavy Cannon"
+          "Seismic Heavy Geschütz"
         ],
         "notes": "May transport two infantry units without Jump Packs or Mounted. Aberrants takes two spaces each."
       },
@@ -262,7 +262,7 @@
         "notes": "May transport two infantry unit without Jump Packs or Mounted. Aberrants takes two spaces each."
       },
       {
-        "name": "Haul Truck Cannon",
+        "name": "Haul Truck Geschütz",
         "type": "WE",
         "speed": 15,
         "armour": 4,

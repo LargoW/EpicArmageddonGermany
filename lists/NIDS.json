@@ -63,8 +63,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Venom Cannon",
-          "Large Claws"
+          "Venom Geschütz",
+          "Large Klauen"
         ],
         "specialRules": [
           "Hive Mind Locus",
@@ -84,8 +84,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Venom Cannon",
-          "Large Claws"
+          "Venom Geschütz",
+          "Large Klauen"
         ],
         "specialRules": [
           "Hive Mind Locus",
@@ -106,8 +106,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Venom Cannon",
-          "Large Claws"
+          "Venom Geschütz",
+          "Large Klauen"
         ],
         "specialRules": [
           "Synapse",
@@ -125,8 +125,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Venom Cannon",
-          "Large Claws"
+          "Venom Geschütz",
+          "Large Klauen"
         ],
         "specialRules": [
           "Synapse",
@@ -220,7 +220,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Fleshborers"
+          "Bohrkäferschleuder"
         ],
         "specialRules": [
           "Gaunts"
@@ -232,7 +232,7 @@
         "speed": 20,
         "cc": 5,
         "weapons": [
-          "Ripping Claws"
+          "Ripping Klauen"
         ],
         "specialRules": [
           "Gaunts",
@@ -260,7 +260,7 @@
         "armour": 6,
         "cc": 2,
         "weapons": [
-          "Rending Claws"
+          "Rending Klauen"
         ],
         "specialRules": [
           "Scout",
@@ -288,8 +288,8 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Flesh Hooks",
-          "Scythed Claws"
+          "Fanghaken",
+          "Scythed Klauen"
         ],
         "specialRules": [
           "First Strike",
@@ -307,7 +307,7 @@
         "cc": 3,
         "weapons": [
           "Spine-Ringed Maw",
-          "Large Claws"
+          "Large Klauen"
         ],
         "specialRules": [
           "Infiltrators",
@@ -322,7 +322,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Stranglethorn Cannon",
+          "Stranglethorn Geschütz",
           "Spore Cyst",
           "Grasping Talons"
         ],
@@ -338,7 +338,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Drool Cannon",
+          "Drool Geschütz",
           "Tentaclids",
           "Grasping Talons"
         ],
@@ -367,7 +367,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Bio-Plasmic Cannon"
+          "Bio-Plasmic Geschütz"
         ],
         "specialRules": [
             "Reinforced Armour"
@@ -382,7 +382,7 @@
         "ff": 5,
         "weapons": [
           "Acid Jets",
-          "Massive Claws"
+          "Massive Klauen"
         ],
         "specialRules": [
           "Reinforced Armour"
@@ -397,7 +397,7 @@
         "ff": 5,
         "weapons": [
           "Frag Spines",
-          "Large Claws"
+          "Large Klauen"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -413,8 +413,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Venom Cannon",
-          "Claws"
+          "Venom Geschütz",
+          "Klauen"
         ],
         "specialRules": [
           "Reinforced Armour"
@@ -429,7 +429,7 @@
         "ff": 5,
         "weapons": [
           "Bio-Plasma",
-          "Large Claws"
+          "Large Klauen"
         ],
         "specialRules": [
           "Reinforced Armour"
@@ -444,7 +444,7 @@
         "ff": 5,
         "weapons": [
           "Frag Spines",
-          "Large Claws",
+          "Large Klauen",
           "Gaunt Pouch"
         ],
         "specialRules": [
@@ -465,7 +465,7 @@
         "ff": 5,
         "weapons": [
           "Frag Spines",
-          "Large Claws",
+          "Large Klauen",
           "Gaunt Pouch"
         ],
         "specialRules": [
@@ -505,7 +505,7 @@
         "ff": 6,
         "weapons": [
           "Bio-Electric Field",
-          "Large Claws"
+          "Large Klauen"
         ],
         "specialRules": [
           "Synapse",
@@ -523,7 +523,7 @@
         "ff": 6,
         "weapons": [
           "Bio-Electric Field",
-          "Large Claws"
+          "Large Klauen"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -538,8 +538,8 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Bio-Cannon",
-          "Large Claws"
+          "Bio-Geschütz",
+          "Large Klauen"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -560,9 +560,9 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Drool Cannon|2|",
+          "Drool Geschütz|2|",
           "Tentaclids",
-          "Large Claws",
+          "Large Klauen",
           "Gaunt Pouch"
         ],
         "specialRules": [
@@ -585,8 +585,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Bio-Cannon",
-          "Large Claws"
+          "Synchronisierter Bio-Geschütz",
+          "Large Klauen"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -604,8 +604,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Bio-Cannon",
-          "Large Claws"
+          "Synchronisierter Bio-Geschütz",
+          "Large Klauen"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -675,7 +675,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Titan Bio-Cannon",
+          "Bio-Titan Bio-Geschütz",
           "Bio-Plasmic Ray",
           "Bio-Plasma Burst",
           "Massive Scything Talons"
@@ -730,7 +730,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Titan Bio-Cannon",
+          "Bio-Titan Bio-Geschütz",
           "Hail of Barbed Spears",
           "Massive Scything Talons"
         ],
@@ -751,11 +751,11 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Titan Bio-Cannon",
+          "Bio-Titan Bio-Geschütz",
           "Bio-Plasma Burst",
           "Hail of Barbed Spears",
           "Ripper Tentacles",
-          "Monstrous Claws"
+          "Monströse Klauen"
         ],
         "specialRules": [
           "Damage Capacity: 7",

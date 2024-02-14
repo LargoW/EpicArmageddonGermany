@@ -82,7 +82,7 @@
         "name": "Wyrdboy",
         "type": "CH",
         "weapons": [
-          "Fist of Gork"
+          "Faust des Gork"
         ],
         "specialRules": [
         ]
@@ -603,7 +603,7 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Skullhamma Cannon||FxF",
+          "Skullhamma Geschütz||FxF",
           "Big Gun||FxF",
           "Skorcha|2|FxF"
         ],
@@ -842,7 +842,7 @@
         "armour": 4,
         "weapons": [
           "AC Flakka",
-          "AC Synchronisierter Kustom Mega-Cannon||FxF"
+          "AC Synchronisierter Kustom Mega-Geschütz||FxF"
         ],
         "specialRules": [
           "Power Fields 1D3"
@@ -1176,7 +1176,7 @@
         "ff": 5,
         "weapons": [
           "Synchronisierter Big Shoota|3|",
-          "Fangs and Horns",
+          "Zähne and Horns",
           "Supa-Lobba"
         ],
         "specialRules": [

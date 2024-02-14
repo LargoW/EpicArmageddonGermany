@@ -12,7 +12,7 @@
         "weapons": [
           "AC Dark Lanze|2|",
           "AC Monoscythe Raketen",
-          "AC Splinter Cannon"
+          "AC Splinter Geschütz"
         ],
         "specialRules": [
         ]
@@ -24,7 +24,7 @@
         "armour": 4,
         "weapons": [
           "AC Synchronisierter Void Lanze",
-          "AC Synchronisierter Splinter Cannon",
+          "AC Synchronisierter Splinter Geschütz",
           "AC Void Mines"
         ],
         "specialRules": [
@@ -39,7 +39,7 @@
         "ff": 5,
         "weapons": [
           "AC Synchronisierter Dark Lanze|2|",
-          "AC Turreted Splinter Cannon"
+          "AC Turreted Splinter Geschütz"
         ],
         "specialRules": [
           "Damage Capacity 2",

@@ -119,10 +119,10 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Support D-Cannon|0-1",
+          "Support D-Geschütz|0-1",
           "Shadow Weaver|0-1"
         ],
-        "notes": "Armed with either a Support D-Cannon or a Shadow Weaver"
+        "notes": "Armed with either a Support D-Geschütz or a Shadow Weaver"
       },
       {
         "name": "Bloodfang Megadon",
@@ -133,7 +133,7 @@
         "ff": 6,
         "weapons": [
           "Scatter Laser",
-          "Claws, Teeth & Tail"
+          "Klauen, Teeth & Tail"
         ],
         "specialRules": [
           "Walker"
@@ -147,7 +147,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Prism Cannon"
+          "Prism Geschütz"
         ],
         "specialRules": [
           "Walker"
@@ -228,7 +228,7 @@
         "ff": 4,
         "weapons": [
           "Blazing Breath",
-          "Claws, Teeth & Tail"
+          "Klauen, Teeth & Tail"
         ],
         "specialRules": [
           "Damage Capacity: 3",

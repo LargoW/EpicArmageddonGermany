@@ -76,7 +76,7 @@
         "armour": 5,
         "cc": 5,
         "weapons": [
-          "Power Claws"
+          "Power Klauen"
         ],
         "specialRules": [
           "Infiltrators",
@@ -212,7 +212,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Lightning Cannon"
+          "Lightning Geschütz"
         ],
         "specialRules": [
           "Reinforced Armour"
@@ -248,8 +248,8 @@
           "Synchronisierter Hades Maschinenkanone|0-1|",
           ">Support Weapons<",
           "Plasma Incinerator|0-1|FxF",
-          "Cannon of Chaos|0-1|FxF",
-          "Cyclone Cannon|0-1|FxF",
+          "Geschütz of Chaos|0-1|FxF",
+          "Cyclone Geschütz|0-1|FxF",
           "4x Havoc Sperrfeuerrakete|0-1|FwA"
         ],
         "specialRules": [
@@ -299,7 +299,7 @@
           ">Ordinatus Retlaxi<",
           "Graviton Singularity Beamer||FxF",
           ">Ordinatus Temporia<",
-          "Gyrator Barrage Cannon||FxF"
+          "Gyrator Barrage Geschütz||FxF"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -360,8 +360,8 @@
         "weapons": [
           "Kampfgeschütz",
           "Reaper Maschinenkanone",
-          "Heavy Flamer",
-          "Battle Claws"
+          "Schwerer Flammenwerfer",
+          "Battle Klauen"
         ],
         "specialRules": [
           "Fearless",
@@ -372,14 +372,14 @@
         ]
       },
       {
-        "name": "Hellfire Cannon",
+        "name": "Hellfire Geschütz",
         "type": "AV",
         "speed": 15,
         "armour": 4,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Hellfire Cannon"
+          "Hellfire Geschütz"
         ],
         "specialRules": [
           "Fearless",
@@ -412,7 +412,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Ectoplasma Cannon|3|"
+          "Ectoplasma Geschütz|3|"
         ],
         "specialRules": [
           "Fearless",
@@ -529,9 +529,9 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Lightning Cannon",
+          "Lightning Geschütz",
           "Pulsar-Fusil",
-          "Synchronisierter Siegebreaker Cannon|2|FwA",
+          "Synchronisierter Siegebreaker Geschütz|2|FwA",
           "Hyperwave Clarion"
         ],
         "specialRules": [
@@ -579,14 +579,14 @@
       },
 
       {
-        "name": "Decimator",
+        "name": "Vernichter",
         "type": "WE",
         "speed": 15,
         "armour": 4,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Decimator Cannon||FxF",
+          "Vernichtergeschütz||FxF",
           "Synchronisierter Reaper Maschinenkanone|4|FxF"
         ],
         "specialRules": [
@@ -596,7 +596,7 @@
           "Invulnerable Save",
           "Daemon Engine (Chaos Undivided)"
         ],
-        "crit": "The Decimator is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "The Vernichter is destroyed. All units within 5cm suffers a hit on 6+."
       },
       {
         "name": "Death Wheel",
@@ -627,7 +627,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Heavy Cannon|2|FxF",
+          "Heavy Geschütz|2|FxF",
           "Arcane Technology||"
         ],
         "specialRules": [
@@ -651,7 +651,7 @@
         "weapons": [
           "Blastmaster|2|",
           "Death Wailer",
-          "Battle Claws",
+          "Battle Klauen",
           "Warp Amplifier"
         ],
         "specialRules": [
@@ -707,7 +707,7 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Castigator Cannon"
+          "Castigator Geschütz"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -725,7 +725,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Castigator Cannon|2|",
+          "Castigator Geschütz|2|",
           "Laserkanone|2|"
         ],
         "specialRules": [
@@ -771,8 +771,8 @@
         "ff": 4,
         "weapons": [
           "Synchronisierter Reaper Maschinenkanone",
-          "Plague Cannon",
-          "Battle Claws"
+          "Plague Geschütz",
+          "Battle Klauen"
         ],
         "specialRules": [
           "Fearless",
@@ -791,7 +791,7 @@
         "ff": 5,
         "weapons": [
           "Reaper Maschinenkanone",
-          "Maw Cannon"
+          "Maw Geschütz"
         ],
         "specialRules": [
           "Fearless",
@@ -809,7 +809,7 @@
         "ff": 5,
         "weapons": [
           "Plague Catapult",
-          "Vomit Cannon"
+          "Vomit Geschütz"
         ],
         "specialRules": [
           "Fearless",
@@ -825,10 +825,10 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Pus Cannon||",
+          "Pus Geschütz||",
           "Laserkanone|2|FxF",
           "Synchronisierter schwerer Bolter|3|FxF",
-          "Bile Cannon",
+          "Bile Geschütz",
           "Nurglings"
         ],
         "specialRules": [
@@ -873,7 +873,7 @@
         "weapons": [
           "Plague Mortar||FxF",
           "Demolisher|2|FxF",
-          "Bile Cannon",
+          "Bile Geschütz",
           "Nurglings"
         ],
         "specialRules": [
@@ -894,9 +894,9 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Heavy Cannon",
+          "Heavy Geschütz",
           "Reaper Maschinenkanone",
-          "Battle Claws"
+          "Battle Klauen"
         ],
         "specialRules": [
           "Fearless",
@@ -907,14 +907,14 @@
         ]
       },
       {
-        "name": "Cannon of Khorne",
+        "name": "Geschütz of Khorne",
         "type": "AV",
         "speed": 15,
         "armour": 4,
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Hellfire Cannon"
+          "Hellfire Geschütz"
         ],
         "specialRules": [
           "Fearless",
@@ -948,7 +948,7 @@
         "ff": 5,
         "weapons": [
           "Blood Cannons",
-          "Daemonic Blades"
+          "Dämonische Klingen"
         ],
         "specialRules": [
           "Fearless",
@@ -987,10 +987,10 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Scorpion Cannon||FwA",
+          "Scorpion Geschütz||FwA",
           "Demolisher||FxF",
           "Synchronisierter Hellmaw||FxF",
-          "Scorpion Claws"
+          "Scorpion Klauen"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1031,8 +1031,8 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Hellstrike Cannon||FxF",
-          "Hellfire Cannon|2|FxF",
+          "Hellstrike Geschütz||FxF",
+          "Hellfire Geschütz|2|FxF",
           "Synchronisierter Reaper Maschinenkanone Turm|2|"
         ],
         "specialRules": [
@@ -1054,8 +1054,8 @@
         "weapons": [
           "Kampfgeschütz",
           "Synchronisierter Heavy Warpflamer",
-          "Eye of Magnus",
-          "Battle Claws"
+          "Auge des Magnus",
+          "Battle Klauen"
         ],
         "specialRules": [
           "Fearless",
@@ -1092,7 +1092,7 @@
         "ff": 4,
         "weapons": [
           "Rapid Fire Kampfgeschütz||FwA",
-          "Corruptor Gatling Cannon||FwA",
+          "Corruptor Gatling Geschütz||FwA",
           "Hyperwave Clarion"
         ],
         "specialRules": [
@@ -1115,7 +1115,7 @@
         "ff": 3,
         "weapons": [
           "Pandæmonium",
-          "Battle Claws"
+          "Battle Klauen"
         ],
         "specialRules": [
           "Damage Capacity 2",

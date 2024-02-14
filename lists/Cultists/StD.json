@@ -77,7 +77,7 @@
       "from": "darkmechanicus.json",
       "units": [
         "Defiler",
-        "Decimator",
+        "Vernichter",
         "Death Wheel",
         "Hell-Knight",
         "Hell-Scourge",
@@ -198,8 +198,8 @@
           "points": 250
         },
         {
-          "name": "Decimator of Chaos Undivided",
-          "units": "One Decimator",
+          "name": "Vernichter of Chaos Undivided",
+          "units": "One Vernichter",
           "points": 225
         },
         {

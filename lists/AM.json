@@ -279,7 +279,7 @@
         "ff": 4,
         "weapons": [
           "Heavy Arc Rifles",
-          "Arc Claws"
+          "Arc Klauen"
         ],
         "specialRules": [
           "Machine Spirit",
@@ -463,7 +463,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Ferrumite Cannon",
+          "Ferrumite Geschütz",
           "Raketenwerfer",
           "Synchronisierter schweres Maschinengewehr"
         ],
@@ -492,7 +492,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Conqueror Cannon",
+          "Conquerorgeschütz",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -543,7 +543,7 @@
         "weapons": [
           "Demolisher",
           "Laserkanone",
-          "Plasma Cannon|2|"
+          "Plasma Geschütz|2|"
         ],
         "specialRules": [
           "Reinforced Armour"
@@ -559,7 +559,7 @@
         "weapons": [
           "Plasma Destroyer",
           "Laserkanone",
-          "Plasma Cannon|2|"
+          "Plasma Geschütz|2|"
         ],
         "specialRules": [
           "Reinforced Armour"
@@ -578,12 +578,12 @@
           "Turbo-Laser Destructor|0-1|FxF",
           "Apocalypse Raketenwerfer|0-1|FxF",
           "Heavy Icarus Array|0-1|",
-          "Titan Plasma Cannon|0-1|FxF",
-          "Titan Melta Cannon |0-1|",
+          "Titan Plasma Geschütz|0-1|FxF",
+          "Titan Melta Geschütz |0-1|",
           "Gatling Blaster|0-1|FxF",
           ">Support Weapons<",
           "Plasma Destructor|0-1|FxF",
-          "Quake Cannon|0-1|FxF",
+          "Quake Geschütz|0-1|FxF",
           "Vulkangeschütz|0-1|FxF"
         ],
         "specialRules": [
@@ -608,8 +608,8 @@
           "Turbo-Laser Destructor|0-1|FxF",
           "Apocalypse Raketenwerfer|0-1|FxF",
           "Heavy Icarus Array|0-1|",
-          "Titan Plasma Cannon|0-1|FxF",
-          "Titan Melta Cannon |0-1|",
+          "Titan Plasma Geschütz|0-1|FxF",
+          "Titan Melta Geschütz |0-1|",
           "Gatling Blaster|0-1|FxF"
         ],
         "specialRules": [
@@ -632,7 +632,7 @@
           "Synchronisierter schweres Maschinengewehr|2|",
           "Laserkanone|2|",
           ">Ordinatus Armageddon<",
-          "Nova Cannon||FxF",
+          "Nova Geschütz||FxF",
           ">Ordinatus Mars<",
           "Sonic Disruptor||FxF",
           ">Ordinatus Golgotha<",
@@ -700,7 +700,7 @@
         "speed": "Fighter-Bomber",
         "armour": 5,
         "weapons": [
-          "AC Avenger Bolt Cannon||FxF",
+          "AC Avenger Bolt Geschütz||FxF",
           "AC Synchronisierter Maschinenkanone||FxF",
           "AC Schweres Maschinengewehr Turm"
         ],

@@ -32,7 +32,7 @@
         "Plaguebearers of Nurgle",
         "Beasts of Nurgle",
         "Plague Drones of Nurgle",
-        "Herald of Khorne on Skull Cannon",
+        "Herald of Khorne on Skull Geschütz",
         "Herald of Khorne on Juggernaut",
         "Bloodletters of Khorne",
         "Fleshhounds of Khorne",
@@ -40,7 +40,7 @@
         "Herald of Tzeentch",
         "Herald of Tzeentch on Burning Chariot",
         "Horrors of Tzeentch",
-        "Flamers of Tzeentch",
+        "Flammenwerfer of Tzeentch",
         "Screamers of Tzeentch",
         "Exalted Keeper of Secrets",
         "Keeper of Secrets",
@@ -164,7 +164,7 @@
           "units": "Two Herald of Khorne on Juggernauts, five Lesser Daemon Pool points",
           "extraUnits": [
             "Replace two Herald of Khorne on Juggernaut with a Bloodthirster: 150 points",
-            "Replace two Herald of Khorne on Juggernaut with two Herald of Khorne on Skull Cannon: 25 points",
+            "Replace two Herald of Khorne on Juggernaut with two Herald of Khorne on Skull Geschütz: 25 points",
             "Soul Grinder"
           ],
           "points": 200

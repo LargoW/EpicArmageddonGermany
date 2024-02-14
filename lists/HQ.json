@@ -101,7 +101,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Shuriken Cannon",
+          "Shuriken Geschütz",
           "Zepyrglaive"
         ],
         "specialRules": [
@@ -120,8 +120,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Prismatic Cannon",
-          "Shuriken Cannon"
+          "Prismatic Geschütz",
+          "Shuriken Geschütz"
         ],
         "specialRules": [
             "Holofield (5+)",
@@ -138,7 +138,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Shuriken Cannon"
+          "Shuriken Geschütz"
         ],
         "specialRules": [
         "Holofield (5+)",

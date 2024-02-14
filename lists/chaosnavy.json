@@ -35,7 +35,7 @@
         "armour": 6,
         "weapons": [
           "AC Hades Maschinenkanone||FxF",
-          "AC Piston-Driven Claws"
+          "AC Piston-Driven Klauen"
         ],
         "specialRules": [
           "Invulnerable Save"
@@ -48,7 +48,7 @@
         "armour": 5,
         "weapons": [
           "AC Baleflamer||FxF",
-          "AC Piston-Driven Claws"
+          "AC Piston-Driven Klauen"
         ],
         "specialRules": [
           "Invulnerable Save"
@@ -60,7 +60,7 @@
         "speed": "Fighter",
         "armour": 6,
         "weapons": [
-          "AC Flame Cannon||FxF"
+          "AC Flammengeschütz||FxF"
         ],
         "specialRules": [
           "Invulnerable Save"
@@ -73,7 +73,7 @@
         "armour": 4,
         "weapons": [
           "AC Incendiary Bombs||FxF",
-          "AC Flame Cannon||FxF",
+          "AC Flammengeschütz||FxF",
           "AC Synchronisierte Laserkanone||FxF"
         ],
         "specialRules": [
@@ -152,7 +152,7 @@
         "speed": "Bomber",
         "armour": 5,
         "weapons": [
-          "AC Synchronisierter Avenger Bolt Cannon||FxF",
+          "AC Synchronisierter Avenger Bolt Geschütz||FxF",
           "AC Rakete Array||FxF",
           "AC Doppeltsynchronisierter schwerer Bolter Turrets||"
         ],

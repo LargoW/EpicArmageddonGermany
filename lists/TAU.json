@@ -33,7 +33,7 @@
         "name": "Shas'o",
         "type": "CH",
         "weapons": [
-          "Experimental Weapons"
+          "Experimentelle Waffen"
         ],
         "specialRules": [
           "Supreme Commander",
@@ -48,7 +48,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Experimental Weapons"
+          "Experimentelle Waffen"
         ],
         "specialRules": [
           "Supreme Commander",
@@ -322,7 +322,7 @@
         "speed": 20,
         "cc": 3,
         "weapons": [
-          "Fangs"
+          "Zähne"
         ],
         "specialRules": [
           "Infiltrators",
@@ -338,7 +338,7 @@
         "ff": 5,
         "weapons": [
           "Kroot Gun",
-          "Krootox Claws"
+          "Krootox Klauen"
         ],
         "specialRules": [
         ]
@@ -352,7 +352,7 @@
         "ff": 5,
         "weapons": [
           "Kroot Bolt Thrower",
-          "Knarloc Claws"
+          "Knarloc Klauen"
         ],
         "specialRules": [
         ]
@@ -418,7 +418,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Burst Cannon and Drones",
+          "Burst Geschütz and Drones",
           "Seeker Raketen"
         ],
         "specialRules": [
@@ -450,7 +450,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Burst Cannon and Drones",
+          "Burst Geschütz and Drones",
           "Seeker Raketen"
         ],
         "specialRules": [
@@ -501,7 +501,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Ion Cannon",
+          "Ion Geschütz",
           "Smart Rakete System",
           "Seeker Raketen"
         ],
@@ -535,7 +535,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Fusion Cannon",
+          "Synchronisierter Fusion Geschütz",
           "Smart Rakete System",
           "Seeker Raketen"
         ],
@@ -602,8 +602,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Plasma Flamer",
-          "Ionic Discharge Cannon"
+          "Plasma Flammenwerfer",
+          "Ionic Discharge Geschütz"
         ],
         "specialRules": [
           "Invulnerable Save",
@@ -621,7 +621,7 @@
         "ff": 5,
         "weapons": [
           ">Standard Configuration<",
-          "Pulse Driver Cannon||FwA",
+          "Pulse Driver Geschütz||FwA",
           "Destroyer Raketen|2|",
           "Velocity Tracker",
           ">Support Configuration<",
@@ -645,7 +645,7 @@
         "ff": 5,
         "weapons": [
           "Tri-axis Ionenkanone|2|FwA",
-          "Synchronisierter Burst Cannon|2|",
+          "Synchronisierter Burst Geschütz|2|",
           "Synchronisierter Smart Rakete System|2|",
           "Nexus Rakete Array|0-1|",
           "Heavy Railcannon|0-1|FwA",
@@ -671,7 +671,7 @@
           "Heavy Ion Phalanx||FxF",
           "Synchronisierter Rakete Pod",
           "Seeker Raketen|2|",
-          "Synchronisierter Burst Cannon|4|"
+          "Synchronisierter Burst Geschütz|4|"
         ],
         "specialRules": [
           "Damage Capacity: 6",

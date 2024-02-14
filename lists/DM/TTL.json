@@ -36,7 +36,7 @@
         "Void Shields",
         "God Machine",
         "Split Fire",
-        "Shield Piercer"
+        "Schildbohrer"
       ]
     },
     {
@@ -80,7 +80,7 @@
           "name": "0-1 Chaos Emperor Titan",
           "units": "One Chaos Emperor Titan*",
           "extraUnits": [
-            "Eye of the Gods",
+            "Auge der Götter",
             "Heralds of Chaos"
           ],
           "points": 900,
@@ -90,7 +90,7 @@
           "name": "Chaos Warlord Titan",
           "units": "One Chaos Warlord Titan*",
           "extraUnits": [
-            "Eye of the Gods",
+            "Auge der Götter",
             "Heralds of Chaos"
           ],
           "points": 750,
@@ -231,13 +231,13 @@
     "description": "Each upgrade may be taken once per formation.",
     "items": [
       {
-        "name": "0-1 Eye of the Gods",
+        "name": "0-1 Auge der Götter",
         "description": "The formation gains 'Supreme Commander' special rule.",
         "points": "50 points"
       },
       {
         "name": "Heralds of Chaos",
-        "description": "The formation gains the 'Leader' special rule. May not be combined with Eye of the Gods.",
+        "description": "The formation gains the 'Leader' special rule. May not be combined with Auge der Götter.",
         "points": "25 points"
       }
     ]

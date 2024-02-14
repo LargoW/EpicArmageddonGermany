@@ -327,14 +327,14 @@
         "crit": "The Hellbore is destroyed."
       },
       {
-        "name": "Goliath Mega Cannon",
+        "name": "Goliath Mega Geschütz",
         "type": "WE",
         "speed": "5cm",
         "armour": 5,
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Squat Mega Cannon"
+          "Squat Mega Geschütz"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -350,7 +350,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Squat Doomsday Cannon||FxF",
+          "Squat Doomsday Geschütz||FxF",
           "Ragnarok Kampfgeschütz",
           "Synchronisierte Laserkanone|6|FxF",
           "Storm Bolter Array"
@@ -374,7 +374,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Hellfury Cannon||FxF",
+          "Hellfury Geschütz||FxF",
           "Ragnarok Kampfgeschütz",
           "Doomstorm Rakete|6|FxF"
         ],
@@ -385,7 +385,7 @@
           "Thick Rear Armour",
           "Fearless"
         ],
-        "crit": "The Cyclops may no longer fire its Hellfury Cannon. Subsequent crits destroys the Cyclops, and all units within 5cm takes a hit."
+        "crit": "The Cyclops may no longer fire its Hellfury Geschütz. Subsequent crits destroys the Cyclops, and all units within 5cm takes a hit."
       },
       {
         "name": "Colossus",
@@ -395,7 +395,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Squat Doomsday Cannon||FxF",
+          "Squat Doomsday Geschütz||FxF",
           "Ragnarok Kampfgeschütz|4|FxF",
           "Demolisher||FxF",
           "Plasma Rakete|4|FwA",
@@ -418,7 +418,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Squat Mjolnir Cannon||FxF",
+          "Squat Mjolnir Geschütz||FxF",
           "Ragnarok Kampfgeschütz|2|",
           "Storm Bolter Array",
           "BATTLE CAR WEAPONS",

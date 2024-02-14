@@ -151,7 +151,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Frag Cannon",
+          "Frag Geschütz",
           "Power Weapon"
         ],
         "specialRules": [
@@ -168,7 +168,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Frag Cannon",
+          "Frag Geschütz",
           "Power Weapon"
         ],
         "specialRules": [
@@ -226,7 +226,7 @@
         "armour": 5,
         "cc": 5,
         "weapons": [
-          "Fangs"
+          "Zähne"
         ],
         "specialRules": [
           "Fearless",
@@ -287,7 +287,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Heavy Flamer|2|"
+          "Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
           "Faithful"
@@ -359,7 +359,7 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Flamer",
+          "Flammenwerfer",
           "Kettenschwerter"
         ],
         "specialRules": [
@@ -386,7 +386,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Flamer"
+          "Flammenwerfer"
         ],
         "specialRules": [],
         "notes": "May transport two infantry units without Mounted or Jump Packs."
@@ -399,7 +399,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Flamer",
+          "Schwerer Flammenwerfer",
           "Power Saws"
         ],
         "specialRules": [
@@ -453,7 +453,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Exorcist Launcher"
+          "Exorcist Werfer"
         ],
         "specialRules": [
           "Faithful"
@@ -527,7 +527,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Flamer"
+          "Schwerer Flammenwerfer"
         ],
         "specialRules": [
           "Faithful",
@@ -562,7 +562,7 @@
         "weapons": [
           "Vulcan Mega-Bolter||FxF",
           "Synchronisierter schwerer Bolter||FxF",
-          "Synchronisierter Heavy Flamer  |2|"
+          "Synchronisierter Schwerer Flammenwerfer  |2|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -581,8 +581,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Exorcist Launcher|2|FxF",
-          "Inferno Cannon|2|"
+          "Exorcist Werfer|2|FxF",
+          "Inferno Geschütz|2|"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -604,7 +604,7 @@
         "weapons": [
           "Vulkangeschütz||FxF",
           "Kampfgeschütz|4|",
-          "Inferno Cannon |4|",
+          "Inferno Geschütz |4|",
           "Schwerer Bolter AA Turm|2|"
         ],
         "specialRules": [

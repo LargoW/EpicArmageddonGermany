@@ -311,7 +311,7 @@
       ]
     },
     {
-      "name": "AC Arachnus Heavy Blaze Cannon",
+      "name": "AC Arachnus Heavy Blaze Geschütz",
       "modes": [
         {
           "firepower": "MW4+",
@@ -344,7 +344,7 @@
       ]
     },
     {
-      "name": "AC Avenger Bolt Cannon",
+      "name": "AC Avenger Bolt Geschütz",
       "modes": [
         {
           "firepower": "3x AP6+/AT6+",
@@ -355,7 +355,7 @@
       ]
     },
     {
-      "name": "AC Synchronisierter Avenger Bolt Cannon",
+      "name": "AC Synchronisierter Avenger Bolt Geschütz",
       "modes": [
         {
           "firepower": "3x AP5+/AT5+",
@@ -542,7 +542,7 @@
       ]
     },
     {
-      "name": "AC Flame Cannon",
+      "name": "AC Flammengeschütz",
       "modes": [
         {
           "firepower": "AP4+/AT6+/AA5+",
@@ -762,7 +762,7 @@
       ]
     },
     {
-      "name": "AC Splinter Cannon",
+      "name": "AC Splinter Geschütz",
       "modes": [
         {
           "firepower": "AP5+/AA6+",
@@ -774,7 +774,7 @@
       ]
     },
     {
-      "name": "AC Synchronisierter Splinter Cannon",
+      "name": "AC Synchronisierter Splinter Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AA5+",
@@ -820,7 +820,7 @@
       ]
     },
     {
-      "name": "AC Turreted Splinter Cannon",
+      "name": "AC Turreted Splinter Geschütz",
       "modes": [
         {
           "firepower": "AP5+/AA6+",
@@ -857,7 +857,7 @@
       ]
     },
     {
-      "name": "AC Synchronisierter Burst Cannon",
+      "name": "AC Synchronisierter Burst Geschütz",
       "modes": [
         {
           "firepower": "AA6+",
@@ -1007,7 +1007,7 @@
       ]
     },
     {
-      "name": "AC Piston-Driven Claws",
+      "name": "AC Piston-Driven Klauen",
       "modes": [
         {
           "firepower": "AA6+",
@@ -1018,7 +1018,7 @@
       ]
     },
     {
-      "name": "AC Rift Cannon",
+      "name": "AC Rift Geschütz",
       "modes": [
         {
           "firepower": "MW4+",
@@ -1060,7 +1060,7 @@
       ]
     },
     {
-      "name": "AC Synchronisierter-linked Lastrum Bolt Cannon",
+      "name": "AC Synchronisierter-linked Lastrum Bolt Geschütz",
       "modes": [
         {
           "firepower": "2x AP4+/AT6+/AA5+",
@@ -1094,7 +1094,7 @@
       ]
     },
     {
-      "name": "AC Synchronisierter Shuriken Cannon",
+      "name": "AC Synchronisierter Shuriken Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AA5+",
@@ -1219,7 +1219,7 @@
       ]
     },
     {
-      "name": "AA Flame Cannon",
+      "name": "AA Flammengeschütz",
       "modes": [
         {
           "firepower": "AP4+/AT5+/AA5+",
@@ -1242,7 +1242,7 @@
       ]
     },
     {
-      "name": "Conversion Beam Cannon",
+      "name": "Conversion Beam Geschütz",
       "modes": [
         {
           "firepower": "MW3+",
@@ -1253,7 +1253,7 @@
       ]
     },
     {
-      "name": "Accelerator Cannon",
+      "name": "Accelerator Geschütz",
       "modes": [
         {
           "firepower": "2x MW3+",
@@ -1468,7 +1468,7 @@
     },
 
     {
-      "name": "Arc Claws",
+      "name": "Arc Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -1545,7 +1545,7 @@
         },
         {
           "firepower": "Nahkampfwaffen",
-          "join": "or",
+          "join": "oder",
           "specialRules": [
             "EA(+1)",
             "TK(D3+3)"
@@ -1576,7 +1576,7 @@
         },
         {
           "firepower": "Nahkampfwaffen",
-          "join": "or",
+          "join": "oder",
           "specialRules": [
             "TK(1)"
           ]
@@ -1646,7 +1646,7 @@
       ]
     },
     {
-      "name": "Avenger Gatling Cannon",
+      "name": "Avenger Gatling Geschütz",
       "modes": [
         {
           "firepower": "6x AP6+/AT6+",
@@ -1749,7 +1749,7 @@
       ]
     },
     {
-      "name": "Battle Claws",
+      "name": "Battle Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -1839,7 +1839,7 @@
       ]
     },
     {
-      "name": "Barbed Claws",
+      "name": "Barbed Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -2011,7 +2011,7 @@
       ]
     },
     {
-      "name": "Belleros Energy Cannon",
+      "name": "Belleros Energy Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AT5+",
@@ -2056,7 +2056,7 @@
       ]
     },
     {
-      "name": "Bile Cannon",
+      "name": "Bile Geschütz",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -2090,7 +2090,7 @@
       ]
     },
     {
-      "name": "Bio-Cannon",
+      "name": "Bio-Geschütz",
       "modes": [
         {
           "firepower": "2x AP4+/AT5+",
@@ -2101,7 +2101,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Bio-Cannon",
+      "name": "Synchronisierter Bio-Geschütz",
       "modes": [
         {
           "firepower": "3x AP3+/AT4+",
@@ -2154,7 +2154,7 @@
       ]
     },
     {
-      "name": "Bio-Plasmic Cannon",
+      "name": "Bio-Plasmic Geschütz",
       "modes": [
         {
           "firepower": "2x MW5+",
@@ -2196,7 +2196,7 @@
       ]
     },
     {
-      "name": "Bio-Titan Bio-Cannon",
+      "name": "Bio-Titan Bio-Geschütz",
       "modes": [
         {
           "firepower": "4x AP3+/AT4+",
@@ -2207,7 +2207,7 @@
       ]
     },
     {
-      "name": "Bio-Titan Bio-Cannon",
+      "name": "Bio-Titan Bio-Geschütz",
       "modes": [
         {
           "firepower": "4x AP3+/AT4+",
@@ -2386,7 +2386,7 @@
       ]
     },
     {
-      "name": "Boil Cannon",
+      "name": "Boil Geschütz",
       "modes": [
         {
           "firepower": "4x AP3+/AT6+",
@@ -2459,7 +2459,7 @@
       ]
     },
     {
-      "name": "Dreadhammer Siege Cannon",
+      "name": "Dreadhammer Siege Geschütz",
       "modes": [
         {
           "firepower": "MW3+",
@@ -2600,7 +2600,7 @@
       ]
     },
     {
-      "name": "Burst Cannon und Drones",
+      "name": "Burst Geschütz und Drones",
       "modes": [
         {
           "firepower": "AP5+",
@@ -2652,7 +2652,7 @@
       ]
     },
     {
-      "name": "Cannon of Chaos",
+      "name": "Geschütz of Chaos",
       "modes": [
         {
           "firepower": "3BP",
@@ -2687,7 +2687,7 @@
       ]
     },
     {
-      "name": "Castigator Cannon",
+      "name": "Castigator Geschütz",
       "modes": [
         {
           "firepower": "3x AP3+/AT5+",
@@ -2801,7 +2801,7 @@
         },
         {
           "firepower": "Handfeuerwaffen",
-          "join": "or",
+          "join": "oder",
           "specialRules": [
           ]
         }
@@ -2828,19 +2828,19 @@
       ]
     },
     {
-      "name": "Cobra D-Cannon",
+      "name": "Cobra D-Geschütz",
       "modes": [
         {
           "firepower": "MW3+",
           "range": 30,
           "specialRules": [
             "TK(D3+1)",
-            "Shield Piercer"
+            "Schildbohrer"
           ]
         },
         {
           "firepower": "3BP",
-          "join": "or",
+          "join": "oder",
           "specialRules": [
             "MW",
             "IC"
@@ -2879,7 +2879,7 @@
       ]
     },
     {
-      "name": "Combi-Flamers",
+      "name": "Kombi-Flammenwerfer",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -2890,7 +2890,7 @@
       ]
     },
     {
-      "name": "Conflagration Cannon",
+      "name": "Conflagration Geschütz",
       "modes": [
         {
           "firepower": "1BP",
@@ -2903,7 +2903,7 @@
       ]
     },
     {
-      "name": "Corruption Cannon",
+      "name": "Corruption Geschütz",
       "modes": [
         {
           "firepower": "3x MW4+",
@@ -2914,7 +2914,7 @@
       ]
     },
     {
-      "name": "Corruptor Gatling Cannon",
+      "name": "Corruptor Gatling Geschütz",
       "modes": [
         {
           "firepower": "6x AP6+/AT6+",
@@ -2982,7 +2982,7 @@
       ]
     },
     {
-      "name": "Cyclone Cannon",
+      "name": "Cyclone Geschütz",
       "modes": [
         {
           "firepower": "6x AP4+/AT4+",
@@ -2993,7 +2993,7 @@
       ]
     },
     {
-      "name": "2x Cyclone Cannon",
+      "name": "2x Cyclone Geschütz",
       "modes": [
         {
           "firepower": "5x AP4+/AT4+",
@@ -3004,7 +3004,7 @@
       ]
     },
     {
-      "name": "Cyclone Rakete Launchers",
+      "name": "Cyclone Raketenwerfer",
       "modes": [
         {
           "firepower": "3x AP5+/AT6+",
@@ -3015,7 +3015,7 @@
       ]
     },
     {
-      "name": "Claws",
+      "name": "Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen"
@@ -3034,7 +3034,7 @@
       ]
     },
     {
-      "name": "Large Claws",
+      "name": "Large Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -3046,7 +3046,7 @@
       ]
     },
     {
-      "name": "Massive Claws",
+      "name": "Massive Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -3070,7 +3070,7 @@
       ]
     },
     {
-      "name": "Monstrous Claws",
+      "name": "Monströse Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -3082,7 +3082,7 @@
       ]
     },
     {
-      "name": "Ripping Claws",
+      "name": "Ripping Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -3093,7 +3093,7 @@
       ]
     },
     {
-      "name": "Claws und Fangs",
+      "name": "Klauen und Zähne",
       "modes": [
         {
           "firepower": "Nahkampfwaffen"
@@ -3101,7 +3101,7 @@
       ]
     },
     {
-      "name": "Krootox Claws",
+      "name": "Krootox Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -3112,7 +3112,7 @@
       ]
     },
     {
-      "name": "Knarloc Claws",
+      "name": "Knarloc Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -3124,7 +3124,7 @@
       ]
     },
     {
-      "name": "Cloud of Flies",
+      "name": "Fliegenwolke",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -3134,7 +3134,7 @@
       ]
     },
     {
-      "name": "Cognis Flamer",
+      "name": "Cognis Flammenwerfer",
       "modes": [
         {
           "firepower": "AP4+",
@@ -3161,7 +3161,7 @@
       ]
     },
     {
-      "name": "Conqueror Cannon",
+      "name": "Conquerorgeschütz",
       "modes": [
         {
           "firepower": "AP5+/AT5+",
@@ -3203,7 +3203,7 @@
         },
         {
           "firepower": "Handfeuerwaffen",
-          "join": "or",
+          "join": "oder",
           "specialRules": [
             "MW"
           ]
@@ -3224,13 +3224,13 @@
       ]
     },
     {
-      "name": "Warp Hunter D-Cannon",
+      "name": "Warp Hunter D-Geschütz",
       "modes": [
         {
           "firepower": "MW3+",
           "range": 30,
           "specialRules": [
-            "Shield Piercer"
+            "Schildbohrer"
           ]
         },
         {
@@ -3238,13 +3238,13 @@
           "join": "und",
           "specialRules": [
             "MW",
-            "Shield Piercer"
+            "Schildbohrer"
           ]
         }
       ]
     },
     {
-      "name": "Daemonic Possession",
+      "name": "Dämonische Besessenheit",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -3255,7 +3255,7 @@
         },
         {
           "firepower": "Nahkampfwaffen",
-          "join": "or",
+          "join": "oder",
           "specialRules": [
             "EA(+1)",
             "FS"
@@ -3276,7 +3276,7 @@
       ]
     },
     {
-      "name": "Daemonic Blades",
+      "name": "Dämonische Klingen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -3287,7 +3287,7 @@
       ]
     },
     {
-      "name": "Daemon Maw",
+      "name": "Dämonenmaul",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -3299,7 +3299,7 @@
       ]
     },
     {
-      "name": "Daemon Weapon",
+      "name": "Dämonenwaffen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -3352,7 +3352,7 @@
           "range": 30,
           "specialRules": [
             "Lanze",
-            "Left"
+            "Links"
           ]
         }
       ]
@@ -3365,7 +3365,7 @@
           "range": 30,
           "specialRules": [
             "Lanze",
-            "Right"
+            "Rechts"
           ]
         }
       ]
@@ -3415,7 +3415,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Deathshroud Cannon",
+      "name": "Synchronisierter Deathshroud Geschütz",
       "modes": [
         {
           "firepower": "2BP",
@@ -3439,7 +3439,7 @@
       ]
     },
     {
-      "name": "Decimator Cannon",
+      "name": "Vernichtergeschütz",
       "modes": [
         {
           "firepower": "3BP",
@@ -3501,7 +3501,7 @@
       ]
     },
     {
-      "name": "Devourer Cannon",
+      "name": "Devourer Geschütz",
       "modes": [
         {
           "firepower": "4x MW4+",
@@ -3582,7 +3582,7 @@
       ]
     },
     {
-      "name": "Vibro Cannon",
+      "name": "Vibro Geschütz",
       "modes": [
         {
           "firepower": "2x AP3+/AT6+",
@@ -3594,14 +3594,14 @@
       ]
     },
     {
-      "name": "Support D-Cannon",
+      "name": "Support D-Geschütz",
       "modes": [
         {
           "firepower": "MW3+",
           "range": 30,
           "specialRules": [
             "MW",
-            "Shield Piercer"
+            "Schildbohrer"
           ]
         }
       ]
@@ -3619,7 +3619,7 @@
       ]
     },
     {
-      "name": "Distortion Cannon",
+      "name": "Distortion Geschütz",
       "modes": [
         {
           "firepower": "MW3+ FxF",
@@ -3630,7 +3630,7 @@
         },
         {
           "firepower": "3BP FxF",
-          "join": "or",
+          "join": "oder",
           "specialRules": [
             "MW",
             "IC"
@@ -3660,7 +3660,7 @@
       ]
     },
     {
-      "name": "Deathstrike Rakete",
+      "name": "Todesstoss Rakete",
       "modes": [
         {
           "firepower": "MW3+",
@@ -3788,7 +3788,7 @@
       ]
     },
     {
-      "name": "Necron Doomsday Cannon",
+      "name": "Necron Doomsday Geschütz",
       "modes": [
         {
           "firepower": "AP3+/AT3+",
@@ -3829,7 +3829,7 @@
       ]
     },
     {
-      "name": "Squat Mjolnir Cannon",
+      "name": "Squat Mjolnir Geschütz",
       "modes": [
         {
           "firepower": "3BP",
@@ -3841,7 +3841,7 @@
       ]
     },
     {
-      "name": "Squat Doomsday Cannon",
+      "name": "Squat Doomsday Geschütz",
       "modes": [
         {
           "firepower": "3BP",
@@ -3878,7 +3878,7 @@
       ]
     },
     {
-      "name": "Earthshaker Cannon",
+      "name": "Earthshaker Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AT4+",
@@ -3886,7 +3886,7 @@
         },
         {
           "firepower": "1BP",
-          "join": "or",
+          "join": "oder",
           "specialRules": [
             "Ind"
           ]
@@ -3894,7 +3894,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Earthshaker Cannon",
+      "name": "Synchronisierter Earthshaker Geschütz",
       "modes": [
         {
           "firepower": "AP3+/AT3+",
@@ -3902,7 +3902,7 @@
         },
         {
           "firepower": "2BP",
-          "join": "or",
+          "join": "oder",
           "specialRules": [
             "Ind"
           ]
@@ -3910,7 +3910,7 @@
       ]
     },
     {
-      "name": "Ectoplasma Cannon",
+      "name": "Ectoplasma Geschütz",
       "modes": [
         {
           "firepower": "AP5+/AT5+",
@@ -3979,7 +3979,7 @@
       ]
     },
     {
-      "name": "EMP Discharge Cannon",
+      "name": "EMP Discharge Geschütz",
       "modes": [
         {
           "firepower": "AP4+",
@@ -4057,7 +4057,7 @@
       ]
     },
     {
-      "name": "Eye of Magnus",
+      "name": "Auge des Magnus",
       "modes": [
         {
           "firepower": "2x AP6+/AT6+/AA6+",
@@ -4068,7 +4068,7 @@
       ]
     },
     {
-      "name": "Exarch Close Combat Weapon",
+      "name": "Exarch Nahkampfwaffe",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -4079,7 +4079,7 @@
       ]
     },
     {
-      "name": "Exarch Ranged Weapon",
+      "name": "Exarch Fernkampfwaffe",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -4090,7 +4090,7 @@
       ]
     },
     {
-      "name": "Exorcist Launcher",
+      "name": "Exorcist Werfer",
       "modes": [
         {
           "firepower": "2x AP5+/AT5+",
@@ -4101,7 +4101,7 @@
       ]
     },
     {
-      "name": "Experimental Weapons",
+      "name": "Experimentelle Waffen",
       "modes": [
         {
           "firepower": "AP4+/AT6+",
@@ -4146,7 +4146,7 @@
       ]
     },
     {
-      "name": "Fangs",
+      "name": "Zähne",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -4168,7 +4168,7 @@
       ]
     },
     {
-      "name": "Ferrumite Cannon",
+      "name": "Ferrumite Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AT5+",
@@ -4179,7 +4179,7 @@
       ]
     },
     {
-      "name": "Firepike",
+      "name": "Feuerpike",
       "modes": [
         {
           "firepower": "MW4+",
@@ -4202,7 +4202,7 @@
       ]
     },
     {
-      "name": "Fist of Gork",
+      "name": "Faust des Gork",
       "modes": [
         {
           "firepower": "MW5+/AA6+",
@@ -4258,7 +4258,7 @@
       ]
     },
     {
-      "name": "Flamer",
+      "name": "Flammenwerfer",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -4269,7 +4269,7 @@
       ]
     },
     {
-      "name": "Hand Flamer",
+      "name": "Flammenpistole",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -4280,7 +4280,7 @@
       ]
     },
     {
-      "name": "Hand Flamers",
+      "name": "Flammenpistole",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -4291,7 +4291,7 @@
       ]
     },
     {
-      "name": "Flamers",
+      "name": "Flammenwerfer",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -4302,7 +4302,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Tau Flamer",
+      "name": "Synchronisierter Tau Flammenwerfer",
       "modes": [
         {
           "firepower": "AP4+",
@@ -4314,7 +4314,7 @@
       ]
     },
     {
-      "name": "Cerastus Flame Cannon",
+      "name": "Cerastus Flammengeschütz",
       "modes": [
         {
           "firepower": "AP2+",
@@ -4340,7 +4340,7 @@
       ]
     },
     {
-      "name": "Flayed Ones Claws",
+      "name": "Klauen der Albträume",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -4360,7 +4360,7 @@
       ]
     },
     {
-      "name": "Flamestorm Cannon ",
+      "name": "Flamestorm Geschütz ",
       "modes": [
         {
           "firepower": "AP3+",
@@ -4372,7 +4372,7 @@
       ]
     },
     {
-      "name": "Flamestorm Cannon",
+      "name": "Flamestorm Geschütz",
       "modes": [
         {
           "firepower": "AP3+",
@@ -4410,7 +4410,7 @@
       ]
     },
     {
-      "name": "Fleshborers",
+      "name": "Bohrkäferschleuder",
       "modes": [
         {
           "firepower": "Handfeuerwaffen"
@@ -4418,7 +4418,7 @@
       ]
     },
     {
-      "name": "Flesh Hooks",
+      "name": "Fanghaken",
       "modes": [
         {
           "firepower": "Handfeuerwaffen"
@@ -4438,7 +4438,7 @@
       ]
     },
     {
-      "name": "Frag Cannon",
+      "name": "Frag Geschütz",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -4748,7 +4748,7 @@
       ]
     },
     {
-      "name": "Gyrator Barrage Cannon",
+      "name": "Gyrator Barrage Geschütz",
       "modes": [
         {
           "firepower": "8x AP4+/AT4+",
@@ -4804,20 +4804,20 @@
           "range": 90,
           "specialRules": [
             "TK(D3)",
-            "Shield Piercer"
+            "Schildbohrer"
           ]
         }
       ]
     },
     {
-      "name": "Graviton Singularity Cannon",
+      "name": "Graviton Singularity Geschütz",
       "modes": [
         {
           "firepower": "MW2+",
           "range": 30,
           "specialRules": [
             "TK(D3)",
-            "Shield Piercer"
+            "Schildbohrer"
           ]
         }
       ]
@@ -4982,7 +4982,7 @@
       ]
     },
     {
-      "name": "Harvester Cannon",
+      "name": "Harvester Geschütz",
       "modes": [
         {
           "firepower": "3x AP5+/AT6+/AA6+",
@@ -5026,7 +5026,7 @@
           "range": 90,
           "specialRules": [
             "SS",
-            "Shield Piercer"
+            "Schildbohrer"
           ]
         }
       ]
@@ -5039,7 +5039,7 @@
           "range": 90,
           "specialRules": [
             "SS",
-            "Shield Piercer"
+            "Schildbohrer"
           ]
         }
       ]
@@ -5087,7 +5087,7 @@
       ]
     },
     {
-      "name": "Lightning Claws",
+      "name": "Lightning Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -5198,7 +5198,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Long-Barrelled Burst Cannon",
+      "name": "Synchronisierter Long-Barrelled Burst Geschütz",
       "modes": [
         {
           "firepower": "AP3+/AT6+",
@@ -5209,7 +5209,7 @@
       ]
     },
     {
-      "name": "Heavy Cannon",
+      "name": "Heavy Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AT4+",
@@ -5231,7 +5231,7 @@
       ]
     },
     {
-      "name": "Heavy Flamer",
+      "name": "Schwerer Flammenwerfer",
       "modes": [
         {
           "firepower": "AP4+",
@@ -5250,7 +5250,7 @@
       ]
     },
     {
-      "name": "Heavy Flamer ",
+      "name": "Schwerer Flammenwerfer ",
       "modes": [
         {
           "firepower": "AP4+",
@@ -5270,7 +5270,7 @@
       ]
     },
     {
-      "name": "2x Heavy Flamer",
+      "name": "2x Schwerer Flammenwerfer",
       "modes": [
         {
           "firepower": "AP4+",
@@ -5332,7 +5332,7 @@
       ]
     },
     {
-      "name": "Tremor Cannon",
+      "name": "Tremor Geschütz",
       "modes": [
         {
           "firepower": "2BP",
@@ -5346,7 +5346,7 @@
       ]
     },
     {
-      "name": "Ionic Discharge Cannon",
+      "name": "Ionic Discharge Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AT5+",
@@ -5609,7 +5609,7 @@
       ]
     },
     {
-      "name": "Hellfire Cannon",
+      "name": "Hellfire Geschütz",
       "modes": [
         {
           "firepower": "MW4+",
@@ -5665,7 +5665,7 @@
       ]
     },
     {
-      "name": "Helfrost Cannon",
+      "name": "Helfrost Geschütz",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -5676,7 +5676,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Helfrost Cannon",
+      "name": "Synchronisierter Helfrost Geschütz",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -5688,7 +5688,7 @@
       ]
     },
     {
-      "name": "Hellfury Cannon",
+      "name": "Hellfury Geschütz",
       "modes": [
         {
           "firepower": "MW2+",
@@ -5720,7 +5720,7 @@
       ]
     },
     {
-      "name": "Hellhammer Cannon",
+      "name": "Hellhammer Geschütz",
       "modes": [
         {
           "firepower": "AP2+/AT2+",
@@ -5780,7 +5780,7 @@
       ]
     },
     {
-      "name": "Hellstorm Cannon",
+      "name": "Hellstorm Geschütz",
       "modes": [
         {
           "firepower": "10BP",
@@ -5791,7 +5791,7 @@
       ]
     },
     {
-      "name": "Hellstrike Cannon",
+      "name": "Hellstrike Geschütz",
       "modes": [
         {
           "firepower": "3BP",
@@ -5827,7 +5827,7 @@
       ]
     },
     {
-      "name": "Hex Cannon",
+      "name": "Hex Geschütz",
       "modes": [
         {
           "firepower": "6x AP5+/AT5+",
@@ -5838,7 +5838,7 @@
       ]
     },
     {
-      "name": "2x Hex Cannon",
+      "name": "2x Hex Geschütz",
       "modes": [
         {
           "firepower": "4x AP4+/AT4+",
@@ -5996,7 +5996,7 @@
       ]
     },
     {
-      "name": "Claws, Teeth & Tail",
+      "name": "Klauen, Teeth & Tail",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -6087,7 +6087,7 @@
       ]
     },
     {
-      "name": "Infected Earthshaker Cannon",
+      "name": "Infected Earthshaker Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AT4+",
@@ -6098,7 +6098,7 @@
         },
         {
           "firepower": "1BP",
-          "join": "or",
+          "join": "oder",
           "specialRules": [
             "Ind",
             "D"
@@ -6152,7 +6152,7 @@
       ]
     },
     {
-      "name": "Inferno Cannon",
+      "name": "Inferno Geschütz",
       "modes": [
         {
           "firepower": "AP3+",
@@ -6171,7 +6171,7 @@
       ]
     },
     {
-      "name": "Inferno Cannon ",
+      "name": "Inferno Geschütz ",
       "modes": [
         {
           "firepower": "AP3+",
@@ -6202,7 +6202,7 @@
       ]
     },
     {
-      "name": "Ion Cannon",
+      "name": "Ion Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AT5+",
@@ -6496,7 +6496,7 @@
       ]
     },
     {
-      "name": "AC Synchronisierter Kustom Mega-Cannon",
+      "name": "AC Synchronisierter Kustom Mega-Geschütz",
       "modes": [
         {
           "firepower": "3x AP6+/AT4+",
@@ -6507,7 +6507,7 @@
       ]
     },
     {
-      "name": "Large Rending Claws",
+      "name": "Large Rending Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -6702,7 +6702,7 @@
       ]
     },
     {
-      "name": "Lastrum Bolt Cannon",
+      "name": "Lastrum Bolt Geschütz",
       "modes": [
         {
           "firepower": "AP5+/AT6+",
@@ -6787,7 +6787,7 @@
       ]
     },
     {
-      "name": "Lightning Cannon",
+      "name": "Lightning Geschütz",
       "modes": [
         {
           "firepower": "MW2+",
@@ -6824,7 +6824,7 @@
       ]
     },
     {
-      "name": "Long Barrelled Splinter Cannon",
+      "name": "Long Barrelled Splinter Geschütz",
       "modes": [
         {
           "firepower": "AP5+",
@@ -6835,7 +6835,7 @@
       ]
     },
     {
-      "name": "Long Cannon",
+      "name": "Long Geschütz",
       "modes": [
         {
           "firepower": "MW3+",
@@ -7026,7 +7026,7 @@
     },
 
     {
-      "name": "Maw Cannon",
+      "name": "Maw Geschütz",
       "modes": [
         {
           "firepower": "AP4+",
@@ -7045,7 +7045,7 @@
       ]
     },
     {
-      "name": "Squat Mega Cannon",
+      "name": "Squat Mega Geschütz",
       "modes": [
         {
           "firepower": "3BP",
@@ -7102,7 +7102,7 @@
       ]
     },
     {
-      "name": "Titan Melta Cannon",
+      "name": "Titan Melta Geschütz",
       "modes": [
         {
           "firepower": "MW2+",
@@ -7123,7 +7123,7 @@
       ]
     },
     {
-      "name": "Titan Melta Cannon ",
+      "name": "Titan Melta Geschütz ",
       "modes": [
         {
           "firepower": "MW2+",
@@ -7660,7 +7660,7 @@
       ]
     },
     {
-      "name": "Nova Cannon",
+      "name": "Nova Geschütz",
       "modes": [
         {
           "firepower": "4x MW2+",
@@ -7785,7 +7785,7 @@
         },
         {
           "firepower": "AA5+",
-          "join": "or",
+          "join": "oder",
           "range": 60,
           "specialRules": [
             "MW"
@@ -7794,7 +7794,7 @@
       ]
     },
     {
-      "name": "Particle Cannon",
+      "name": "Particle Geschütz",
       "modes": [
         {
           "firepower": "AP3+/AT5+ ",
@@ -7827,7 +7827,7 @@
       ]
     },
     {
-      "name": "Perditor Claws",
+      "name": "Perditor Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -7881,7 +7881,7 @@
       ]
     },
     {
-      "name": "Piercing Claws",
+      "name": "Piercing Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -7892,7 +7892,7 @@
       ]
     },
     {
-      "name": "Plague Cannon",
+      "name": "Plague Geschütz",
       "modes": [
         {
           "firepower": "2 × AP3+/AT5+/AA5+",
@@ -8060,7 +8060,7 @@
       ]
     },
     {
-      "name": "Plasma Cannon",
+      "name": "Plasma Geschütz",
       "modes": [
         {
           "firepower": "AP5+/AT5+",
@@ -8071,7 +8071,7 @@
       ]
     },
     {
-      "name": "2x Titan Plasma Cannon",
+      "name": "2x Titan Plasma Geschütz",
       "modes": [
         {
           "firepower": "3x MW2+",
@@ -8083,7 +8083,7 @@
       ]
     },
     {
-      "name": "Titan Plasma Cannon",
+      "name": "Titan Plasma Geschütz",
       "modes": [
         {
           "firepower": "3x MW2+",
@@ -8107,7 +8107,7 @@
       ]
     },
     {
-      "name": "Plasma Decimator",
+      "name": "Plasma Vernichter",
       "modes": [
         {
           "firepower": "2x MW3+",
@@ -8166,7 +8166,7 @@
       ]
     },
     {
-      "name": "Plasma Flamer",
+      "name": "Plasma Flammenwerfer",
       "modes": [
         {
           "firepower": "2x MW5+",
@@ -8417,7 +8417,7 @@
       ]
     },
     {
-      "name": "Power Claws",
+      "name": "Power Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -8563,7 +8563,7 @@
       ]
     },
     {
-      "name": "Predator Cannon",
+      "name": "Predator Geschütz",
       "modes": [
         {
           "firepower": "2x AP5+/AT6+",
@@ -8574,7 +8574,7 @@
       ]
     },
     {
-      "name": "Prism Cannon",
+      "name": "Prism Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AT4+/AA5+",
@@ -8595,7 +8595,7 @@
         {
           "firepower": "2BP",
           "range": 30,
-          "join": "or",
+          "join": "oder",
           "specialRules": [
             "MW",
             "IC"
@@ -8604,7 +8604,7 @@
       ]
     },
     {
-      "name": "Prismatic Cannon",
+      "name": "Prismatic Geschütz",
       "modes": [
         {
           "firepower": "AP5+/AT4+",
@@ -8671,7 +8671,7 @@
       ]
     },
     {
-      "name": "Pus Cannon",
+      "name": "Pus Geschütz",
       "modes": [
         {
           "firepower": "3BP",
@@ -8803,7 +8803,7 @@
       ]
     },
     {
-      "name": "Pulse Driver Cannon",
+      "name": "Pulse Driver Geschütz",
       "modes": [
         {
           "firepower": "MW2+",
@@ -8891,7 +8891,7 @@
       ]
     },
     {
-      "name": "Purestrain Rending Claws",
+      "name": "Purestrain Rending Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -8936,7 +8936,7 @@
         {
           "firepower": "3BP",
           "range": 60,
-          "join": "or",
+          "join": "oder",
           "specialRules": [
             "D",
             "IC"
@@ -8993,7 +8993,7 @@
       ]
     },
     {
-      "name": "Punisher Gatling Cannon",
+      "name": "Punisher Gatling Geschütz",
       "modes": [
         {
           "firepower": "3x AP6+/AT6+",
@@ -9015,7 +9015,7 @@
       ]
     },
     {
-      "name": "2x Quake Cannon",
+      "name": "2x Quake Geschütz",
       "modes": [
         {
           "firepower": "3BP",
@@ -9029,7 +9029,7 @@
       ]
     },
     {
-      "name": "Quake Cannon",
+      "name": "Quake Geschütz",
       "modes": [
         {
           "firepower": "3BP",
@@ -9043,7 +9043,7 @@
       ]
     },
     {
-      "name": "Nemesis Quake Cannon",
+      "name": "Nemesis Quake Geschütz",
       "modes": [
         {
           "firepower": "3BP",
@@ -9057,7 +9057,7 @@
       ]
     },
     {
-      "name": "Corruptos Chaos Cannon",
+      "name": "Corruptos Chaos Geschütz",
       "modes": [
         {
           "firepower": "3BP",
@@ -9156,7 +9156,7 @@
         {
           "firepower": "AP5+",
           "range": 75,
-          "join": "or",
+          "join": "oder",
           "specialRules": [
           ]
         }
@@ -9315,7 +9315,7 @@
       ]
     },
     {
-      "name": "Rending Claws",
+      "name": "Rending Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -9450,7 +9450,7 @@
       ]
     },
     {
-      "name": "Rot Cannon",
+      "name": "Rot Geschütz",
       "modes": [
         {
           "firepower": "4x AP3+/AT5+",
@@ -9533,7 +9533,7 @@
       ]
     },
     {
-      "name": "Scorpion Cannon",
+      "name": "Scorpion Geschütz",
       "modes": [
         {
           "firepower": "3x AP3+/AT5+",
@@ -9544,7 +9544,7 @@
       ]
     },
     {
-      "name": "Scorpion Claws",
+      "name": "Scorpion Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -9565,7 +9565,7 @@
       ]
     },
     {
-      "name": "Scythed Claws",
+      "name": "Scythed Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -9621,7 +9621,7 @@
       ]
     },
     {
-      "name": "Seismic Cannon",
+      "name": "Seismic Geschütz",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -9632,7 +9632,7 @@
       ]
     },
     {
-      "name": "Seismic Heavy Cannon",
+      "name": "Seismic Heavy Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AT6+",
@@ -9673,13 +9673,13 @@
       ]
     },
     {
-      "name": "Shieldbreaker Raketen",
+      "name": "Schildbrecher Raketen",
       "modes": [
         {
           "firepower": "AT3+",
           "range": 60,
           "specialRules": [
-            "Shield Piercer",
+            "Schildbohrer",
             "SS"
           ]
         }
@@ -9751,7 +9751,7 @@
       ]
     },
     {
-      "name": "Shuriken Cannon",
+      "name": "Shuriken Geschütz",
       "modes": [
         {
           "firepower": "AP5+",
@@ -9782,7 +9782,7 @@
       ]
     },
     {
-      "name": "Siege Cannon",
+      "name": "Siege Geschütz",
       "modes": [
         {
           "firepower": "3BP",
@@ -9845,7 +9845,7 @@
       ]
     },
     {
-      "name": "Silenced Burst Cannon",
+      "name": "Silenced Burst Geschütz",
       "modes": [
         {
           "firepower": "AP4+",
@@ -9880,7 +9880,7 @@
         },
         {
           "firepower": "Nahkampfwaffen",
-          "join": "or",
+          "join": "oder",
           "specialRules": [
             "EA(+1)",
             "MW"
@@ -9943,7 +9943,7 @@
       ]
     },
     {
-      "name": "Skull Cannon",
+      "name": "Skull Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AT4+",
@@ -9955,7 +9955,7 @@
       ]
     },
     {
-      "name": "Skullhamma Cannon",
+      "name": "Skullhamma Geschütz",
       "modes": [
         {
           "firepower": "3BP",
@@ -10193,7 +10193,7 @@
       ]
     },
     {
-      "name": "Soulreaper Cannon",
+      "name": "Soulreaper Geschütz",
       "modes": [
         {
           "firepower": "AP5+/AT5+",
@@ -10213,7 +10213,7 @@
       ]
     },
     {
-      "name": "Splinter Cannon",
+      "name": "Splinter Geschütz",
       "modes": [
         {
           "firepower": "AP5+",
@@ -10325,7 +10325,7 @@
         },
         {
           "firepower": "3BP",
-          "join": "or",
+          "join": "oder",
           "range": 60,
           "specialRules": [
             "MW",
@@ -10505,7 +10505,7 @@
       ]
     },
     {
-      "name": "Stormhammer Cannon",
+      "name": "Stormhammer Geschütz",
       "modes": [
         {
           "firepower": "1BP",
@@ -10516,7 +10516,7 @@
       ]
     },
     {
-      "name": "Stranglethorn Cannon",
+      "name": "Stranglethorn Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AT5+",
@@ -10527,7 +10527,7 @@
       ]
     },
     {
-      "name": "Drool Cannon",
+      "name": "Drool Geschütz",
       "modes": [
         {
           "firepower": "AP4+",
@@ -10678,7 +10678,7 @@
           "specialRules": [
             "EA(+1)",
             "TK(D2)",
-            "Shield Piercer"
+            "Schildbohrer"
           ]
         }
       ]
@@ -10725,7 +10725,7 @@
       ]
     },
     {
-      "name": "Teeth und Claws",
+      "name": "Teeth und Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -10748,7 +10748,7 @@
       ]
     },
     {
-      "name": "Fangs und Horns",
+      "name": "Zähne und Horns",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -10872,7 +10872,7 @@
       ]
     },
     {
-      "name": "Tesla Cannon",
+      "name": "Tesla Geschütz",
       "modes": [
         {
           "firepower": "AP5+",
@@ -10905,7 +10905,7 @@
       ]
     },
     {
-      "name": "Thermal Cannon",
+      "name": "Thermal Geschütz",
       "modes": [
         {
           "firepower": "MW3+",
@@ -10924,7 +10924,7 @@
       ]
     },
     {
-      "name": "Thermal Cannon ",
+      "name": "Thermal Geschütz ",
       "modes": [
         {
           "firepower": "MW3+",
@@ -10999,7 +10999,7 @@
           "specialRules": [
             "EA(+1)",
             "TK(1)",
-            "Shield Piercer"
+            "Schildbohrer"
           ]
         }
       ]
@@ -11016,7 +11016,7 @@
       ]
     },
     {
-      "name": "Thunderfire Cannon",
+      "name": "Thunderfire Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AT6+",
@@ -11121,19 +11121,19 @@
       ]
     },
     {
-      "name": "Titan D-Cannon",
+      "name": "Titan D-Geschütz",
       "modes": [
         {
           "firepower": "MW3+",
           "range": 45,
           "specialRules": [
             "TK(D3+1)",
-            "Shield Piercer"
+            "Schildbohrer"
           ]
         },
         {
           "firepower": "3BP",
-          "join": "or",
+          "join": "oder",
           "specialRules": [
             "MW",
             "IC"
@@ -11171,7 +11171,7 @@
         },
         {
           "firepower": "Nahkampfwaffen",
-          "join": "or",
+          "join": "oder",
           "specialRules": [
             "EA(+1)",
             "TK(D3+3)"
@@ -11217,7 +11217,7 @@
       ]
     },
     {
-      "name": "Tomb Spyder Claws",
+      "name": "Tomb Spyder Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -11291,7 +11291,7 @@
           "firepower": "MW2+",
           "range": 30,
           "specialRules": [
-            "Shield Piercer",
+            "Schildbohrer",
             "TK(1)"
           ]
         }
@@ -11523,7 +11523,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Fusion Cannon",
+      "name": "Synchronisierter Fusion Geschütz",
       "modes": [
         {
           "firepower": "MW4+",
@@ -11588,7 +11588,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Heavy Flamer",
+      "name": "Synchronisierter Schwerer Flammenwerfer",
       "modes": [
         {
           "firepower": "AP3+",
@@ -11607,7 +11607,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Heavy Flamer  ",
+      "name": "Synchronisierter Schwerer Flammenwerfer  ",
       "modes": [
         {
           "firepower": "AP3+",
@@ -11627,7 +11627,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Heavy Flamer ",
+      "name": "Synchronisierter Schwerer Flammenwerfer ",
       "modes": [
         {
           "firepower": "AP3+",
@@ -11702,7 +11702,7 @@
           "firepower": "AT4+",
           "range": 45,
           "specialRules": [
-            "Right"
+            "Rechts"
           ]
         }
       ]
@@ -11714,7 +11714,7 @@
           "firepower": "AT4+",
           "range": 45,
           "specialRules": [
-            "Left"
+            "Links"
           ]
         }
       ]
@@ -11729,7 +11729,7 @@
       ]
     },
     {
-      "name": "Synchronisierter-linked Arachnus Blaze Cannon",
+      "name": "Synchronisierter-linked Arachnus Blaze Geschütz",
       "modes": [
         {
           "firepower": "MW4+",
@@ -11738,7 +11738,7 @@
       ]
     },
     {
-      "name": "Synchronisierter-linked Arachnus Heavy Blaze Cannon",
+      "name": "Synchronisierter-linked Arachnus Heavy Blaze Geschütz",
       "modes": [
         {
           "firepower": "MW3+",
@@ -11747,7 +11747,7 @@
       ]
     },
     {
-      "name": "Synchronisierter-linked Iliastus Accelator Cannon",
+      "name": "Synchronisierter-linked Iliastus Accelator Geschütz",
       "modes": [
         {
           "firepower": "2x AP4+/AT5+",
@@ -11756,7 +11756,7 @@
       ]
     },
     {
-      "name": "Synchronisierter-linked Lastrum Bolt Cannon",
+      "name": "Synchronisierter-linked Lastrum Bolt Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AT5+",
@@ -11767,7 +11767,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Burst Cannon",
+      "name": "Synchronisierter Burst Geschütz",
       "modes": [
         {
           "firepower": "AP5+/AA6+",
@@ -11839,7 +11839,7 @@
       ]
     },
     {
-      "name": "Melta Cannon",
+      "name": "Melta Geschütz",
       "modes": [
         {
           "firepower": "MW4+",
@@ -11922,7 +11922,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Shuriken Cannon",
+      "name": "Synchronisierter Shuriken Geschütz",
       "modes": [
         {
           "firepower": "AP4+",
@@ -11943,7 +11943,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Siegebreaker Cannon",
+      "name": "Synchronisierter Siegebreaker Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AT4+",
@@ -12011,7 +12011,7 @@
       ]
     },
     {
-      "name": "Tzeentch Cannon",
+      "name": "Tzeentch Geschütz",
       "modes": [
         {
           "firepower": "3x AP3+/AT3+",
@@ -12034,7 +12034,7 @@
       ]
     },
     {
-      "name": "Vanquisher Cannon",
+      "name": "Vanquisher Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AT2+",
@@ -12045,7 +12045,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Vanquisher Cannon",
+      "name": "Synchronisierter Vanquisher Geschütz",
       "modes": [
         {
           "firepower": "AP2+/AT2+",
@@ -12076,7 +12076,7 @@
       ]
     },
     {
-      "name": "Vengeance Cannon",
+      "name": "Vengeance Geschütz",
       "modes": [
         {
           "firepower": "MW2+",
@@ -12096,7 +12096,7 @@
       ]
     },
     {
-      "name": "Venom Cannon",
+      "name": "Venom Geschütz",
       "modes": [
         {
           "firepower": "AP4+/AT5+",
@@ -12105,14 +12105,14 @@
       ]
     },
     {
-      "name": "Titan Vibro Cannon",
+      "name": "Titan Vibro Geschütz",
       "modes": [
         {
           "firepower": "5x AT2+",
           "range": 45,
           "specialRules": [
             "D",
-            "Shield Piercer"
+            "Schildbohrer"
           ]
         }
       ]
@@ -12309,7 +12309,7 @@
         },
         {
           "firepower": "Nahkampfwaffen",
-          "join": "or",
+          "join": "oder",
           "specialRules": [
             "MW"
           ]
@@ -12317,7 +12317,7 @@
       ]
     },
     {
-      "name": "Vomit Cannon",
+      "name": "Vomit Geschütz",
       "modes": [
         {
           "firepower": "2x AP4+/AT6+",
@@ -12355,7 +12355,7 @@
       ]
     },
     {
-      "name": "War Cannon",
+      "name": "War Geschütz",
       "modes": [
         {
           "firepower": "AT4+ ",
@@ -12451,7 +12451,7 @@
           "specialRules": [
             "SS",
             "TK(D3)",
-            "Shield Piercer"
+            "Schildbohrer"
           ]
         }
       ]
@@ -12604,7 +12604,7 @@
       ]
     },
     {
-      "name": "Wraith Cannon",
+      "name": "Wraith Geschütz",
       "modes": [
         {
           "firepower": "MW5+",
@@ -12636,7 +12636,7 @@
       ]
     },
     {
-      "name": "Wraith Claws",
+      "name": "Wraith Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -12817,7 +12817,7 @@
       ]
     },
     {
-      "name": "Onslaught Gatling Cannon",
+      "name": "Onslaught Gatling Geschütz",
       "modes": [
         {
           "firepower": "3x AP6+/AT6+",
@@ -12826,7 +12826,7 @@
       ]
     },
     {
-      "name": "Onslaught Heavy Gatling Cannon",
+      "name": "Onslaught Heavy Gatling Geschütz",
       "modes": [
         {
           "firepower": "3x AP5+/AT5+",
@@ -12914,7 +12914,7 @@
       ]
     },
     {
-      "name": "Macro-Accelerator Cannon",
+      "name": "Macro-Accelerator Geschütz",
       "modes": [
         {
           "firepower": "2x MW3+",
@@ -12989,7 +12989,7 @@
       "description": "Lightning Charge"
     },
     {
-      "name": "Left",
+      "name": "Links",
       "description": "Left Arc"
     },
     {
@@ -13009,7 +13009,7 @@
       "description": "Necron Portal"
     },
     {
-      "name": "Right",
+      "name": "Rechts",
       "description": "Right Arc"
     },
     {
@@ -13033,8 +13033,8 @@
       "description": "Single Shot"
     },
     {
-      "name": "Shield Piercer",
-      "description": "Shield Piercer"
+      "name": "Schildbohrer",
+      "description": "Schildbohrer"
     },
     {
       "name": "Psybolts",

@@ -38,7 +38,7 @@
         "Coven Limousine",
         "Goliath Truck",
         "Goliath Rockgrinder",
-        "Haul Truck Cannon",
+        "Haul Truck Geschütz",
         "Assault Excavator"
       ],
       "unitRules": [
@@ -286,7 +286,7 @@
             "points": "125 points"
           },
           {
-            "description": "Haul Truck Cannon",
+            "description": "Haul Truck Geschütz",
             "points": "150 points"
           }
         ]

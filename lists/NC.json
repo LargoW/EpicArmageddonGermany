@@ -93,20 +93,20 @@
         ]
       },
       {
-        "name": "Flayed Ones",
+        "name": "Albträume",
         "type": "INF",
         "speed": 15,
         "armour": 5,
         "cc": 3,
         "weapons": [
-          "Claws"
+          "Klauen"
         ],
         "specialRules": [
           "Infiltrators",
           "Regeneration",
           "Teleport"
         ],
-        "notes": "'The Unbidden': Flayed Ones may only contest objectives, must start the game in the reserves, and may not use Necron Portals."
+        "notes": "'The Unbidden': Albträume may only contest objectives, must start the game in the reserves, and may not use Necron Portals."
       },
       {
         "name": "Immortals",
@@ -144,7 +144,7 @@
         "ff": 5,
         "weapons": [
           "Particle Beamer",
-          "Tomb Spyder Claws"
+          "Tomb Spyder Klauen"
         ],
         "specialRules": [
           "Fearless",
@@ -176,7 +176,7 @@
         "armour": 5,
         "cc": 4,
         "weapons": [
-          "Wraith Claws"
+          "Wraith Klauen"
         ],
         "specialRules": [
           "Fearless",
@@ -330,7 +330,7 @@
         "ff": 3,
         "weapons": [
           "Synchronisierter Tesla Destructor",
-          "Tesla Cannon"
+          "Tesla Geschütz"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -364,7 +364,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Necron Doomsday Cannon",
+          "Necron Doomsday Geschütz",
           "Gauss Flayers Array"
         ],
         "specialRules": [

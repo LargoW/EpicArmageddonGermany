@@ -299,7 +299,7 @@
         "armour": 5,
         "cc": 3,
         "weapons": [
-          "Claws and Fangs"
+          "Klauen und Zähne"
         ],
         "specialRules": [
         ]
@@ -381,7 +381,7 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Plasma Cannon|2"
+          "Plasma Geschütz|2"
         ]
       },
       {
@@ -393,7 +393,7 @@
         "ff": 5,
         "weapons": [
           "Drachenfeuer schwerer Bolter",
-          "Frag Cannon"
+          "Frag Geschütz"
         ]
       },
       {
@@ -523,7 +523,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Thunderfire Cannon"
+          "Thunderfire Geschütz"
         ],
         "specialRules": [
         ]
@@ -589,7 +589,7 @@
         "ff": 5,
         "weapons": [
           "Sturmkanone",
-          "Frag Cannon",
+          "Frag Geschütz",
           "Power Weapons"
         ],
         "specialRules": [
@@ -606,7 +606,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Cyclone Rakete Launchers",
+          "Cyclone Raketenwerfer",
           "Power Weapons"
         ],
         "specialRules": [
@@ -678,7 +678,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Flamer",
+          "Schwerer Flammenwerfer",
           "Hurricane Bolterystem",
           "Siege Drills"
         ],
@@ -1260,7 +1260,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Helfrost Cannon",
+          "Helfrost Geschütz",
           "Great Wolf Claw"
         ],
         "specialRules": [
@@ -1278,7 +1278,7 @@
         "ff": 5,
         "weapons": [
           "Power Fist",
-          "Frag Cannon"
+          "Frag Geschütz"
         ],
         "specialRules": [
           "Walker"
@@ -1325,7 +1325,7 @@
         "ff": 4,
         "weapons": [
           "Power Fist",
-          "Plasma Cannon"
+          "Plasma Geschütz"
         ],
         "specialRules": [
           "Walker"
@@ -1341,7 +1341,7 @@
         "ff": 5,
         "weapons": [
           "Power Fist",
-          "Frag Cannon"
+          "Frag Geschütz"
         ],
         "specialRules": [
           "Walker"
@@ -1407,7 +1407,7 @@
         "ff": 4,
         "weapons": [
           "Synchronisierter schwerer Bolter",
-          "Heavy Flamer",
+          "Schwerer Flammenwerfer",
           "Siege Drill"
         ],
         "specialRules": [
@@ -1435,7 +1435,7 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Predator Cannon",
+          "Predator Geschütz",
           "Schwerer Bolter|2"
         ]
       },
@@ -1462,8 +1462,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Flamestorm Cannon ",
-          "Heavy Flamer|2"
+          "Flamestorm Geschütz ",
+          "Schwerer Flammenwerfer|2"
         ],
         "specialRules": [
           "Lucifer Pattern Engine"
@@ -1781,7 +1781,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Flamestorm Cannon|2",
+          "Flamestorm Geschütz|2",
           "Synchronisierter Sturmkanone"
         ],
         "specialRules": [
@@ -1858,7 +1858,7 @@
         "weapons": [
           "Demolisher",
           "Synchronisierter Sturmkanone",
-          "Heavy Flamer|2"
+          "Schwerer Flammenwerfer|2"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -1874,7 +1874,7 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Thunderfire Cannon",
+          "Thunderfire Geschütz",
           "Synchronisierter Multi-Melta|2|"
         ],
         "specialRules": [
@@ -1984,7 +1984,7 @@
         "ff": 4,
         "weapons": [
           "Synchronisierte Laserkanone|2|",
-          "Synchronisierter Helfrost Cannon"
+          "Synchronisierter Helfrost Geschütz"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -2004,7 +2004,7 @@
           "Hyperios Launcher",
           "Synchronisierter schwerer Bolter|2|",
           "Rapier Laser Destroyer|0-2|",
-          "Thunderfire Cannon|0-2|"
+          "Thunderfire Geschütz|0-2|"
         ],
         "specialRules": [
           "Damage Capacity: 4",
@@ -2023,7 +2023,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Accelerator Cannon",
+          "Accelerator Geschütz",
           "Doppeltsynchronisierte Laserkanone|2|FxF",
           "Demolisher||FxF",
           "Synchronisierter schwerer Bolter||FxF"
@@ -2105,7 +2105,7 @@
         "weapons": [
           "AC Synchronisierte Laserkanone||FxF",
           "AC Synchronisierter schwerer Bolter||",
-          "Synchronisierter Helfrost Cannon||"
+          "Synchronisierter Helfrost Geschütz||"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -2225,7 +2225,7 @@
         "speed": "Fighter-Bomber",
         "armour": 5,
         "weapons": [
-          "AC Rift Cannon||FxF",
+          "AC Rift Geschütz||FxF",
           "AC Hurricane Bolterystem||FxF",
           "AC Stasis Bomb||FxF"
         ],
@@ -2239,7 +2239,7 @@
         "speed": "Bomber",
         "armour": 5,
         "weapons": [
-          "AC Synchronisierter Avenger Bolt Cannon||FxF",
+          "AC Synchronisierter Avenger Bolt Geschütz||FxF",
           "AC Rakete Array||FxF",
           "AC Doppeltsynchronisierter schwerer Bolter Turrets||"
         ],
@@ -2735,7 +2735,7 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Onslaught Gatling Cannon"
+          "Onslaught Gatling Geschütz"
         ]
       },
       {
@@ -2762,7 +2762,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Onslaught Heavy Gatling Cannon",
+          "Onslaught Heavy Gatling Geschütz",
           "Icarus Rocket Pods",
           "Power Fist"
         ],
@@ -2794,7 +2794,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Onslaught Gatling Cannon",
+          "Onslaught Gatling Geschütz",
           "Las-Talon"
         ],
         "specialRules": [
@@ -2834,7 +2834,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Onslaught Heavy Gatling Cannon"
+          "Onslaught Heavy Gatling Geschütz"
         ]
       },
       {
@@ -2876,7 +2876,7 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Macro-Accelerator Cannon",
+          "Macro-Accelerator Geschütz",
           "Plasma Eradicator|2|FxF",
           "Synchronisierter schwerer Bolter||FxF"
         ],
